@@ -1,5 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 title: Portal de Biodiversidad de Guatemala
+logo: "/static/imagenes/LogoPortalFotos.jpg"
 description: Documentación para el Portal de Biodiversidad de Guatemala
 
 permalink: pretty
