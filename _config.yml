@@ -88,3 +88,5 @@ compress_html:
   # ignore:
   #   envs: all
 
+
+theme: jekyll-theme-cayman
