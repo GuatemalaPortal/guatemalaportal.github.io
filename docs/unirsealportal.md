@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Unirse al Portal
 nav_order: 2
 ---
 
