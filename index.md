@@ -6,8 +6,6 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-[<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="400" height="400">](https://biodiversidad.gt/portal/)
-
 # Documentación para el Portal de Biodiversidad de Guatemala
 {: .fs-9 }
 
@@ -16,6 +14,7 @@ En esta página pueden encontrar la documentación básica para la utilización 
 
 [Ir al Portal de Biodiversidad de Guatemala](https://biodiversidad.gt){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Ir a Symbiota](https://symbiota.org){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/MapaColecciones.jpg?raw=true" alt="Logo">](https://biodiversidad.gt/portal/)
 ---
 
 ## Acerca del Portal de Biodiversidad de Guatemala
