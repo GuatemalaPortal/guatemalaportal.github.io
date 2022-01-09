@@ -16,15 +16,19 @@ nav_order: 3
 
 ---
 
+<div class="code-example" markdown="1">
+Colecciones en vivo
+{: .label .label-blue }
+
+Administradores
+{: .label .label-green }
+
+Editores
+{: .label .label-purple }
+</div>
+
 ## Formulario de ingreso de datos
 {: .d-inline-block }
-
-Colecciones en Vivo
-{: .label .label-green }
-Administradores 
-{: .label .label-red }
-Editores 
-{: .label .label-orange }
 
 El formulario de ingreso de datos es una de las características principales de las colecciones manejadas en vivo. Aquí pueden transcribirse directamente los datos que encontramos en las etiquetas de los especímenes, para digitalizarlos.
 
