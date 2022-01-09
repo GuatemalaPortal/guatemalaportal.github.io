@@ -12,7 +12,7 @@ permalink: /
 En esta página pueden encontrar la documentación básica para la utilización del Portal de Biodiversidad de Guatemala.
 {: .fs-6 .fw-300 }
 
-[Acerca del Portal de Biodversidad](#acerca-del-portal-de-biodiversidad){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Ir al Portal de Biodiversidad de Guatemala](https://biodiversidad.gt){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Ir al Portal de Biodiversidad de Guatemala](https://biodiversidad.gt){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Ir a Symbiota](https://symbiota.org){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
