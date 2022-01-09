@@ -2,9 +2,16 @@
 layout: default
 title: Ingreso de Datos
 nav_order: 3
+has_children: true
+permalink: /docs/ingresodatos
 ---
 
+
 # Ingreso de datos en el Portal de Biodiversidad 
+
+To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+{: .fs-6 .fw-300 }
+
 
 {: .no_toc }
 
