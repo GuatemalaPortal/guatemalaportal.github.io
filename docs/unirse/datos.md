@@ -10,7 +10,7 @@ nav_order: 1
 {: .no_toc }
 
 
-Existen tres tipos de datos de biodiversidad que pueden ser manejados en el Portal. Todos son registros de ocurrencias de organismos, pero dependen del origen de la información: especímenes preservados, especímenes en colecciones vivas (p.e. jardines botánicos), u observaciones de especímenes vivos (con evidencia fotográfica).
+Existen tres tipos de datos de biodiversidad que pueden ser manejados en el Portal. Todos son registros de ocurrencias de organismos, pero su clasificación depende del origen de la información. 
 {: .fs-6 .fw-300 }
 
 
@@ -42,10 +42,6 @@ Se refiere a registros esporádicos, realizados al observar un organismo en esta
 
 Fotografía: María José Chang. Colección Fotográfica UVGF.
 {: .fs-1 }
-</div>
-
-<div class="code-example" markdown="1">
-
 
 
 
