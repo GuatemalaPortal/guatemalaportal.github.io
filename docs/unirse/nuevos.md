@@ -36,7 +36,7 @@ Dependiendo de las actividades realizadas dentro del Portal de Biodiversidad, lo
 
 **- Usuarios generales:** Únicamente desean explorar los datos contenidos en el Portal. No necesitan realizar más acciones.
 
-**- Encargados de colecciones:** Desean formar parte del Portal de Biodiversidad. Pueden solicitar uno o varios [perfiles de manejo de colecciones](https://guatemalaportal.github.io/docs/colecciones) a los **administradores del Portal**.
+**- Encargados de colecciones:** Desean formar parte del Portal de Biodiversidad. Pueden solicitar uno o varios [perfiles de manejo de colecciones](https://guatemalaportal.github.io/docs/colecciones/perfiles) a los **administradores del Portal**.
 
 **- Integrantes de colecciones:** Desean formar parte de alguno de los perfiles de colecciones existentes. Pueden solicitar [permisos](https://guatemalaportal.github.io/docs/colecciones/permisos) de acceso a los encargados o **administradores de las colecciones** de su interés.
 
