@@ -40,7 +40,7 @@ Con el usuario activado, solicitar la creación del perfil de la colección a un
 - Nombre y contacto del curador.
 - [Tipo de perfil](https://guatemalaportal.github.io/docs/unirse/perfiles/) que desea generar.
 
-Una vez generado el perfil, el solicitante será añadido como **administrador del perfil** y podrá iniciar con el [ingreso de datos](https://guatemalaportal.github.io/docs/ingresodatos/ingresodatos/).
+Una vez generado el perfil, el solicitante será añadido como **administrador del perfil** y podrá iniciar con el [ingreso de datos](https://guatemalaportal.github.io/docs/ingresodatos/ingresodatos).
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PerfilColecci%C3%B3n.jpg?raw=true" alt="Perfil de Colección" >
 
