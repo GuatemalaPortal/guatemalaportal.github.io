@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Formulario de Ingreso de Datos
+title: Ingreso directo de datos
 parent: Ingreso de Datos
 nav_order: 1
 ---
 
-# Formulario de ingreso de datos
+# Ingreso directo de datos
 {: .no_toc }
 
 ## Table of contents
@@ -16,7 +16,7 @@ nav_order: 1
 
 ---
 
-## Formulario
+## Formulario de ingreso de datos
 
 <div class="code-example" markdown="1">
 Colecciones en vivo
@@ -29,14 +29,12 @@ Editores
 {: .label .label-purple }
 </div>
 
-## Formulario de ingreso de datos
-{: .d-inline-block }
 
 El formulario de ingreso de datos es una de las características principales de las colecciones manejadas en vivo. Aquí pueden transcribirse directamente los datos que encontramos en las etiquetas de los especímenes, para digitalizarlos.
 
 **Unicamente los administradores y editores de cada colección tienen acceso a este formulario. **
 
-### Para ingresar: 
+### Para abrir el formulario: 
 - Dirigirse al [Portal de Biodiversidad](https://biodiversidad.gt) e iniciar sesión.
 - Una vez en el portal, ir a **“Mi Perfil”** (My profile).
 - En “Mi Perfil”, seleccionar **"Manejo de Especímenes"** (Specimen Management).
