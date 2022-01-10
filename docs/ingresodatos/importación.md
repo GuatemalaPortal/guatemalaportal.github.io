@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Importación de Datos
+title: Importación de datos
+parent: Ingreso de Datos
 nav_order: 2
-permalink: /docs/ingresodatos/
 ---
 
 ---
