@@ -8,7 +8,7 @@ permalink: /docs/unirse
 
 # Nuevos Usuarios
 
-Todos los encargados de colecciones biológicas legalmente establecidas en instituciones guatemaltecas, u organizaciones científicas dedicadas a monitoreos biológicos, pueden solicitar un perfil virtual para el manejo de datos de biodiversidad. A continuación se describen los aspectos que deben tenerse en cuenta antes de solicitar un perfil para su colección.
+Todos las personas interesadas pueden crear una cuenta en el Portal de Biodiversidad. Una cuenta no es necesaria para explorar la información contenida en el sitio, pero le permitirá a los miembros realizar operaciones adicionales, como dejar comentarios en las fichas de los registros, o generar listados de especies. Los curadores o encargados de coleccione, además, pueden solicitar [perfiles de manejo de colecciones](https://guatemalaportal.github.io/docs/colecciones).
 {: .fs-6 .fw-300 }
 
 ## Tabla de contenido
@@ -26,3 +26,15 @@ Todos los encargados de colecciones biológicas legalmente establecidas en insti
 - Resolver el captcha y seleccionar la casilla **"No soy un robot"**.
 - Su usuario ha sido generado.
 - Para ingresar al portal debe ingresar su **usuario** (login) y la **contraseña**. No confundir el login con el correo electrónico.
+
+<div class="code-example" markdown="1">
+
+## Tipos de usuario
+
+Dependiendo de las actividades realizadas dentro del Portal de Biodiversidad, los usuarios pueden considerarse como:
+
+- Usuarios generales: Únicamente desean explorar los datos contenidos en el Portal. No necesitan realizar más acciones.
+- Encargados de colecciones: Desean formar parte del Portal de Biodiversidad. Pueden solicitar uno o varios [perfiles de manejo de colecciones](https://guatemalaportal.github.io/docs/colecciones) a los **administradores del Portal**.
+- Integrantes de colecciones: Desean formar parte de alguno de los perfiles de colecciones existentes. Pueden solicitar [permisos](https://guatemalaportal.github.io/docs/colecciones/permisos) de acceso a los encargados o **administradores de las colecciones** de su interés.
+
+</div>
