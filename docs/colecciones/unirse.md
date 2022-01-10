@@ -20,6 +20,7 @@ Una vez hayan evaluado el tipo de datos que poseen sus colecciones (i.e. especí
 1. TOC
 {:toc}
 
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal.jpg?raw=true" alt="Portal" >
 
 ## Crear un usuario
 
