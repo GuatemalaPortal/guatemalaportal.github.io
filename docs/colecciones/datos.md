@@ -11,7 +11,7 @@ nav_order: 1
 
 
 Existen tres tipos de datos de biodiversidad que pueden ser manejados en el Portal. Todos son registros de ocurrencias de organismos, pero su clasificación depende del origen de la información. 
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 
 
 ## Tabla de contenido
