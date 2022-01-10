@@ -5,13 +5,6 @@ parent: Ingreso de Datos
 nav_order: 2
 ---
 
----
-layout: default
-title: Ingreso directo de datos
-parent: Ingreso de Datos
-nav_order: 2
----
-
 # Importación de datos de fuentes externas
 {: .no_toc }
 
@@ -27,7 +20,7 @@ Administradores
 
 </div>
 
-Si los encargados de colecciones ya cuentan con una base de datos externa, es posible importarla hacia el perfil en el Portal de Biodiversidad. La importación puede hacerse a partir de archivos de texto, archivos Darwin Core, o mediante una importación directa desde plataformas externas. 
+Si los encargados de colecciones ya cuentan con una base de datos externa, es posible importarla hacia el perfil en el Portal de Biodiversidad. La importación puede hacerse a partir de archivos de texto, archivos Darwin Core, o mediante una importación directa desde plataformas externas.  
 
 **Únicamente los administradores de las colecciones tienen permisos para importar datos.**
 
