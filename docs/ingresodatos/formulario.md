@@ -45,6 +45,7 @@ El ingreso directo de datos es una de las características principales de las co
 Notar que cada sección de campos puede expandirse, dando click en el ícono del lápiz.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Formulario.jpg?raw=true" >
+
 ### Descripción de los campos de datos 
 
 El formulario de ingreso del Portal de Biodiversidad de Guatemala (y del resto de portales Symbiota) está basado en el estándar para datos de biodiversidad **Darwin Core**. Cada campo debe contener información específica, en cierto formato para cumplir con el estándar. Es importante mencionar que no es necesario rellenar todos los campos si no se conocen. A continuación se describe el contenido de cada uno de los campos del formulario:
