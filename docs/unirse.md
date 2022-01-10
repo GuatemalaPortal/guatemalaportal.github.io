@@ -60,6 +60,8 @@ Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Po
 
 Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local.
 
+<div class="code-example" markdown="1">
+
 ## Tipos de datos aceptados
 
 Existen tres tipos de datos de biodiversidad que pueden ser manejados en el Portal. Todos son registros de ocurrencias de organismos, pero dependen del origen de la información: especímenes preservados, especímenes en colecciones vivas (p.e. jardines botánicos), u observaciones de especímenes vivos (con evidencia fotográfica).
@@ -82,9 +84,12 @@ Similares a los registros de especímenes preservados, pero la información prov
 Se refiere a registros esporádicos, realizados al observar un organismo en estado silvestre. Requieren de evidencia fotográfica (o imágenes extraídas de un video), como evidencia, ya que los organismos no son capturados. 
 
 [<img src="https://csvcoll.org/imglib/verte/UVG_UVGF/UVGF000/MJCA_Coleonyxelegans_1599598885.jpg" alt="Logo" width="300" height="200">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=7672&clid=0)
+</div>
 
+<div class="code-example" markdown="1">
 Fotografía: María José Chang. Colección Fotográfica UVGF.
 {: .fs-1 }
+</div>
 
 <div class="code-example" markdown="1">
 
@@ -100,3 +105,5 @@ Tienen acceso a todas las funciones de ingreso y edición de datos. Además pued
 **- Editores del perfil**
 
 Tienen acceso a todas las funciones de ingreso y edición de datos. No pueden otorgar permisos a otros usuarios, eliminar registros, ni editar la información de la colección.
+
+</div>
