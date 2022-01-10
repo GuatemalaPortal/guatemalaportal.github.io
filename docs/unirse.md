@@ -47,7 +47,7 @@ Todos los encargados de colecciones biológicas legalmente establecidas en insti
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PerfilColecci%C3%B3n.jpg?raw=true" alt="Perfil de Colección" >
 
-
+<div class="code-example" markdown="1">
 ## Tipos de perfiles de colección
 
 Existen dos tipos de perfiles de colección que pueden ser solicitados en el Portal de Biodiversidad, dependiendo del manejo que se le de a los datos.
@@ -59,6 +59,8 @@ Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Po
 **- Perfiles snapshot**
 
 Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local.
+</div>
+
 
 <div class="code-example" markdown="1">
 
@@ -84,9 +86,7 @@ Similares a los registros de especímenes preservados, pero la información prov
 Se refiere a registros esporádicos, realizados al observar un organismo en estado silvestre. Requieren de evidencia fotográfica (o imágenes extraídas de un video), como evidencia, ya que los organismos no son capturados. 
 
 [<img src="https://csvcoll.org/imglib/verte/UVG_UVGF/UVGF000/MJCA_Coleonyxelegans_1599598885.jpg" alt="Logo" width="300" height="200">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=7672&clid=0)
-</div>
 
-<div class="code-example" markdown="1">
 Fotografía: María José Chang. Colección Fotográfica UVGF.
 {: .fs-1 }
 </div>
