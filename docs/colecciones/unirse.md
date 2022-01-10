@@ -10,7 +10,7 @@ nav_order: 4
 {: .no_toc }
 
 
-Una vez hayan evaluado el tipo de datos que sus poseen sus colecciones (i.e. especímenes u observaciones), y el tipo de manejo que quieren utilizar (i.e. manejo en vivo o snapshot), los curadores o encargados de colecciones están listos para solicitar un perfil. 
+Una vez hayan evaluado el tipo de datos que poseen sus colecciones (i.e. especímenes u observaciones), y el tipo de manejo que quieren utilizar (i.e. manejo en vivo o snapshot), los curadores o encargados de colecciones están listos para solicitar un perfil. 
 {: .fs-5 .fw-300 }
 
 
