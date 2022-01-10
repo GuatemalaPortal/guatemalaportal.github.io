@@ -82,10 +82,11 @@ Similares a los registros de especímenes preservados, pero la información prov
 Se refiere a registros esporádicos, realizados al observar un organismo en estado silvestre. Requieren de evidencia fotográfica (o imágenes extraídas de un video), como evidencia, ya que los organismos no son capturados. 
 
 [<img src="https://csvcoll.org/imglib/verte/UVG_UVGF/UVGF000/MJCA_Coleonyxelegans_1599598885.jpg" alt="Logo" width="300" height="200">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=7672&clid=0)
-<div class="code-example" markdown="1">
 
 Fotografía: María José Chang. Colección Fotográfica UVGF.
 {: .fs-1 }
+
+<div class="code-example" markdown="1">
 
 ## Tipos de permisos en los perfiles
 
