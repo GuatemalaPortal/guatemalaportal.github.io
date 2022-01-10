@@ -60,6 +60,26 @@ Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Po
 
 Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local.
 
+## Tipos de datos aceptados
+
+Existen tres tipos de datos de biodiversidad que pueden ser manejados en el Portal. Todos son registros de ocurrencias de organismos, pero dependen del origen de la información: especímenes preservados, especímenes en colecciones vivas (p.e. jardines botánicos), u observaciones de especímenes vivos (con evidencia fotográfica).
+
+**- Registros con especímenes preservados**
+
+Es el principal tipo de datos manejados dentro del Portal de Biodiversidad. Estos registros conisten en información contenida en etiquetas de specímenes depositados en colecciones científicas. Pueden incluir fotografías, pero no es requisito para ingresar los datos.
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Especimen.jpg?raw=true" alt="Especimen" width="300" height="200">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=8126&clid=0)
+
+**- Registros con especímenes en colecciones vivas**
+
+Similares a los registros de especímenes preservados, pero la información proviene de ejemplares vivos en colecciones institucionales. Un ejemplo son los jardines botánicos que contienen ejemplares botánicos vivos. Es necesario que contengan evidencia fotográfica.
+
+**- Registros con observaciones**
+
+Se refiere a registros esporádicos, realizados al observar un organismo en estado silvestre. Requieren de evidencia fotográfica (o imágenes extraídas de un video), como evidencia, ya que los organismos no son capturados. 
+
+[<img src="https://csvcoll.org/imglib/verte/UVG_UVGF/UVGF000/MJCA_Coleonyxelegans_1599598885.jpg" alt="Logo" width="200" height="200">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=7672&clid=0)
+
 ## Tipos de permisos en los perfiles
 
 Únicamente los curadores pueden solicitar la generación de un perfil de colección, y son agregados automáticamente como administradores del perfil. Sin embargo, existe la posibilidad de agregar más usuarios en los perfiles, con distintos tipo de acceso. 
