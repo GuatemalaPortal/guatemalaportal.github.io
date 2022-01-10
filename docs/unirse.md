@@ -69,8 +69,9 @@ Existen tres tipos de datos de biodiversidad que pueden ser manejados en el Port
 Es el principal tipo de datos manejados dentro del Portal de Biodiversidad. Estos registros conisten en información contenida en etiquetas de specímenes depositados en colecciones científicas. Pueden incluir fotografías, pero no es requisito para ingresar los datos.
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Especimen.jpg?raw=true" alt="Especimen" width="300" height="200">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=8126&clid=0)
-|--|
-|Fotografía: Julio Ayala. Colección de Artrópodos UVGC.|
+
+Fotografía: Julio Ayala. Colección de Artrópodos UVGC.
+{: .fs-1 }
 
 **- Registros con especímenes en colecciones vivas**
 
@@ -81,8 +82,10 @@ Similares a los registros de especímenes preservados, pero la información prov
 Se refiere a registros esporádicos, realizados al observar un organismo en estado silvestre. Requieren de evidencia fotográfica (o imágenes extraídas de un video), como evidencia, ya que los organismos no son capturados. 
 
 [<img src="https://csvcoll.org/imglib/verte/UVG_UVGF/UVGF000/MJCA_Coleonyxelegans_1599598885.jpg" alt="Logo" width="300" height="200">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=7672&clid=0)
-|--|
-|Fotografía: María José Chang. Colección Fotográfica UVGF.|
+<div class="code-example" markdown="1">
+
+Fotografía: María José Chang. Colección Fotográfica UVGF.
+{: .fs-1 }
 
 ## Tipos de permisos en los perfiles
 
