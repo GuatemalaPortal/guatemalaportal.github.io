@@ -14,7 +14,7 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal
 El Portal de Biodiversidad ha estado activo desde septiembre de 2020. 
 
 ## ¿Quiénes integran el Portal de Biodiversidad de Guatemala?
-Hasta inicios de 2022, el Portal cuenta con la participación de 27 colecciones de la [Universidad del Valle de Guatemala](https://linktr.ee/coleccionesuvg), la [Universidad de San Carlos de Guatemala](https://cbm.ccqqfar.usac.edu.gt/), y el Centro Universitario de Zacapa. 
+Hasta inicios de 2022, el Portal cuenta con la participación de 27 colecciones de la [Universidad del Valle de Guatemala](https://linktr.ee/coleccionesuvg), la [Universidad de San Carlos de Guatemala](https://cbm.ccqqfar.usac.edu.gt/), y el Centro Universitario de Zacapa. El Portal se encuentra en funcionamiento gracias al apoyo del equipo informático de Arizona State University.
 
 ## ¿Quiénes pueden utilizar el Portal de Biodiversidad de Guatemala?
 
