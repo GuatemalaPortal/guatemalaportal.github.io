@@ -34,7 +34,7 @@ El formulario de ingreso de datos es una de las características principales de 
 
 **Unicamente los administradores y editores de cada colección tienen acceso a este formulario. **
 
-### Para abrir el formulario: 
+### Para abrir el formulario 
 - Dirigirse al [Portal de Biodiversidad](https://biodiversidad.gt) e iniciar sesión.
 - Una vez en el portal, ir a **“Mi Perfil”** (My profile).
 - En “Mi Perfil”, seleccionar **"Manejo de Especímenes"** (Specimen Management).
