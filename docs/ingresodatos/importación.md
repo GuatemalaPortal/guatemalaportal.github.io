@@ -12,7 +12,7 @@ nav_order: 2
 Colecciones en vivo
 {: .label .label-blue }
 
-Colecciones en snapshot
+Colecciones snapshot
 {: .label .label-yellow }
 
 Administradores
