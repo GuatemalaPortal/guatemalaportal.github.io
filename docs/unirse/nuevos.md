@@ -17,6 +17,7 @@ Todos las personas interesadas pueden crear una cuenta en el Portal de Biodivers
 1. TOC
 {:toc}
 
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal.jpg?raw=true" alt="Portal" >
 
 ## Crear un usuario
 
