@@ -13,7 +13,7 @@ En esta página pueden encontrar la documentación básica para el manejo de col
 {: .fs-6 .fw-300 }
 
 [Unirse al Portal de Biodiversidad](https://guatemalaportal.github.io/docs/unirse/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Acerca del Portal de Biodiversidad](https://guatemalaportal.github.io/docs/acerca/){: .btn .fs-5 .mb-4 .mb-md-0 } 
-[Ir al Portal de Biodiversidad](https://biodiversidad.gt){: .btn .fs-5 .mb-4 .mb-md-0 .mr-3 } 
+[Ir al Portal de Biodiversidad](https://biodiversidad.gt){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/MapaColecciones.jpg?raw=true" alt="Logo">](https://biodiversidad.gt/portal/)
