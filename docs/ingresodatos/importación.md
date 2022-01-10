@@ -15,16 +15,6 @@ nav_order: 2
 # Importación de datos de fuentes externas
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-## Importación de archivos de texto
-
 <div class="code-example" markdown="1">
 Colecciones en vivo
 {: .label .label-blue }
@@ -41,7 +31,16 @@ Si los encargados de colecciones ya cuentan con una base de datos externa, es po
 
 **Únicamente los administradores de las colecciones tienen permisos para importar datos.**
 
-### Para importar datos
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Importación de archivos de texto
+
 - Dirigirse al [Portal de Biodiversidad](https://biodiversidad.gt) e iniciar sesión.
 - Una vez en el portal, ir a **“Mi Perfil”** (My profile).
 - En “Mi Perfil”, seleccionar **"Manejo de Especímenes"** (Specimen Management).
