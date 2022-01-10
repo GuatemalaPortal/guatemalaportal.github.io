@@ -8,7 +8,7 @@ nav_order: 6
 [Symbiota](http://symbiota.org){: .btn .btn-green }
 
 # Documentos Symbiota
-[Symbiota Docs](http://symbiota.org/docs){: .btn .btn-green }
+[Symbiota Docs](http://symbiota.org/docs/es){: .btn .btn-green }
 
 # Canal de YouTube Symbiota
 [Canal Symbiota](https://www.youtube.com/channel/UC7glMVLRnTA6ES3VTsci7iQ){: .btn .btn-green }
