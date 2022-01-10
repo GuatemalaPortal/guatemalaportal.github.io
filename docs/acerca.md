@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acerca del Portal de Biodiversidad
+title: Acerca del Portal 
 nav_order: 5
 ---
 # Acerca del Portal de Biodiversidad de Guatemala
