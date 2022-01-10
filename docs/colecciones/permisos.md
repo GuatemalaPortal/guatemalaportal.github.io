@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tipos de Permisos
-parent: Nuevos Usuarios
+parent: Solicitud de Perfiles
 nav_order: 3
 ---
 
