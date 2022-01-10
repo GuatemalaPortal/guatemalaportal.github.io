@@ -37,8 +37,6 @@ Todos los encargados de colecciones biológicas legalmente establecidas en insti
 
 ### Solicitar un perfil de colección
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PerfilColecci%C3%B3n.jpg?raw=true" alt="Perfil de Colección" >
-
 1. Con el usuario activado, solicitar la creación del perfil de la colección a uno de los administradores del portal, enviando la siguiente información: 
 - Nombre y acrónimo de la universidad o institución 
 - Nombre, acrónimo y descripción de la colección
@@ -47,6 +45,9 @@ Todos los encargados de colecciones biológicas legalmente establecidas en insti
 
 2. Una vez generado el perfil, el solicitante será añadido como **administrador del perfil** y podrá iniciar con el ingreso de datos.
 3. Dirigirse a la sección de **Documentos** y **Tutoriales**, para obtener más información acerca del manejo de datos. 
+
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PerfilColecci%C3%B3n.jpg?raw=true" alt="Perfil de Colección" >
+
 
 ## Tipos de perfiles de colección
 
