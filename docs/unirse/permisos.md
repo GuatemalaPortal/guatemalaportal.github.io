@@ -20,11 +20,11 @@ nav_order: 3
 {:toc}
 
 
-## Administradores del perfil**
+## Administradores del perfil
 
 Tienen acceso a todas las funciones de ingreso y edición de datos. Además pueden otorgar permisos a otros usuarios, eliminar registros, y editar la información de la colección.
 
-## Editores del perfil**
+## Editores del perfil
 
 Tienen acceso a todas las funciones de ingreso y edición de datos. No pueden otorgar permisos a otros usuarios, eliminar registros, ni editar la información de la colección.
 
