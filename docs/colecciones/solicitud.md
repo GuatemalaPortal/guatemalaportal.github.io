@@ -9,10 +9,8 @@ nav_order: 3
 # Solicitud de Perfiles de Colección
 {: .no_toc }
 
-
-Una vez hayan evaluado el tipo de datos que sus poseen sus colecciones (i.e. especímenes u observaciones), y el tipo de manejo que quieren utilizar (i.e. manejo en vivo o snapshot), los curadores o encargados de colecciones están listos para solicitar un perfil. 
+Todos los encargados de colecciones biológicas legalmente establecidas en instituciones guatemaltecas, u organizaciones científicas dedicadas a monitoreos biológicos, pueden solicitar un perfil virtual para el manejo de datos de biodiversidad. A continuación se describen los aspectos que deben tenerse en cuenta antes de solicitar un perfil para su colección.
 {: .fs-6 .fw-300 }
-
 
 ## Tabla de contenido
 {: .no_toc .text-delta }
