@@ -48,7 +48,8 @@ Si los encargados de colecciones ya cuentan con una base de datos externa, es po
 - Al ingresar en Manejo de Especímenes, seleccionar la colección en la que se desea trabajar en el recuadro de **"Manejo de Colecciones"** (Collection Management).
 - Al ingresar en la colección deseada, dirigirse al **Panel de Administración** y seleccionar **"Importar/Actualizar Registros de Especímenes"**. 
 
-<https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Importar%20registros.jpg?raw=true alt="Importación">
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Importar%20registros.jpg?raw=true" alt="Logo" >
+
 
 - Elegir **"Carga rápida de archivos".
 - Cargar un archivo .csv con los [campos requeridos](https://docs.google.com/spreadsheets/d/1umCUAUWjfFIhBObihmrv9zCIyunEb6tK7wB0bm1lCYY/edit#gid=0), o mapear los campos a los aceptados por el Portal (formato DarwinCore). 
