@@ -11,6 +11,10 @@ nav_order: 2
 Todos los encargados de colecciones biológicas legalmente establecidas en instituciones u organizaciones guatemaltecas, pueden solicitar un perfil virtual para el manejo de datos de biodiversidad.
 {: .fs-6 .fw-300 }
 
+
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal.jpg?raw=true" alt="Portal" >
+
+
 ## Tabla de contenido
 {: .no_toc .text-delta }
 
@@ -30,7 +34,10 @@ Todos los encargados de colecciones biológicas legalmente establecidas en insti
 5. Su usuario ha sido generado.
 6. Para ingresar al portal debe ingresar su **usuario** (login) y la **contraseña**. No confundir el login con el correo electrónico.
 
+
 ### Solicitar un perfil de colección
+
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PerfilColecci%C3%B3n.jpg?raw=true" alt="Perfil de Colección" >
 
 1. Con el usuario activado, solicitar la creación del perfil de la colección a uno de los administradores del portal, enviando la siguiente información: 
 - Nombre y acrónimo de la universidad o institución 
