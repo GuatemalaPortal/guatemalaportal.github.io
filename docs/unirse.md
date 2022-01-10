@@ -8,11 +8,9 @@ nav_order: 2
 {: .no_toc }
 
 
-Todos los encargados de colecciones biológicas legalmente establecidas en instituciones u organizaciones guatemaltecas, pueden solicitar un perfil virtual para el manejo de datos de biodiversidad.
+Todos los encargados de colecciones biológicas legalmente establecidas en instituciones guatemaltecas, u organizaciones científicas dedicadas a monitoreos biológicos, pueden solicitar un perfil virtual para el manejo de datos de biodiversidad. 
 {: .fs-6 .fw-300 }
 
-
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal.jpg?raw=true" alt="Portal" >
 
 
 ## Tabla de contenido
@@ -22,6 +20,7 @@ Todos los encargados de colecciones biológicas legalmente establecidas en insti
 {:toc}
 
 ---
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal.jpg?raw=true" alt="Portal" >
 
 ## Pasos para unirse al Portal de Biodiversidad
 
@@ -53,11 +52,11 @@ Todos los encargados de colecciones biológicas legalmente establecidas en insti
 
 Existen dos tipos de perfiles de colección que pueden ser solicitados en el Portal de Biodiversidad, dependiendo del manejo que se le de a los datos.
 
-### Perfiles en vivo
+**- Perfiles en vivo**
 
 Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Portal de Biodiversidad. Los administradores de estos perfiles tienen acceso a todas las herramientas de edición disponibles dentro del Portalde Biodiversidad.
 
-### Perfiles snapshot
+**- Perfiles snapshot**
 
 Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local.
 
@@ -66,10 +65,10 @@ Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes 
 Únicamente los curadores pueden solicitar la generación de un perfil de colección, y son agregados automáticamente como administradores del perfil. Sin embargo, existe la posibilidad de agregar más usuarios en los perfiles, con distintos tipo de acceso. 
 
 
-### Administradores del perfil
+**- Administradores del perfil**
 
 Tienen acceso a todas las funciones de ingreso y edición de datos. Además pueden otorgar permisos a otros usuarios, eliminar registros, y editar la información de la colección.
 
-### Editores del perfil
+**- Editores del perfil**
 
 Tienen acceso a todas las funciones de ingreso y edición de datos. No pueden otorgar permisos a otros usuarios, eliminar registros, ni editar la información de la colección.
