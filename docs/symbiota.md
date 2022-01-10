@@ -5,7 +5,7 @@ nav_order: 6
 ---
 
 # Sitio principal Symbiota
-[Symbiota Docs](http://symbiota.org){: .btn .btn-green }
+[Symbiota](http://symbiota.org){: .btn .btn-green }
 
 # Documentos Symbiota
 [Symbiota Docs](http://symbiota.org/docs){: .btn .btn-green }
