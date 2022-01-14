@@ -2,7 +2,7 @@
 layout: default
 title: Importación de datos
 parent: Ingreso de Datos
-grandparent: Primeros Pasos para Colecciones
+grandparent: Primeros Pasos para Colecciones en el Portal
 nav_order: 2
 ---
 
