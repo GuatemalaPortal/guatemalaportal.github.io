@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ingreso de Datos
+parent: Primeros Pasos 
 nav_order: 1
 has_children: true
-parent: Primeros Pasos 
 permalink: /docs/ingresodatos
 ---
 
