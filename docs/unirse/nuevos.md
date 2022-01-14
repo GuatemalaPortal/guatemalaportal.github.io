@@ -34,7 +34,7 @@ Todos las personas interesadas pueden crear una cuenta en el Portal de Biodivers
 
 Dependiendo de las actividades realizadas dentro del Portal de Biodiversidad, los usuarios pueden considerarse como:
 
-**- Usuarios generales:** Únicamente desean explorar los datos contenidos en el Portal. No necesitan realizar más acciones.
+**- Usuarios generales:** Únicamente desean explorar los datos contenidos en el Portal. No necesitan realizar más acciones luego de generar su cuenta.
 
 **- Encargados de colecciones:** Desean formar parte del Portal de Biodiversidad. Pueden solicitar uno o varios [perfiles de manejo de colecciones](https://guatemalaportal.github.io/docs/colecciones/perfiles) a los **administradores del Portal**.
 
