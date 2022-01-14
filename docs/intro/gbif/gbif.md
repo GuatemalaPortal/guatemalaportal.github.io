@@ -15,7 +15,7 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) está progra
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GBIFINSTA.jpg?raw=true" alt="Instalación GBIF">
 
-Para activar la opción de exportación de datos a GBIF, es necesario realizar algunos trámites previos con GBIF, que se describen a continuación.
+Para activar la opción de exportación de datos a GBIF, es necesario realizar algunos trámites previos, que se describen a continuación.
 
 ## Requisitos 
 
