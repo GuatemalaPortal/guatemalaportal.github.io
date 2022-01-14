@@ -4,7 +4,7 @@ title: Ingreso de Datos
 parent: Primeros Pasos 
 nav_order: 1
 has_children: true
-permalink: /docs/ingresodatos
+permalink: /docs/intro/ingresodatos
 ---
 
 
