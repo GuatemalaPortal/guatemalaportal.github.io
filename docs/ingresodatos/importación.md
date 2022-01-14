@@ -43,7 +43,7 @@ Si los encargados de colecciones ya cuentan con una base de datos externa, es po
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Importar%20registros.jpg?raw=true" alt="Logo" >
 
 
-- Elegir **"Carga rápida de archivos".
+- Elegir **"Carga rápida de archivos"**.
 - Cargar un archivo .csv con los [campos requeridos](https://docs.google.com/spreadsheets/d/1umCUAUWjfFIhBObihmrv9zCIyunEb6tK7wB0bm1lCYY/edit#gid=0), o mapear los campos a los aceptados por el Portal (formato DarwinCore). 
 - Seleccionar “Match on Catalog Number” para evitar duplicados, en caso de que el registro ya estuviera ingresado previamente. Seleccionar “Start Upload” para cargar el archivo.
 - Finalmente, seleccionar “Transfer Records to Central Specimen Table” .
