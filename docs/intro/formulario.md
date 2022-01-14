@@ -3,7 +3,7 @@ layout: default
 title: Ingreso directo de datos
 parent: Ingreso de Datos
 grand_parent: Primeros Pasos para Colecciones en el Portal
-nav_order: 2
+nav_order: 1
 ---
 
 # Ingreso directo de datos
