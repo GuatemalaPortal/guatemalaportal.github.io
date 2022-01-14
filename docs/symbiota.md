@@ -15,7 +15,7 @@ Cada uno de los portales de Symbiota permite la creación de perfiles de colecci
 
 Los portales de Symbiota están basados en el formato estandarizado Darwin Core [(Wieczorek et al., 2012)](https://doi.org/10.1371/journal.pone.0029715), que contiene todos los campos necesarios para realizar los registros de especímenes biológicos. Los portales de Symbiota despliegan estos campos de una forma amigable para los usuarios, e incluyen enlaces con la descripción de cada casilla. Datos como los nombres científicos, autores, familia, y nombre de los países están previamente cargados en las bases de datos, por lo que es más fácil seleccionarlos y evitar los errores de escritura.
 
-El formato Darwin Core, además, permite que los registros ingresados en los portales de Symbiota sean compatibles con otras bases de datos de biodiversidad, y con agregadores de información como [GBIF (Global Biodiversity Information Facility)](gbif.org), facilitando la incorporación de datos a estas plataformas globales (es necesario realizar una solicitud directamente con la plataforma de GBIF para integrar los datos digitalizados con Symbiota).
+El formato Darwin Core, además, permite que los registros ingresados en los portales de Symbiota sean compatibles con otras bases de datos de biodiversidad, y con agregadores de información como [GBIF (Global Biodiversity Information Facility)](https://gbif.org), facilitando la incorporación de datos a estas plataformas globales (es necesario realizar una solicitud directamente con la plataforma de GBIF para integrar los datos digitalizados con Symbiota).
 
 ## Recursos de Symbiota
 
