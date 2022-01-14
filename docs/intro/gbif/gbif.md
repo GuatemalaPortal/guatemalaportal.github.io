@@ -3,7 +3,6 @@ layout: default
 title: Publicación en GBIF
 parent: Primeros Pasos 
 nav_order: 3
-has_children: true
 ---
 
 
