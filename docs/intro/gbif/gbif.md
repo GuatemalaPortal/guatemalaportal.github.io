@@ -13,6 +13,8 @@ La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.or
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) está programado como una [instalación Symbiota](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) para exportar registros de ocurrencia hacia GBIF, por lo que las colecciones que lo integran, pueden utilizar esta herramienta para enviar sus datos a esta plataforma global. 
 
+https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GBIFINSTA.jpg?raw=true<
+
 Para activar la opción de exportación de datos a GBIF, es necesario realizar algunos trámites previos con GBIF, que se describen a continuación.
 
 ## Requisitos 
