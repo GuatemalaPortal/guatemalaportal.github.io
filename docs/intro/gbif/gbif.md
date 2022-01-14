@@ -21,7 +21,7 @@ Para activar la opción de exportación de datos a GBIF, es necesario realizar a
 
 1. Poseer un [perfil de colección](https://guatemalaportal.github.io/docs/colecciones/perfiles/) en vivo (preferiblemente) o snapshot en el Portal de Biodiversidad de Guatemala.
 2. Solicitar su [perfil de publicador](https://www.gbif.org/es/become-a-publisher) en GBIF, completando la información solicitada en el formulario. Se recomienda solicitar un perfil institucional y no perfiles individuales para cada colección. Ejemplos: [Universidad del Valle de Guatemala](https://www.gbif.org/publisher/5c1a4c27-795a-4294-aecc-46d7176706b7), [Escuela de Biología USAC](https://www.gbif.org/dataset/94ac7b77-fc60-4ce6-9994-93499027e274), [Centro de Estudios Conservacionistas USAC](https://www.gbif.org/dataset/d5ba665a-c07b-4379-85ff-15d7e3a9331a). 
-3. Una vez aprobado su perfil de publicador en GBIF, enviar una solicitud a los administradores del [Portal de Biodiversidad](https://biodiversidad.gt) para enlazar el perfil de su colección, al perfil de publicador GBIF al que desea exportar los datos.
+3. Una vez aprobado su perfil de publicador en GBIF, enviar una solicitud a los [administradores](https://guatemalaportal.github.io/docs/contactos/) del [Portal de Biodiversidad](https://biodiversidad.gt) para enlazar el perfil de su colección, al perfil de publicador GBIF al que desea exportar los datos.
 4. Una vez realizada esta operación, el perfil de la colección en el Portal de Biodiversidad va a tener la opción de enviar los datos a GBIF. 
 
 
