@@ -22,7 +22,7 @@ Una vez hayan evaluado el tipo de datos que poseen sus colecciones (i.e. especí
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal.jpg?raw=true" alt="Portal" >
 
-## Crear un usuario
+## Crear una cuenta
 
 - Ingresar al [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) y dirigirse a la esquina superior derecha para crear una **Nueva Cuenta**.
 - Agregar un usuario o _login_ (recomendamos el formato nombre.apellido), nombre, apellido, contraseña y un correo electrónico.
