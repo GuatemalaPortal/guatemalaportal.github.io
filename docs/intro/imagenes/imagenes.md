@@ -7,7 +7,7 @@ has_children: true
 ---
 
 
-# Ingreso de imágenes en el Portal de Biodiversidad 
+# Ingreso de Imágenes en el Portal de Biodiversidad 
 
 ¡Muy pronto!
 {: .fs-5 .fw-300 }
