@@ -3,6 +3,7 @@ layout: default
 title: Ingreso de Datos
 nav_order: 4
 has_children: true
+parent: Primeros Pasos para Colecciones en el Portal
 permalink: /docs/ingresodatos
 ---
 
