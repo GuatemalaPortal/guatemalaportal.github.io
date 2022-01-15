@@ -25,7 +25,7 @@ Si los encargados de colecciones ya cuentan con una base de datos externa, es po
 
 **Únicamente los administradores de las colecciones tienen permisos para importar datos.**
 
-## Table of contents
+## Contenido
 {: .no_toc .text-delta }
 
 1. TOC
