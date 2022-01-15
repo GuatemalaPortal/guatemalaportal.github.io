@@ -26,7 +26,7 @@ El ingreso directo de datos es una de las características principales de las co
 **Unicamente los administradores y editores de cada colección tienen acceso a ingresar datos directamente.**
 
 
-## Table of contents
+## Contenido
 {: .no_toc .text-delta }
 
 1. TOC
