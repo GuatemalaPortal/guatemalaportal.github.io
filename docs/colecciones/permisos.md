@@ -12,12 +12,15 @@ nav_order: 3
 Únicamente los curadores pueden solicitar la generación de un perfil de colección, y son agregados automáticamente como administradores del perfil. Sin embargo, existe la posibilidad de agregar más usuarios en los perfiles, con distintos tipo de acceso. 
 {: .fs-5 .fw-300 }
 
+---
 
 ## Table of Content
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+---
 
 
 ## Administradores del perfil
