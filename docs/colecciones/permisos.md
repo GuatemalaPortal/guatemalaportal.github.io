@@ -14,7 +14,7 @@ nav_order: 3
 
 ---
 
-## Table of Content
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
