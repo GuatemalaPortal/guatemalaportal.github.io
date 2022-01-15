@@ -13,13 +13,15 @@ nav_order: 2
 Existen dos tipos de perfiles de colección que pueden ser solicitados en el Portal de Biodiversidad, dependiendo del manejo que se le de a los datos.
 {: .fs-5 .fw-300 }
 
+---
 
-## Tabla de contenido
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
+---
 
 ## Perfiles en vivo
 
