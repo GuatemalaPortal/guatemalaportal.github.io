@@ -15,7 +15,7 @@ Existen tres tipos de datos de biodiversidad que pueden ser manejados en el Port
 
 ---
 
-## Table of Content
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
