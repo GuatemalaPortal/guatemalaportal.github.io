@@ -12,7 +12,7 @@ La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.or
 
 ---
 
-## Table of Content
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
