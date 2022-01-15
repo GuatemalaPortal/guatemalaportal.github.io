@@ -7,6 +7,8 @@ nav_order: 3
 
 
 # Publicación de Colecciones en GBIF
+La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.org) es un agregador de datos, que incorpora los registros digitalizados en distintas plataformas a nivel mundial. Esta plataforma está [financiada](https://www.gbif.org/what-is-gbif) por los gobiernos de los países miembros, incluyendo [Guatemala](https://www.gbif.org/country/GT/summary) desde diciembre de 2021.
+{: .fs-5 .fw-300 }
 
 ## Contenido
 {: .no_toc .text-delta }
@@ -15,8 +17,6 @@ nav_order: 3
 {:toc}
 
 ---
-
-La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.org) es un agregador de datos, que incorpora los registros digitalizados en distintas plataformas a nivel mundial. Esta plataforma está [financiada](https://www.gbif.org/what-is-gbif) por los gobiernos de los países miembros, incluyendo [Guatemala](https://www.gbif.org/country/GT/summary) desde diciembre de 2021.
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) está programado como una [instalación Symbiota](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) para exportar registros de ocurrencia hacia GBIF, por lo que las colecciones que lo integran, pueden utilizar esta herramienta para enviar sus datos a esta plataforma global. 
 
@@ -60,6 +60,4 @@ Para activar la opción de exportación de datos a GBIF, es necesario realizar a
 - [Colección de Porifera (USACPor)](https://www.gbif.org/dataset/7a0f4ed3-8ba7-4286-9edd-4408c80380ee): Ocurrencias, especímenes preservados.
 
 ### Centro de Estudios Conservacionistas, Universidad de San Carlos
-- [Herbario USCG-CECON (USCG)](url): Ocurrencias, especímenes preservados.
-
-{: .fs-5 .fw-300 }
+- [Herbario USCG-CECON (USCG)](https://www.gbif.org/dataset/d5ba665a-c07b-4379-85ff-15d7e3a9331a): Ocurrencias, especímenes preservados.
