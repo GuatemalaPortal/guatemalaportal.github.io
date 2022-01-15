@@ -13,12 +13,15 @@ nav_order: 4
 Una vez hayan evaluado el tipo de datos que poseen sus colecciones (i.e. especímenes u observaciones), y el tipo de manejo que quieren utilizar (i.e. manejo en vivo o snapshot), los curadores o encargados de colecciones están listos para solicitar un perfil. 
 {: .fs-5 .fw-300 }
 
+---
 
-## Tabla de contenido
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+---
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal.jpg?raw=true" alt="Portal" >
 
