@@ -11,5 +11,6 @@ El Portal de Biodiversidad cuenta con varias opciones de búsqueda de informaci�
 {: .fs-5 .fw-300 }
 
 ---
-Para más información acerca de la búsqueda de información, pueden dirigirse a este [tutorial](https://youtu.be/ZWF7ZwVcSwo) o a los [Documentos Symbiota](https://symbiota.org/docs/es/). Para integrar sus listados en alguno de los proyectos, contactar a los [administradores](https://guatemalaportal.github.io/docs/contactos/) del Portal.
+Para más información acerca de la búsqueda de información, pueden dirigirse a este [tutorial](https://youtu.be/ZWF7ZwVcSwo), o a los [Documentos Symbiota](https://symbiota.org/docs/es/). 
+
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portada%20videos.jpg?raw=true" alt="Tutorial Búsquedas">](https://youtu.be/ZWF7ZwVcSwo)
