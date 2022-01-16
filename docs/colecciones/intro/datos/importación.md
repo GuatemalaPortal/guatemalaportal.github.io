@@ -18,7 +18,6 @@ Colecciones snapshot
 
 Administradores
 {: .label .label-green }
-
 </div>
 
 Si los encargados de colecciones ya cuentan con una base de datos externa, es posible importarla hacia el perfil en el Portal de Biodiversidad. La importación puede hacerse a partir de archivos de texto, archivos Darwin Core, o mediante una importación directa desde plataformas externas. **Únicamente los administradores de las colecciones tienen permisos para importar datos.**
