@@ -6,7 +6,7 @@ nav_order: 6
 
 # Acerca de Symbiota
 Por Samanta Orellana
-{: .fs-1 .fw-300 }
+{: .fs-2 .fw-300 }
 
 [Symbiota](symbiota.org) es un software de libre acceso diseñado para generar portales virtuales de bases de datos de biodiversidad [(Gries, Gilbert & Franz, 2014)](https://doi.org/10.3897/BDJ.2.e1114). Los portales de Symbiota funcionan completamente en línea y están alojados en los servidores del Centro de Integración del Conocimiento de la Biodiversidad [BIOKIC](https://biokic.asu.edu/) de la Universidad Estatal de Arizona (ASU), en Estados Unidos. En sus inicios, este sistema centralizado fue ideado para contribuir con colecciones pequeñas o con recursos limitados, pero ha resultado de utilidad para una gran variedad de instituciones alrededor del mundo, incluyendo Latinoamérica. En la actualidad, se cuenta con algunos portales traducidos al español, para facilitar el acceso a las instituciones de esta y otras regiones hispanohablantes.
 
