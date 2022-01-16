@@ -18,5 +18,7 @@ El Portal de Biodiversidad cuenta con varios [Proyectos de Inventario](https://b
 Además, se incluye un proyecto de [Listados Institucionales](https://biodiversidad.gt/portal/projects/index.php?pid=4), donde se encuentran listados generados por instituciones y organizaciones dedicadas al estudio de la biodiversidad. 
 - [Catálogo de Autoridades Taxonómicas CDC-CECON](https://biodiversidad.gt/portal/checklists/checklist.php?clid=21&pid=4)
 
-Para más información acerca de la generación de listados de especies, pueden dirigirse al [tutorial](https://www.youtube.com/watch?v=onbvrSgfTRE) o a los Documentos Symbiota.
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CAT_CDC.jpg?raw=true" alt="CAT CDC">
+
+Para más información acerca de la generación de listados de especies, pueden dirigirse al [tutorial](https://www.youtube.com/watch?v=onbvrSgfTRE) o a los Documentos Symbiota. Para integrar sus listados en alguno de los proyectos, contactar a los [administradores](https://guatemalaportal.github.io/docs/contactos/) del Portal.
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Listados%20de%20especies.jpg?raw=true" alt="Tutorial Checklists">](https://www.youtube.com/watch?v=onbvrSgfTRE)
