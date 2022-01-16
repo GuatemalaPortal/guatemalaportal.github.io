@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tipos de Permisos
-parent: Solicitud de Perfiles
+parent: Perfiles de Colecciones
 nav_order: 3
 ---
 
