@@ -31,4 +31,9 @@ Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Po
 
 Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local.
 
+---
+
+Para más información acerca de los perfiles de manejo de colecciones, pueden dirigirse a este [tutorial](https://youtu.be/43wFaru9i10), a los [Documentos Symbiota](https://symbiota.org/docs/es/), o contactar a los [administradores](https://guatemalaportal.github.io/docs/contactos/) del Portal.
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portada%20Perfiles.jpg?raw=true" alt="Tutorial Checklists">](https://youtu.be/43wFaru9i10)
 
