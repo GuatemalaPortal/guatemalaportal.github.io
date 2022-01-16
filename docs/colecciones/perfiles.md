@@ -23,11 +23,19 @@ Existen dos tipos de perfiles de colección que pueden ser solicitados en el Por
 
 ---
 
-## Perfiles en vivo {: .label .label-blue }
+## Perfiles en vivo
+{: .d-inline-block }
+
+Colecciones en vivo
+{: .label .label-blue }
 
 Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Portal de Biodiversidad. Los administradores de estos perfiles tienen acceso a todas las herramientas de edición disponibles dentro del Portal de Biodiversidad.
 
-## Perfiles snapshot {: .label .label-yellow }
+## Perfiles snapshot 
+{: .d-inline-block }
+
+Colecciones snapshot
+{: .label .label-yellow }
 
 Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local.
 
