@@ -24,10 +24,18 @@ nav_order: 3
 
 
 ## Administradores del perfil
+{: .d-inline-block }
+
+Administradores
+{: .label .label-green }
 
 Tienen acceso a todas las funciones de ingreso y edición de datos. Además pueden otorgar permisos a otros usuarios, eliminar registros, y editar la información de la colección.
 
 ## Editores del perfil
+{: .d-inline-block }
+
+Editores
+{: .label .label-purple }
 
 Tienen acceso a todas las funciones de ingreso y edición de datos. No pueden otorgar permisos a otros usuarios, eliminar registros, ni editar la información de la colección.
 
