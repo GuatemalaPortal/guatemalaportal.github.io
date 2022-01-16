@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Listados de Especies
+title: Fichas de Especies
 has_children: true
 nav_order: 5
 ---
