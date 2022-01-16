@@ -14,7 +14,7 @@ El Portal de Biodiversidad está programado para generar fichas de especies auto
 
 Al digitalizar especímenes u observaciones, los datos y fotografías se van agregando a la ficha de cada especie en particular. Además, es posible agregar pestañas de información, con referencias de los reportes en Guatemala, estado de conservación, y enlaces a plataformas externas como [Encyclopedia of Life](https://eol.org/), entre otros. 
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NotasDesc2.jpg?raw=true" alt="Ficha Especie">](https://biodiversidad.gt/portal/taxa/index.php?taxon=Artibeus+watsoni&formsubmit=Search+Terms)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Quetzal.jpg?raw=true" alt="Ficha Especie">](https://biodiversidad.gt/portal/taxa/index.php?taxon=Pharomachrus+mocinno&formsubmit=Search+Terms)
 
 Únicamente los [usuarios registrados](https://guatemalaportal.github.io/docs/unirse#crear-una-cuenta) con permisos taxonómicos (especialistas de los distintos grupos) pueden editar las fichas de especies. 
 
