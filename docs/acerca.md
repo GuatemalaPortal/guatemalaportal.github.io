@@ -7,7 +7,7 @@ nav_order: 5
 
 ## ¿Qué es el Portal de Biodiversidad de Guatemala?
 
-El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal virtual para el manejo y movilización de información de biodiversidad, generado con la plataforma de código abierto [Symbiota](https://symbiota.org), desarrollada en el Biodiversity Knowledge Integration Center [BioKIC](https://biokic.asu.edu/) de Arizona State University, en Estados Unidos.  El principal objetivo del Portal de Biodiversidad es facilitar el manejo de datos de Colecciones Biológicas de Guatemala, en colaboración con los curadores e investigadores de instituciones nacionales. Además, el Portal de Biodiversidad funciona como una [instalación Symbiota](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) para agilizar la publicación de los datos de las colecciones en la Instalación Global para la Información de Biodiversidad [(GBIF)](https://gbif.org). 
+El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal virtual para el manejo y movilización de información de biodiversidad (registros de ocurrencia de especímenes y observaciones) enfocado en colecciones científicas guatemaltecas. El Portal de Biodiversidad fue generado con la plataforma de código abierto [Symbiota](https://symbiota.org), desarrollada en el Biodiversity Knowledge Integration Center [BioKIC](https://biokic.asu.edu/) de Arizona State University, en Estados Unidos. El principal objetivo del Portal de Biodiversidad es facilitar el manejo de datos de Colecciones Biológicas de Guatemala, en colaboración con los curadores e investigadores de instituciones nacionales. Además, el Portal de Biodiversidad funciona como una [instalación Symbiota](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) para agilizar la publicación de los datos de las colecciones en la Instalación Global para la Información de Biodiversidad [(GBIF)](https://gbif.org). 
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo" width="200" height="200">](https://biodiversidad.gt/portal/)
 
@@ -17,7 +17,7 @@ El Portal de Biodiversidad ha estado activo desde septiembre de 2020, aunque la 
 
 ## ¿Quiénes integran el Portal de Biodiversidad de Guatemala?
 
-El Portal es administrado por [biólogos guatemaltecos](https://guatemalaportal.github.io/docs/contactos/), con apoyo técnico del equipo informático del BioKIC de Arizona State University. Además, desde 2020 ha contado con la participación de más de 50 curadores, investigadores y estudiantes que han iniciado con la digitalización de 27 colecciones de la [Universidad del Valle de Guatemala](https://linktr.ee/coleccionesuvg), la [Universidad de San Carlos de Guatemala](https://cbm.ccqqfar.usac.edu.gt/), y el Centro Universitario de Zacapa. 
+El Portal es administrado por [biólogos guatemaltecos](https://guatemalaportal.github.io/docs/contactos/), con apoyo técnico del [Symbiota Support Hub](https://symbiota.org/contact-the-support-hub/) y el equipo informático del BioKIC de Arizona State University. El Portal de Biodiversidad cuenta con más de 100 usuarios, incluyendo curadores, investigadores y estudiantes que se encuentran trabajando con la digitalización de las colecciones en la [Universidad del Valle de Guatemala](https://linktr.ee/coleccionesuvg), la [Universidad de San Carlos de Guatemala](https://cbm.ccqqfar.usac.edu.gt/), y el Centro Universitario de Zacapa. 
 
 ## ¿Quiénes pueden utilizar el Portal de Biodiversidad de Guatemala?
 
