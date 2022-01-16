@@ -20,5 +20,3 @@ Al digitalizar especímenes u observaciones, los datos y fotografías se van agr
 Únicamente los [usuarios registrados](https://guatemalaportal.github.io/docs/unirse#crear-una-cuenta) con permisos taxonómicos (especialistas de los distintos grupos) pueden editar las fichas de especies. 
 
 Para más información acerca de las fichas de especies, contactar a los [administradores](https://guatemalaportal.github.io/docs/contactos/) del Portal.
-
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Listados%20de%20especies.jpg?raw=true" alt="Tutorial Checklists">](https://www.youtube.com/watch?v=onbvrSgfTRE)
