@@ -20,5 +20,5 @@ Además, se incluye un proyecto de [Listados Institucionales](https://biodiversi
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CAT_CDC.jpg?raw=true" alt="CAT CDC">](https://biodiversidad.gt/portal/checklists/checklist.php?clid=21&pid=4)
 
-Para más información acerca de la generación de listados de especies, pueden dirigirse al [tutorial](https://www.youtube.com/watch?v=onbvrSgfTRE) o a los [Documentos Symbiota](https://symbiota.org/docs/es/). Para integrar sus listados en alguno de los proyectos, contactar a los [administradores](https://guatemalaportal.github.io/docs/contactos/) del Portal.
+Para más información acerca de la generación de listados de especies, pueden dirigirse a este [tutorial](https://www.youtube.com/watch?v=onbvrSgfTRE) o a los [Documentos Symbiota](https://symbiota.org/docs/es/). Para integrar sus listados en alguno de los proyectos, contactar a los [administradores](https://guatemalaportal.github.io/docs/contactos/) del Portal.
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Listados%20de%20especies.jpg?raw=true" alt="Tutorial Checklists">](https://www.youtube.com/watch?v=onbvrSgfTRE)
