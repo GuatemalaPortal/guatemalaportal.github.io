@@ -9,6 +9,14 @@ has_children: true
 
 # Ingreso de Imágenes en el Portal de Biodiversidad 
 
-¡Muy pronto!
+Si se va a insertar una imagen inmediatamente después de ingresar un registro, seleccionar “Remain on Editing Page” antes de añadirlo (“Add Record”). Si se va a insertar una imagen a un registro existente, ingresar de la manera descrita en “Edición de datos en el Portal de Biodiversidad de Guatemala”.
+-Dirigirse a la parte superior del formulario, y seleccionar “Images” para ingresar a la ventana de imágenes.
+-Una vez en la ventana, seleccionar “Browse” para buscar la imagen (en formato .JPEG) que se desea añadir al registro. 
+
+-Luego de seleccionar la imagen, añadir el fotógrafo en “Photographer” (debe tener un usuario en ecdysis para aparecer), y seleccionar las casillas que mejor describan la imagen (p.e. si muestra un organismo, una etiqueta, letras a mano, etc.) imágenes. Por último, seleccionar “Submit New Image” para cargar la imagen con todos sus descriptores.
+-Para añadir otra imagen, presionar el símbolo “+” en la parte superior de la ventana y repetir el proceso. Para editar la imagen actual, presionar el símbolo de lápiz. Para continuar con un nuevo registro, presionar el símbolo “>*” (flecha verde). 
+
+
+
 {: .fs-5 .fw-300 }
 
