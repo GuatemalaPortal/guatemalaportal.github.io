@@ -8,6 +8,7 @@ nav_order: 1
 
 
 # Ingreso de Datos en el Portal de Biodiversidad 
+{: .no_toc }
 
 Existen distintas formas de ingresar datos en el Portal de Biodiversidad, las cuales van a depender del tipo de manejo y el flujo de trabajo que tenga cada colección. 
 {: .fs-5 .fw-300 }
@@ -20,7 +21,7 @@ Existen distintas formas de ingresar datos en el Portal de Biodiversidad, las cu
 
 ---
 
-# Ingreso directo de datos
+# Ingreso Directo de Datos
 <div class="code-example" markdown="1">
 Colecciones en vivo
 {: .label .label-blue }
@@ -36,7 +37,7 @@ El ingreso directo de datos es una de las características principales de las co
 
 ---
 
-## Formulario de ingreso de datos
+## Formulario de Ingreso de Datos
 
 - Dirigirse al [Portal de Biodiversidad](https://biodiversidad.gt) e iniciar sesión.
 - Una vez en el portal, ir a **“Mi Perfil”** (My profile).
@@ -102,7 +103,7 @@ El formulario de ingreso del Portal de Biodiversidad de Guatemala (y del resto d
 - **Basis of Record:** PreservedSpecimen (espécimen preservado).
 -Los campos “Institution Code”, “Collection Code” se rellenan automáticamente al añadir el registro. 
 
-# Importación de datos de fuentes externas
+# Importación de Datos de Fuentes Externas
 <div class="code-example" markdown="1">
 Colecciones en vivo
 {: .label .label-blue }
@@ -116,7 +117,7 @@ Administradores
 
 Si los encargados de colecciones ya cuentan con una base de datos externa, es posible importarla hacia el perfil en el Portal de Biodiversidad. La importación puede hacerse a partir de archivos de texto, archivos Darwin Core, o mediante una importación directa desde plataformas externas. **Únicamente los administradores de las colecciones tienen permisos para importar datos.**
 
-## Importación de archivos de texto
+## Importación de Archivos de Texto
 
 - Dirigirse al [Portal de Biodiversidad](https://biodiversidad.gt) e iniciar sesión.
 - Una vez en el portal, ir a **“Mi Perfil”** (My profile).
