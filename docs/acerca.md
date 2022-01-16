@@ -21,7 +21,7 @@ El Portal es administrado por [biólogos guatemaltecos](https://guatemalaportal.
 
 ## ¿Quiénes pueden utilizar el Portal de Biodiversidad de Guatemala?
 
-Todas las personas pueden [explorar](https://guatemalaportal.github.io/docs/unirse) y utilizar los datos en el Portal de Biodiversidad. Además, los curadores o encargados de colecciones biológicas en instituciones científicas nacionales y organizaciones dedicadas al estudio de la biodiversidad, pueden solicitar un [perfil](https://guatemalaportal.github.io/docs/colecciones/solicitud/) para manejar su colección. Más información [contacte](https://guatemalaportal.github.io/docs/contactos/) a los administradores del Portal.
+Todas las personas pueden [explorar](https://guatemalaportal.github.io/docs/unirse) y utilizar los datos en el Portal de Biodiversidad. Además, los curadores o encargados de colecciones biológicas en instituciones científicas nacionales y organizaciones dedicadas al estudio de la biodiversidad, pueden solicitar un [perfil](https://guatemalaportal.github.io/docs/colecciones/solicitud/) para manejar su colección. Para más información [contacte](https://guatemalaportal.github.io/docs/contactos/) a los administradores del Portal.
 
 ## ¿Cómo citar los datos descargados del Portal de Biodiversidad?
 
