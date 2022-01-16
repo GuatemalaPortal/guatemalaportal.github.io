@@ -13,5 +13,5 @@ has_children: true
 Existen distintas formas de ingresar datos en el Portal de Biodiversidad, las cuales van a depender del tipo de manejo y el flujo de trabajo que tenga cada colección. 
 {: .fs-5 .fw-300 }
 
----
+
 
