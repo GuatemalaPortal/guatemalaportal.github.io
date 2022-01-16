@@ -21,3 +21,5 @@ Continuar hacia el [formulario de búsqueda](https://biodiversidad.gt/portal/col
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/B%C3%BAsquedaColecciones.jpg?raw=true" alt="Formulario Búsquedas">
 
 Los registros encontrados pueden ser desplegados en forma de lista o tabla para su exploración. Además, será elaborado un listado de especies (pestaña superior izquierda), y podrá generarse un mapa con los registros que posean coordenadas (pestaña superior derecha). Los registros pueden ser descargados en varios formatos (ícono de flecha hacia abajo), o puede generarse un vínculo permanente (ícono de enlace) para guardar la búsqueda (**no copiar la URL generada en el navegador**).  
+
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/ResultadosLista.jpg?raw=true" alt="Resultado Búsquedas">
