@@ -13,7 +13,7 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal
 
 ## ¿Desde cuándo existe el Portal de Biodiversidad de Guatemala?
 
-El Portal de Biodiversidad ha estado activo desde septiembre de 2020, aunque la digitalización de colecciones guatemaltecas en otros portales Symbiota inició en enero de 2020. 
+El Portal de Biodiversidad ha estado activo desde septiembre de 2020, aunque la [digitalización de colecciones guatemaltecas](https://www.researchgate.net/project/Digitization-of-the-biological-collections-of-Guatemala-Digitalizacion-de-las-colecciones-biologicas-de-Guatemala) en otros portales Symbiota inició en enero de 2020. 
 
 ## ¿Quiénes integran el Portal de Biodiversidad de Guatemala?
 
