@@ -8,7 +8,6 @@ nav_order: 5
 # Fichas de Especies en el Portal de Biodiversidad
 
 El Portal de Biodiversidad está programado para generar fichas de especies automáticamente, a partir de los nombres científicos ingresados en el tesauro taxonómico. 
-
 {: .fs-5 .fw-300 }
 
 ---
