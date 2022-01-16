@@ -2,6 +2,7 @@
 layout: default
 title: Publicación en GBIF
 parent: Primeros Pasos 
+grand_parent: Perfiles de Colecciones
 nav_order: 3
 ---
 
