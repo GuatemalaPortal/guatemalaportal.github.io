@@ -2,6 +2,7 @@
 layout: default
 title: Ingreso de Datos
 parent: Primeros Pasos 
+grand_parent: Perfiles de Colecciones
 nav_order: 1
 has_children: true
 ---
