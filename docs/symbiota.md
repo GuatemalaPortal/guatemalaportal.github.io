@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acerca de Symbiota
-nav_order: 6
+nav_order: 8
 ---
 
 # Acerca de Symbiota
