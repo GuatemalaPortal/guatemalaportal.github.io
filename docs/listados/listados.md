@@ -9,7 +9,7 @@ nav_order: 4
 
 <div class="code-example" markdown="1">
 Usuarios Generales
-{: .label .label-grey }
+{: .label .label-#ffa8df }
 
 Administradores
 {: .label .label-green }
