@@ -25,7 +25,7 @@ Existen dos tipos de perfiles de colección que pueden ser solicitados en el Por
 
 ## Perfiles en vivo
 
-Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Portal de Biodiversidad. Los administradores de estos perfiles tienen acceso a todas las herramientas de edición disponibles dentro del Portalde Biodiversidad.
+Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Portal de Biodiversidad. Los administradores de estos perfiles tienen acceso a todas las herramientas de edición disponibles dentro del Portal de Biodiversidad.
 
 ## Perfiles snapshot
 
