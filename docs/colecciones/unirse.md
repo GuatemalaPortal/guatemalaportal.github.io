@@ -13,6 +13,8 @@ nav_order: 4
 Una vez hayan [creado una cuenta](https://guatemalaportal.github.io/docs/unirse#crear-una-cuenta), evaluado el [tipo de datos](https://guatemalaportal.github.io/docs/colecciones/datos/) que poseen (i.e. especímenes u observaciones) y el [tipo de manejo](https://guatemalaportal.github.io/docs/colecciones/perfiles/) que quieren utilizar (i.e. manejo en vivo o snapshot), los curadores o encargados están listos para solicitar un perfil manejar su colección en el Portal de Biodiversidad. 
 {: .fs-5 .fw-300 }
 
+---
+
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal.jpg?raw=true" alt="Portal" >
 
 Con el usuario activado, solicitar la creación del perfil de la colección a uno de los administradores del portal, enviando la siguiente información: 
