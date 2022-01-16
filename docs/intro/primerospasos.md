@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Primeros Pasos
-nav_order: 4
+nav_order: 5
+parent: Perfiles de Colecciones
 has_children: true
-permalink: /docs/ingresodatos
 ---
 
 
