@@ -23,7 +23,7 @@ Editores
 
 El ingreso directo de datos es una de las características principales de las colecciones manejadas en vivo en el Portal. Aquí pueden transcribirse directamente los datos que encontramos en las etiquetas de los especímenes, para digitalizarlos.
 
-**Unicamente los administradores y editores de cada colección tienen acceso a ingresar datos directamente.**
+**Únicamente los administradores y editores de cada colección tienen acceso a ingresar datos directamente.**
 
 
 ## Contenido
