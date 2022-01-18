@@ -63,7 +63,7 @@ Para activar la opción de exportación de datos a GBIF, es necesario realizar a
 - [Colección de Reptiles (UVGR)](https://www.gbif.org/dataset/8cec560d-6f41-456b-b5a7-805f9d861bc5): Ocurrencias, especímenes preservados.
 - [Colección de Orquídeas (UVGO)](https://www.gbif.org/dataset/cbec9e62-2bde-441c-967a-0ef6516832ee): Ocurrencias, especímenes vivos.
 - [Colección de Registros Fotográficos (UVGF)](https://www.gbif.org/dataset/d8d39f7e-187f-4896-ae05-064bfe8bc029): Ocurrencias, observaciones.
-- [Colección de Tejidos (UVGT)](https://www.gbif.org/dataset/a1db563f-aa28-47d4-9fe8-cfd47aea3d2c): Ocurrencias, especímenes vivos.
+- [Colección de Tejidos (UVGT)](https://www.gbif.org/dataset/a1db563f-aa28-47d4-9fe8-cfd47aea3d2c): Ocurrencias, especímenes preservados.
 - [Herbario UVAL (UVAL)](https://www.gbif.org/dataset/6410496e-930b-403f-a7a6-d6fd25a6a258): Ocurrencias, especímenes preservados.
 
 
