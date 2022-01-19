@@ -31,6 +31,8 @@ Administradores
 
 Tienen acceso a todas las funciones de ingreso y edición de datos. Además pueden otorgar permisos a otros usuarios, eliminar registros, y editar la información de la colección.
 
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Administradores.jpg?raw=true" alt="Panel Administración">
+
 ## Editores del perfil
 {: .d-inline-block }
 
@@ -39,3 +41,4 @@ Editores
 
 Tienen acceso a todas las funciones de ingreso y edición de datos. No pueden otorgar permisos a otros usuarios, eliminar registros, ni editar la información de la colección.
 
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Editores.jpg?raw=true" alt="Panel Edición">
