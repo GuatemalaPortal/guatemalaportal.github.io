@@ -38,7 +38,7 @@ Similares a los registros de especímenes preservados, pero la información prov
 
 ## Registros con observaciones
 
-Se refiere a registros esporádicos, realizados al observar un organismo en estado silvestre. Requieren de evidencia fotográfica como evidencia, ya que los organismos no son capturados. Actualmente, Symbiota no maneja otro tipo de archivos multimedia como videos o sonidos.
+Se refiere a registros esporádicos, realizados al observar un organismo en estado silvestre. Requieren de evidencia fotográfica, ya que los organismos no son capturados. Actualmente, Symbiota no maneja otro tipo de archivos multimedia como videos o sonidos.
 
 [<img src="https://csvcoll.org/imglib/verte/UVG_UVGF/UVGF000/MJCA_Coleonyxelegans_1599598885.jpg" alt="Logo" width="300" height="200">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=7672&clid=0)
 
