@@ -21,7 +21,7 @@ Administradores
 </div>
 
 
-La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.org) es un agregador de datos, que incorpora los registros digitalizados en distintas plataformas a nivel mundial. Esta plataforma está [financiada](https://www.gbif.org/what-is-gbif) por los gobiernos de los países miembros, incluyendo [Guatemala](https://www.gbif.org/country/GT/summary) desde diciembre de 2021.
+La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.org) es un agregador de datos, que incorpora los registros digitalizados en distintas plataformas a nivel mundial. Esta plataforma busca facilitar el libre acceso a los datos de biodiversidad del mundo, y está [financiada](https://www.gbif.org/what-is-gbif) por los gobiernos de los países [miembros](https://www.gbif.org/es/the-gbif-network). También cuenta con la participación de países asociados, como [Guatemala](https://www.gbif.org/country/GT/summary) desde diciembre de 2021.
 {: .fs-5 .fw-300 }
 
 ---
