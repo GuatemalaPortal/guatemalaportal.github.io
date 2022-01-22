@@ -25,7 +25,7 @@ Existen tres tipos de datos de biodiversidad que pueden ser manejados en el Port
 
 ## Registros con especímenes preservados
 
-Es el principal tipo de datos manejados dentro del Portal de Biodiversidad. Estos registros conisten en información contenida en etiquetas de especímenes depositados en colecciones científicas. Pueden incluir fotografías de los especímenes y/o etiquetas, pero no es requisito para ingresar los datos.
+Es el principal tipo de datos manejados dentro del Portal de Biodiversidad. Estos registros consisten en información contenida en etiquetas de especímenes depositados en colecciones científicas. Pueden incluir fotografías de los especímenes y/o etiquetas, pero no es requisito para ingresar los datos.
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Especimen.jpg?raw=true" alt="Especimen" width="300" height="200">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=8126&clid=0)
 
@@ -34,7 +34,7 @@ Fotografía: Julio Ayala. Colección de Artrópodos UVGC.
 
 ## Registros con especímenes en colecciones vivas
 
-Similares a los registros de especímenes preservados, pero la información proviene de ejemplares vivos en colecciones institucionales. Un ejemplo son los jardines botánicos que contienen ejemplares vivos. Es necesario que contengan evidencia fotográfica.
+Similares a los registros de especímenes preservados, pero la información proviene de ejemplares vivos en colecciones institucionales. Un ejemplo son los jardines botánicos que contienen ejemplares vivos. Requieren evidencia fotográfica.
 
 ## Registros con observaciones
 
