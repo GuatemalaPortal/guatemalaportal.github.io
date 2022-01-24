@@ -40,6 +40,10 @@ Colecciones snapshot
 Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local.
 
 ---
+[Ver Colecciones](https://biodiversidad.gt/portal/collections/index.php){: .btn .btn-green } 
+[Solicitar un Perfil de Colección](https://guatemalaportal.github.io/docs/colecciones/unirse/){: .btn .btn-green } 
+
+---
 
 Para más información acerca de los perfiles de manejo de colecciones, pueden dirigirse a este [tutorial](https://youtu.be/43wFaru9i10), a los [Documentos Symbiota](https://symbiota.org/docs/es/), o contactar a los [administradores](https://guatemalaportal.github.io/docs/contactos/) del Portal.
 
