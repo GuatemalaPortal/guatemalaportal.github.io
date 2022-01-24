@@ -13,6 +13,8 @@ nav_order: 2
 Existen dos tipos de perfiles de colección que pueden ser solicitados en el Portal de Biodiversidad, dependiendo del manejo que se le de a los datos.
 {: .fs-5 .fw-300 }
 
+[Ver Colecciones](https://biodiversidad.gt/portal/collections/index.php){: .btn .btn-green } 
+[Solicitar un Perfil de Colección](https://guatemalaportal.github.io/docs/colecciones/unirse/){: .btn .btn-green }
 ---
 
 ## Table of Contents
@@ -38,10 +40,6 @@ Colecciones snapshot
 {: .label .label-yellow }
 
 Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local. Los perfiles de instituciones extranjeras y los perfiles de observaciones de iNaturalist, cuentan con un manejo externo y únicamente se cuenta con perfiles _snapshot_ en el Portal de Biodiversidad.
-
----
-[Ver Colecciones](https://biodiversidad.gt/portal/collections/index.php){: .btn .btn-green } 
-[Solicitar un Perfil de Colección](https://guatemalaportal.github.io/docs/colecciones/unirse/){: .btn .btn-green } 
 
 ---
 
