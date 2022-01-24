@@ -10,6 +10,9 @@ permalink: /docs/unirse
 Una cuenta no es necesaria para explorar la información contenida en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), pero le permitirá a los miembros realizar operaciones adicionales, como dejar comentarios en las fichas de los registros, o generar listados de especies. Los curadores o encargados de colecciones, además, pueden **solicitar** [**perfiles de manejo de colecciones**](https://guatemalaportal.github.io/docs/colecciones/solicitud).
 {: .fs-5 .fw-300 }
 
+[Crear Cuenta](https://biodiversidad.gt/portal/profile/newprofile.php){: .btn .btn-green } 
+[Solicitar un Perfil de Colección](https://guatemalaportal.github.io/docs/colecciones/unirse/){: .btn .btn-green } 
+
 ---
 
 ## Table of Content
