@@ -11,6 +11,7 @@ Los registros de especímenes u observaciones disponibles en el Portal de Biodiv
 {: .fs-5 .fw-300 }
 
 [Buscar en Colecciones](https://biodiversidad.gt/portal/collections/index.php){: .btn .btn-green } 
+
 ---
 
 Para realizar una búsqueda de los registros disponibles en el Portal de Biodiversidad, deben dirigirse a la pestaña de Búsqueda en el menú superior, y seleccionar la opción de [Colecciones](https://biodiversidad.gt/portal/collections/index.php). Una vez en esa ventana, se deben seleccionar las colecciones o el tipo de registros (especímenes u observaciones) que desea incluirse en la búsqueda. 
