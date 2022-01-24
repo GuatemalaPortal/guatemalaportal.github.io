@@ -15,6 +15,7 @@ Existen dos tipos de perfiles de colección que pueden ser solicitados en el Por
 
 [Ver Colecciones](https://biodiversidad.gt/portal/collections/index.php){: .btn .btn-green } 
 [Solicitar un Perfil de Colección](https://guatemalaportal.github.io/docs/colecciones/unirse/){: .btn .btn-green }
+
 ---
 
 ## Table of Contents
