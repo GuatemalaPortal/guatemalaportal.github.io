@@ -42,7 +42,7 @@ Es posible realizar ediciones en los registros de especímenes y observaciones, 
 
 Es posible realizar ediciones  por lote en los registros de especímenes y observaciones, lo que permite agilizar la corrección de errores cometidos durante la transcripción de datos de las etiquetas.
 
--[Limpieza de fechas por lote](https://www.youtube.com/watch?v=zJPqLq-TST0&list=PLodoeyEer2vho0PDuy63diaITDfVMhxYE&index=4)
+- [Limpieza de fechas por lote](https://www.youtube.com/watch?v=zJPqLq-TST0&list=PLodoeyEer2vho0PDuy63diaITDfVMhxYE&index=4)
 
 --- 
 
