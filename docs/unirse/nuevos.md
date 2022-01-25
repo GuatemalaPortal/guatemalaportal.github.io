@@ -11,7 +11,7 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 {: .fs-5 .fw-300 }
 
 [Crear Cuenta](https://biodiversidad.gt/portal/profile/newprofile.php){: .btn .btn-green } 
-[Solicitar un Perfil de Colección](https://guatemalaportal.github.io/docs/colecciones/unirse/){: .btn .btn-green } 
+[Solicitar un Perfil de Colección](https://guatemalaportal.github.io/docs/colecciones/manejo/){: .btn .btn-green } 
 
 ---
 
