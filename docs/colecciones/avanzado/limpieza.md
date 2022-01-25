@@ -50,6 +50,8 @@ Es posible realizar ediciones  por lote en los registros de especímenes y obser
 
 Dentro del Portal de Biodiversidad existen herramientas más avanzadas para la limpieza de datos, como la Herramienta de Limpieza de Datos Geográficos. Esta herramienta permite analizar la totalidad de países, departamentos, etc. para marcar posibles errores. A la vez, permite corregir los errores por lote. Pueden obtener más información en la página de la [Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/coll_manager/data_cleaning/geography/).
 
+https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Limpieza%20geogr%C3%A1fica.jpg?raw=true
+
 - [Limpieza de datos geográficos](https://www.youtube.com/watch?v=wVevlo2Vh20&list=PLodoeyEer2vho0PDuy63diaITDfVMhxYE&index=2)
 
 ---
