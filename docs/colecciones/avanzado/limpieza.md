@@ -52,7 +52,7 @@ Dentro del Portal de Biodiversidad existen herramientas más avanzadas para la l
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Limpieza%20de%20datos1.jpg?raw=true" alt="Limpieza Geográfica">
 
-Para encontrar la herramienta específica de Limpieza de Datos Geográficos, deber dirigirse a la segunda opción (Geografía Política) y seleccionar si quiere evaluar las Distribuciones Geográficas, o desplegar las Herramientas de Limpieza Geográfica.
+Para encontrar la herramienta específica de Limpieza de Datos Geográficos, debe dirigirse a la segunda opción (Geografía Política) y seleccionar si quiere evaluar las Distribuciones Geográficas, o desplegar las Herramientas de Limpieza Geográfica.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Limpieza%20geogr%C3%A1fica.jpg?raw=true" alt="Limpieza Geográfica">
 
