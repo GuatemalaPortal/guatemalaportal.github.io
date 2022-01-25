@@ -40,7 +40,7 @@ Es posible realizar ediciones en los registros de especímenes y observaciones, 
 
 # Limpieza de Datos por Lote
 
-Es posible realizar ediciones  por lote en los registros de especímenes y observaciones, lo que permite agilizar la corrección de errores cometidos durante la transcripción de datos de las etiquetas.
+Es posible realizar ediciones  por lote en los registros de especímenes y observaciones, lo que permite agilizar la corrección de errores cometidos durante la transcripción de datos de las etiquetas. Por ejemplo, pueden realizarse cambios a grupos de fechas, coordenadas, o nombres de colectores mal escritos. No es posible corregir nombres científicos de esta forma, pero existe otra Herramienta de [Limpieza de Datos Taxonómicos](https://biokic.github.io/symbiota-docs/coll_manager/data_cleaning/taxonomy/) que puede realizar esta función. 
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Fechas.jpg?raw=true" alt="Limpieza de Datos">](https://www.youtube.com/watch?v=zJPqLq-TST0&list=PLodoeyEer2vho0PDuy63diaITDfVMhxYE&index=4)
 
