@@ -34,7 +34,7 @@ Administradores
 
 Es posible realizar ediciones en los registros de especímenes y observaciones, de una manera ilimitada. Todos los cambios realizados directamente en el Portal, se almacenan en la historia de edición. Los cambios realizados en archivos fuera del Portal y luego cargados, no son registrados en la historia de edición (y cargar un archivo borra la historia existente anteriormente).
 
-- [Limpieza de datos individuales](https://www.youtube.com/watch?v=2zKP-ECmcxE&list=PLodoeyEer2vho0PDuy63diaITDfVMhxYE&index=3)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/LimpiezaGenera.jpg?raw=true" alt="Limpieza de Datos">](https://www.youtube.com/watch?v=2zKP-ECmcxE&list=PLodoeyEer2vho0PDuy63diaITDfVMhxYE&index=3)
 
 ---
 
@@ -55,6 +55,10 @@ Dentro del Portal de Biodiversidad existen herramientas más avanzadas para la l
 Para encontrar la herramienta específica de Limpieza de Datos Geográficos, debe dirigirse a la segunda opción (Geografía Política) y seleccionar si quiere evaluar las Distribuciones Geográficas, o desplegar las Herramientas de Limpieza Geográfica.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Limpieza%20geogr%C3%A1fica.jpg?raw=true" alt="Limpieza Geográfica">
+
+La herramienta de Limpieza de Datos Geográficos desplegará un listado con el número de países, departamentos y municipios dudosos (mientras estén colocados en los campos correspondientes de País (_Conutry_), Estado/Provincia (_State/Province_) y Condado (_County_)) o faltantes. Puede ingresar en cada uno de los listados generados y sustituir o agregar los nombres que sean necesarios.
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Questionable%20countries.jpg?raw=truee" alt="Limpieza Geográfica">]
 
 Pueden obtener más información en la página de la [Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/coll_manager/data_cleaning/geography/) y en el siguiente tutorial.
 
