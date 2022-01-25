@@ -48,11 +48,17 @@ Es posible realizar ediciones  por lote en los registros de especímenes y obser
 
 # Limpieza de Datos Geográficos
 
-Dentro del Portal de Biodiversidad existen herramientas más avanzadas para la limpieza de datos, como la Herramienta de Limpieza de Datos Geográficos. Esta herramienta permite analizar la totalidad de países, departamentos, etc. para marcar posibles errores. A la vez, permite corregir los errores por lote. Pueden obtener más información en la página de la [Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/coll_manager/data_cleaning/geography/).
+Dentro del Portal de Biodiversidad existen herramientas más avanzadas para la limpieza de datos, como la Herramienta de Limpieza de Datos Geográficos. Esta herramienta permite analizar la totalidad de países, departamentos, etc. para marcar posibles errores. A la vez, permite corregir los errores por lote. Esta herramienta puede encontrarse en el **Panel de Control de Administración** de los Perfiles de Colecciones (Mi Perfil > Manejo de Ocurrencias > Colección > Panel de Contrlol de Administración > Tareas de Mantenimiento > Herramientas de Limpieza de Datos). 
 
-https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Limpieza%20geogr%C3%A1fica.jpg?raw=true
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Limpieza%20de%20datos1.jpg?raw=true" alt="Limpieza Geográfica">
 
-- [Limpieza de datos geográficos](https://www.youtube.com/watch?v=wVevlo2Vh20&list=PLodoeyEer2vho0PDuy63diaITDfVMhxYE&index=2)
+Para encontrar la herramienta específica de Limpieza de Datos Geográficos, deber dirigirse a la segunda opción (Geografía Política) y seleccionar si quiere evaluar las Distribuciones Geográficas, o desplegar las Herramientas de Limpieza Geográfica.
+
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Limpieza%20geogr%C3%A1fica.jpg?raw=true" alt="Limpieza Geográfica">
+
+Pueden obtener más información en la página de la [Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/coll_manager/data_cleaning/geography/) y en el siguiente tutorial.
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/LimpiezaLocalidades.jpg?raw=true" alt="Limpieza Geográfica">](https://www.youtube.com/watch?v=wVevlo2Vh20&list=PLodoeyEer2vho0PDuy63diaITDfVMhxYE&index=2)
 
 ---
 
