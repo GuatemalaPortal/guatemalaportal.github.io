@@ -34,7 +34,9 @@ La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.or
 
 ---
 
-El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) está programado como una [instalación Symbiota](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) para exportar registros de ocurrencia hacia GBIF, por lo que las colecciones que lo integran, pueden utilizar esta herramienta para enviar sus datos a esta plataforma global. Pueden explorar la instalación Symbiota del Portal de Biodiversidad [aquí](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f).
+## Publicación en GBIF desde el Portal de Biodiversidad
+
+El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) está programado como una [instalación Symbiota](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) para exportar [registros de ocurrencia](https://guatemalaportal.github.io/docs/colecciones/datos/) (en forma de Archivos Darwin Core) hacia GBIF, por lo que las colecciones que lo integran, pueden utilizar esta herramienta para enviar sus datos a esta plataforma global. Pueden explorar la instalación Symbiota del Portal de Biodiversidad [aquí](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f).
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GBIFINSTA.jpg?raw=true" alt="Instalación GBIF">
 ](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f)
