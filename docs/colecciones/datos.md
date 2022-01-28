@@ -10,7 +10,7 @@ nav_order: 1
 {: .no_toc }
 
 
-Existen tres tipos de datos de biodiversidad que pueden ser manejados en el Portal. Todos son registros de ocurrencias de organismos, pero su clasificación depende del origen de la información. 
+Existen tres tipos de datos de biodiversidad que pueden ser manejados en el Portal. Todos son **registros de ocurrencias** de organismos, pero su clasificación depende del origen y forma de respaldo de la información. 
 {: .fs-5 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Existen tres tipos de datos de biodiversidad que pueden ser manejados en el Port
 
 ---
 
-## Registros con especímenes preservados
+## Registros de especímenes preservados
 
 Es el principal tipo de datos manejados dentro del Portal de Biodiversidad. Estos registros consisten en información contenida en etiquetas de especímenes depositados en colecciones científicas. Pueden incluir fotografías de los especímenes y/o etiquetas, pero no es requisito para ingresar los datos.
 
@@ -32,11 +32,11 @@ Es el principal tipo de datos manejados dentro del Portal de Biodiversidad. Esto
 Fotografía: Julio Ayala. Colección de Artrópodos UVGC.
 {: .fs-1 }
 
-## Registros con especímenes en colecciones vivas
+## Registros de especímenes en colecciones vivas
 
-Similares a los registros de especímenes preservados, pero la información proviene de ejemplares vivos en colecciones institucionales. Un ejemplo son los jardines botánicos que contienen ejemplares vivos. Requieren evidencia fotográfica.
+Similares a los registros de especímenes preservados, pero la información proviene de ejemplares vivos en colecciones institucionales. Un ejemplo son los jardines botánicos que contienen ejemplares vivos de plantas. Requieren evidencia fotográfica.
 
-## Registros con observaciones
+## Registros de observaciones
 
 Se refiere a registros esporádicos, realizados al observar un organismo en estado silvestre. Requieren de evidencia fotográfica, ya que los organismos no son capturados. Actualmente, Symbiota no maneja otro tipo de archivos multimedia como videos o sonidos.
 
