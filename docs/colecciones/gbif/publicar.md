@@ -81,5 +81,6 @@ Para activar la opción de exportación de datos a GBIF, es necesario realizar a
 ### Centro de Estudios Conservacionistas, Universidad de San Carlos
 - [Herbario USCG-CECON (USCG)](https://www.gbif.org/dataset/d5ba665a-c07b-4379-85ff-15d7e3a9331a): Ocurrencias, especímenes preservados.
 
-[Ir a Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/coll_manager/data_publishing/gbif/){: .btn .btn-outline }
-
+<span class="fs-5">
+[Ir a Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/coll_manager/data_publishing/gbif/){: .btn .btn-green }
+</span>
