@@ -48,6 +48,10 @@ Para más información acerca de los perfiles de manejo de colecciones, pueden d
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portada%20Perfiles.jpg?raw=true" alt="Tutorial Checklists">](https://youtu.be/43wFaru9i10)
 
+<div class="code-example" markdown="1">
+
 <span class="fs-5">
 [Ir a Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/coll_manager/join/mng/){: .btn .btn-green }
 </span>
+
+</div>
