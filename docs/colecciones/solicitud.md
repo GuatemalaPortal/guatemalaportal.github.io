@@ -28,4 +28,7 @@ Una vez generado el perfil, el solicitante será añadido como [**administrador 
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PerfilColecci%C3%B3n.jpg?raw=true" alt="Perfil de Colección" >
 
+<span class="fs-5">
+[Ir a Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/coll_manager/join/){: .btn .btn-green }
+</span>
 
