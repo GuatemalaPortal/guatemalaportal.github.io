@@ -15,8 +15,4 @@ Los encargados de colecciones biológicas legalmente establecidas en institucion
 [Ver Colecciones](https://biodiversidad.gt/portal/collections/index.php){: .btn .btn-green } 
 [Solicitar un Perfil de Colección](https://guatemalaportal.github.io/docs/colecciones/solicitud/){: .btn .btn-green } 
 
-El Portal de Biodiversidad de Guatemala  es un portal [Symbiota](symbiota.org) para el manejo de colecciones biológicas, y aloja dos tipos de perfiles según el origen de los datos: 
-- Registros con base en especímenes de colecciones científicas.
-- Registros con base en observaciones de organismos (con fotografías).
-
-Antes de solicitar un perfil de manejo de datos, debe considerarse si los datos pertenecen a alguno de estos dos tipos. Por el momento, el Portal de Biodiversidad de Guatemala, únicamente alojará perfiles de colecciones institucionales (de especímenes u observaciones), incluyendo universidades y otras organizaciones dedicadas al estudio de la biodiversidad. Los perfiles para investigadores no asociados a instituciones serán evaluados individualmente antes de su aprobación. 
+Antes de solicitar un perfil de manejo de colecciones, debe considerarse si los datos pertenecen a alguno de los [tipos](https://guatemalaportal.github.io/docs/colecciones/datos/) aceptados, además de otras especificaciones descritas a continuación. Por el momento, el Portal de Biodiversidad de Guatemala, únicamente alojará perfiles de colecciones institucionales (de especímenes u observaciones), incluyendo universidades y otras organizaciones dedicadas al estudio de la biodiversidad. Los perfiles para investigadores no asociados a instituciones serán evaluados individualmente antes de su aprobación. 
