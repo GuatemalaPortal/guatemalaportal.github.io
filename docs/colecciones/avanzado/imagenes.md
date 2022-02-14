@@ -34,7 +34,7 @@ Administradores del Portal
 
 Cuando una colección posee grandes cantidades de imágenes de especímenes sin digitalizar, es posible solicitar una carga masiva a los administradores del portal, para integrarlas. Por lo general, se solicita a los encargados de las colecciones compartir una carpeta de Dropbox con las imágenes, pero existen otros métodos programáticos para colecciones que ya cuentan con imágenes almacenadas en un servidor. Más información en la [Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/editor/images/batch/)
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/LimpiezaGenera.jpg?raw=true" alt="Carga Masiva de Imágenes">](https://www.youtube.com/watch?v=v2bcx4oKDVI)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/videos/SSH_Images.jpg?raw=true" alt="Carga Masiva de Imágenes">](https://www.youtube.com/watch?v=v2bcx4oKDVI)
 
 ---
 
