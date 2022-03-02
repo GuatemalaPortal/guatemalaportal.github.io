@@ -90,7 +90,7 @@ Para más información acerca de los perfiles de manejo de colecciones, pueden d
 - [Herbario USCG-CECON Hongos (USCG-Hongos)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=69): Ocurrencias, especímenes preservados.
 
 ### Perfiles Generales para Investigadores
-- [Animales)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=93): Ocurrencias, observaciones personales.
+- [Animales](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=93): Ocurrencias, observaciones personales.
 - [Plantas](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=92): Ocurrencias, observaciones personales.
 
 <div class="code-example" markdown="1">
