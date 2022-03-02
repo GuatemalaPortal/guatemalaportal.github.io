@@ -55,3 +55,44 @@ Para más información acerca de los perfiles de manejo de colecciones, pueden d
 </span>
 
 </div>
+
+## Colecciones Guatemaltecas Manejadas en el Portal de Biodiversidad
+
+### Universidad del Valle de Guatemala
+- [Colección de Artrópodos (UVGC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16): Ocurrencias, especímenes preservados.
+- [Colección de Crustáceos (UVGCR)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=48): Ocurrencias, especímenes preservados.
+- [Colección de Equinodermos (UVGEC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=44): Ocurrencias, especímenes preservados.
+- [Colección de Moluscos (UVGMOL)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=27): Ocurrencias, especímenes preservados.
+- [Colección de Anfibios (UVGA)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=3): Ocurrencias, especímenes preservados.
+- [Colección de Aves (UVGAV)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=2): Ocurrencias, especímenes preservados.
+- [Colección de Mamíferos (UVGM)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=4): Ocurrencias, especímenes preservados.
+- [Colección de Peces (UVGFI)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=5): Ocurrencias, especímenes preservados.
+- [Colección de Reptiles (UVGR)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=6): Ocurrencias, especímenes preservados.
+- [Colección de Orquídeas (UVGO)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=22): Ocurrencias, especímenes preservados.
+- [Colección de Registros Fotográficos (UVGF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=7): Ocurrencias, observaciones.
+- [Colección de Tejidos (UVGT)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=81): Ocurrencias, especímenes preservados/muestras.
+- [Herbario UVAL (UVAL)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19): Ocurrencias, especímenes preservados.
+
+### Escuela de Biología, Universidad de San Carlos
+- [Colección de Cnidarios (USACCni)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=73): Ocurrencias, especímenes preservados.
+- [Colección de Entomología (USAC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=17): Ocurrencias, especímenes preservados.
+- [Colección de Equinodermos (USACEchi)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=74): Ocurrencias, especímenes preservados.
+- [Colección de Moluscos (USACMol)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=26): Ocurrencias, especímenes preservados.
+- [Colección de Porifera (USACPor)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=75): Ocurrencias, especímenes preservados.
+- [Colección de Aves (USACA)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=9): Ocurrencias, especímenes preservados.
+- [Colección de Mamíferos (USACM)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=1): Ocurrencias, especímenes preservados.
+- [Colección Ictiológica (USACI)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=10): Ocurrencias, especímenes preservados.
+- [Colección Paleontológica (USACPal)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=50): Ocurrencias, fósiles.
+- [Colección de Registros Fotográficos de Vertebrados (USACF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=8): Ocurrencias, observaciones.
+
+### Centro de Estudios Conservacionistas, Universidad de San Carlos
+- [Herbario USCG-CECON (USCG)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=21): Ocurrencias, especímenes preservados.
+- [Herbario USCG-CECON Hongos (USCG-Hongos)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=69): Ocurrencias, especímenes preservados.
+
+<div class="code-example" markdown="1">
+
+<span class="fs-5">
+[Ir a Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/coll_manager/data_publishing/gbif/){: .btn .btn-green }
+</span>
+
+</div>
