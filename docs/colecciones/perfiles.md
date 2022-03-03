@@ -57,6 +57,8 @@ Para más información acerca de los perfiles de manejo de colecciones, pueden d
 
 </div>
 
+---
+
 ## Colecciones con Perfiles En Vivo en el Portal de Biodiversidad
 
 ### Universidad del Valle de Guatemala
