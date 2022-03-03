@@ -32,7 +32,7 @@ Existen dos tipos de perfiles de colección que pueden ser solicitados en el Por
 Colecciones en vivo
 {: .label .label-blue }
 
-Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Portal de Biodiversidad. Los administradores de estos perfiles tienen acceso a todas las herramientas de edición disponibles dentro del Portal de Biodiversidad. Todas las colecciones de instituciones guatemaltecas manejadas actualmente en el Portal de Biodiversidad poseen perfiles de manejo en vivo.
+Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Portal de Biodiversidad. Los administradores de estos perfiles tienen acceso a todas las herramientas de edición disponibles dentro del Portal de Biodiversidad. Todas las colecciones de instituciones guatemaltecas manejadas actualmente en el Portal de Biodiversidad poseen perfiles de manejo en vivo. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=3) de colección manejada en vivo.
 
 ## Perfiles snapshot 
 {: .d-inline-block }
@@ -40,7 +40,8 @@ Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Po
 Colecciones snapshot
 {: .label .label-yellow }
 
-Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local. Los perfiles de instituciones extranjeras y los perfiles de observaciones de iNaturalist, cuentan con un manejo externo y únicamente se cuenta con perfiles _snapshot_ en el Portal de Biodiversidad.
+Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local. Los perfiles de instituciones extranjeras y los perfiles de observaciones de iNaturalist, cuentan con un manejo externo y únicamente se cuenta con perfiles _snapshot_ en el Portal de Biodiversidad. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=34) de colección snapshot.
+
 
 ---
 
@@ -56,7 +57,7 @@ Para más información acerca de los perfiles de manejo de colecciones, pueden d
 
 </div>
 
-## Colecciones Manejadas En Vivo en el Portal de Biodiversidad
+## Colecciones con Perfiles En Vivo en el Portal de Biodiversidad
 
 ### Universidad del Valle de Guatemala
 - [Colección de Artrópodos (UVGC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16): Ocurrencias, especímenes preservados.
@@ -92,11 +93,3 @@ Para más información acerca de los perfiles de manejo de colecciones, pueden d
 ### Perfiles Generales para Investigadores
 - [Animales](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=93): Ocurrencias, observaciones personales.
 - [Plantas](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=92): Ocurrencias, observaciones personales.
-
-<div class="code-example" markdown="1">
-
-<span class="fs-5">
-[Ir a Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/coll_manager/data_publishing/gbif/){: .btn .btn-green }
-</span>
-
-</div>
