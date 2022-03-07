@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Bionomia
+title: Atribuciones en Bionomia
 parent: Perfiles de Colecciones 
 nav_order: 8
 ---
 
 
-# Bionomia
+# Atribución de especímenes en Bionomia
 {: .no_toc }
 
 [Bionomia](https://es.bionomia.net) es una plataforma diseñada para facilitar la atribución de los especímenes publicados en [GBIF](https://gbif.org) a los investigadores y taxónomos que han realizado el trabajo de colecta e identificación, por medio de su código de [ORCID](https://orcid.org) o [Wikidata](https://wikidata.org) en caso de investigadores fallecidos. 
