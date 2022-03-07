@@ -43,7 +43,7 @@ Opciones recomendadas:
 - Perfil público
 - Conectar perfil con Zenodo
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomia.jpg?raw=true" alt="Bionomia"](https://es.bionomia.net/0000-0002-4098-5823)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomia.jpg?raw=true" alt="Bionomia">](https://es.bionomia.net/0000-0002-4098-5823)
 
 ## Reclamar registros en Bionomia 
 
