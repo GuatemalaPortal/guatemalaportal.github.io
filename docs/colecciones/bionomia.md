@@ -60,3 +60,4 @@ Una vez activo el perfil en Bionomia, los investigadores pueden "reclamar" espec
 
 Otra actividad importante para realizar en Bionomia, es contribuir en la atribución de especímenes a otros investigadores. Para hacer esto, dirigirse al botón "Ayudar a otros" en la parte superior derecha del perfil. Puede buscar investigadores por país, por nombre, o por medio de su código ORCID o Wikidata. 
 
+<img src="https://github.com/GuatemalaPortal/guatemalaporta.github.io/blob/main/static/atrib.jpg?raw=true" alt="Atribuciones">
