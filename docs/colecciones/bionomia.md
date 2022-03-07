@@ -24,15 +24,15 @@ nav_order: 8
 
 ## Del Portal de Biodiversidad de Guatemala hacia Bionomia
 
-La digitalización de especímenes en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), permite la publicación directa de los datos hacia la plataforma mundial [GBIF](https://guatemalaportal.github.io/docs/colecciones/gbif/publicar). Esto pemite que los datos estén disponibles para un gran número de plataformas adicionales, que incrementan su uso en investigaciones. Una de estas plataformas es [Bionomia](https://es.bionomia.net), que permite la generación de perfiles para la vinculación de especímenes con los códigos ORCID de colectores y taxónomos, y con los perfiles de las instituciones que hospedan los especímenes. Por ejemplo, en Bionomia pueden encontrar una página con los perfiles de investigadores [guatemaltecos](https://es.bionomia.net/country/GT), y los perfiles de las distintas instituciones que publican en GBIF desde el Portal de Biodiversidad de Guatemala ([UVG](https://es.bionomia.net/organization/Q7894349), [EB-USAC](https://es.bionomia.net/organization/Q607331), [CECON](https://es.bionomia.net/organization/299615)). Además pueden encontrarse las [colecciones individuales](https://es.bionomia.net/dataset/624ffcb0-3723-4b6f-9039-eea2e1ef82e2), donde podrá conocerce información detallada acerca de los investigadores asociados, y de las publicaciones donde los especímenes han sido publicados. 
+La digitalización de especímenes en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), permite la publicación directa de los datos hacia la plataforma mundial [GBIF](https://guatemalaportal.github.io/docs/colecciones/gbif/publicar). Esto, a su vez, pemite que los datos estén disponibles para un gran número de plataformas adicionales, que incrementan su alcance y uso. Una de estas plataformas es [Bionomia](https://es.bionomia.net), que facilita la vinculación de especímenes con colectores y taxónomos por medio de sus códigos [ORCID](https://orcid.org), y con las instituciones por medio de otros códigos equivalentes. Por ejemplo, en Bionomia pueden encontrar una página con los perfiles de investigadores [guatemaltecos](https://es.bionomia.net/country/GT), y los perfiles de las distintas instituciones del país ([UVG](https://es.bionomia.net/organization/Q7894349), [EB-USAC](https://es.bionomia.net/organization/Q607331), [CECON](https://es.bionomia.net/organization/299615)). Además pueden encontrarse las [colecciones individuales](https://es.bionomia.net/dataset/624ffcb0-3723-4b6f-9039-eea2e1ef82e2) publicadas en GBIF desde el Portal de Biodiversidad de Guatemala, donde podrá conocerce información detallada acerca de los investigadores asociados, y de las publicaciones donde los especímenes han sido publicados. 
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/BionomiaHome.jpg?raw=true" alt="Bionomia Home">
 
 ---
 
-## Creación de un perfil en Bionomia
+## Registro en ORCID 
 
-1. El primer paso para obtener un perfil en [Bionomia](https://es.bionomia.net), es la obtención de un código único de investigador. Esto se logra generando un perfil en [ORCID](https://orcid.org) con los datos mínimos que permitan la identificación (sin lugar a dudas) de los investigadores. No olvide ajustar la privacidad a "pública" en cada una de las casillas que complete. [Aquí](https://orcid.org/0000-0002-4098-5823) puede ver un ejemplo de un perfil ORCID completo.
+El primer paso para obtener un perfil en [Bionomia](https://es.bionomia.net), es la obtención de un código único de investigador. Esto se logra generando un perfil en [ORCID](https://orcid.org) con los datos mínimos que permitan la identificación (sin lugar a dudas) de los investigadores. No olvide ajustar la privacidad a "pública" en cada una de las casillas que complete. [Aquí](https://orcid.org/0000-0002-4098-5823) puede ver un ejemplo de un perfil ORCID completo.
 
 Los datos recomendados son para que su perfil aparezca en todas las secciones de Bionomia son los siguientes: 
 - Nombre completo o iniciales 
@@ -44,12 +44,16 @@ Los datos recomendados son para que su perfil aparezca en todas las secciones de
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/Orcid2.jpg?raw=true" alt="ORCID">
 ](https://www.orcid.org)
 
-2. Una vez tenga activo su perfil de ORCID, dirigirse a [Bionomia](https://es/bionomia.net) y seleccionar "Registrarse con ORCID" en la esquina superior derecha. Al ingresar con ORCID, su perfil será generado automáticamente y podrá configurarlo con sus preferencias en la opción "Configuración", ubicada en el menú desplegable de la parte superior derecha. [Aquí](https://es.bionomia.net/0000-0002-4098-5823) puede ver un ejemplo de un perfil de Bionomia. Para conocer más acerca de Bionomia, visite su página de [información](https://es.bionomia.net/how-it-works).
+---
+
+## Creación de un perfil en Bionomia
+
+Una vez tenga activo su perfil de ORCID, dirigirse a [Bionomia](https://es/bionomia.net) y seleccionar "Registrarse con ORCID" en la esquina superior derecha. Al ingresar con ORCID, su perfil será generado automáticamente y podrá configurarlo con sus preferencias en la opción "Configuración", ubicada en el menú desplegable de la parte superior derecha. [Aquí](https://es.bionomia.net/0000-0002-4098-5823) puede ver un ejemplo de un perfil de Bionomia. Para conocer más acerca de Bionomia, visite su página de [información](https://es.bionomia.net/how-it-works).
 
 Opciones recomendadas: 
 - Agregar fotografía
-- Perfil público
-- Conectar perfil con [Zenodo](https://zenodo.org) (esto vincula el perfil directamente a ORCID para que pase a formar parte de su CV)
+- Configurar el perfil como público
+- Conectar perfil a ORCID con [Zenodo](https://zenodo.org) 
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomia.jpg?raw=true" alt="Bionomia">](https://es.bionomia.net/0000-0002-4098-5823)
 
