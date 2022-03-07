@@ -33,15 +33,17 @@ Los datos recomendados son:
 - Países en los que ha realizado investigación
 - Instituciones de las que ha formado parte
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Orcid2.jpg?raw=true" alt="ORCID">
-](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/Orcid2.jpg?raw=true" alt="ORCID">
+](https://www.orcid.org)
 
-2. Una vez tenga activo su perfil de ORCID, dirigirse a [Bionomia](https://es/bionomia.net) y seleccionar "Registrarse con ORCID" en la esquina superior derecha. Al ingresar con ORCID, su perfil será generado automáticamente y podrá configurarlo con sus preferencias en la opción "Configuración", ubicada en el menú desplegable de la parte superior derecha. [Aquí](https://es.bionomia.net/0000-0002-4098-5823) puede ver un ejemplo de un perfil de Bionomia. Más acerca de Bionomia, [aquí](https://es.bionomia.net/how-it-works).
+2. Una vez tenga activo su perfil de ORCID, dirigirse a [Bionomia](https://es/bionomia.net) y seleccionar "Registrarse con ORCID" en la esquina superior derecha. Al ingresar con ORCID, su perfil será generado automáticamente y podrá configurarlo con sus preferencias en la opción "Configuración", ubicada en el menú desplegable de la parte superior derecha. [Aquí](https://es.bionomia.net/0000-0002-4098-5823) puede ver un ejemplo de un perfil de Bionomia. Para conocer más acerca de Bionomia, visite su página de [información](https://es.bionomia.net/how-it-works).
 
 Opciones recomendadas: 
 - Agregar fotografía
 - Perfil público
 - Conectar perfil con Zenodo
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomia.jpg?raw=true" alt="Bionomia"](https://es.bionomia.net/0000-0002-4098-5823)
 
 ## Reclamar registros en Bionomia 
 
