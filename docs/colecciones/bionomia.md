@@ -22,16 +22,18 @@ nav_order: 8
 
 ---
 
+La digitalización de especímenes en el Portal de Biodiversidad de Guatemala, permite la publicación directa hacia la plataforma mundial [GBIF](https://guatemalaportal.github.io/docs/colecciones/gbif/publicar). Esto pemite que los datos estén disponibles para un gran número de plataformas adicionales, que incrementan su uso en investigaciones. Una de estas plataformas es [Bionomia](https://es.bionomia.net), que permite la generación de perfiles para la vinculación de especímenes con los códigos ORCID de colectores y taxónomos, y con los perfiles de las instituciones que hospedan los especímenes. Por ejemplo, en Bionomia pueden encontrar una página con los perfiles de investigadores [guatemaltecos](https://es.bionomia.net/country/GT), y los perfiles de las distintas instituciones que publican en GBIF desde el Portal de Biodiversidad de Guatemala ([UVG](https:/es.bionomia.net/organization/Q7894349), [EB-USAC](https://es.bionomia.net/organization/Q607331), [CECON](https://es.bionomia.net/organization/299615)). Además pueden encontrarse las [colecciones individuales](https://es.bionomia.net/dataset/624ffcb0-3723-4b6f-9039-eea2e1ef82e2), donde podrá conocerce información detallada acerca de los investigadores asociados, y de las publicaciones donde los especímenes han sido publicados. 
+
 ## Creación de un perfil en Bionomia
 
 1. El primer paso para obtener un perfil en [Bionomia](https://es.bionomia.net), es la obtención de un código único de investigador. Esto se logra generando un perfil en [ORCID](https://orcid.org) con los datos mínimos que permitan la identificación (sin lugar a dudas) de los investigadores. No olvide ajustar la privacidad a "pública" en cada una de las casillas que complete. [Aquí](https://orcid.org/0000-0002-4098-5823) puede ver un ejemplo de un perfil ORCID completo.
 
-Los datos recomendados son: 
+Los datos recomendados son para que su perfil aparezca en todas las secciones de Bionomia son los siguientes: 
 - Nombre completo o iniciales 
 - Otros nombres utilizados
 - Palabras clave con intereses de investigación
 - Países en los que ha realizado investigación
-- Instituciones de las que ha formado parte
+- Todas las instituciones de las que ha formado parte
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/Orcid2.jpg?raw=true" alt="ORCID">
 ](https://www.orcid.org)
@@ -41,7 +43,7 @@ Los datos recomendados son:
 Opciones recomendadas: 
 - Agregar fotografía
 - Perfil público
-- Conectar perfil con Zenodo
+- Conectar perfil con Zenodo (esto vincula el perfil directamente a ORCID para que pase a formar parte de su CV)
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomia.jpg?raw=true" alt="Bionomia">](https://es.bionomia.net/0000-0002-4098-5823)
 
