@@ -28,6 +28,8 @@ La digitalización de especímenes en el [Portal de Biodiversidad de Guatemala](
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/BionomiaHome.jpg?raw=true" alt="Bionomia Home">
 
+---
+
 ## Creación de un perfil en Bionomia
 
 1. El primer paso para obtener un perfil en [Bionomia](https://es.bionomia.net), es la obtención de un código único de investigador. Esto se logra generando un perfil en [ORCID](https://orcid.org) con los datos mínimos que permitan la identificación (sin lugar a dudas) de los investigadores. No olvide ajustar la privacidad a "pública" en cada una de las casillas que complete. [Aquí](https://orcid.org/0000-0002-4098-5823) puede ver un ejemplo de un perfil ORCID completo.
@@ -51,6 +53,8 @@ Opciones recomendadas:
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomia.jpg?raw=true" alt="Bionomia">](https://es.bionomia.net/0000-0002-4098-5823)
 
+---
+
 ## Reclamar registros en Bionomia 
 
 Una vez activo el perfil en Bionomia, los investigadores pueden "reclamar" especímenes que hayan colectado o identificado, una vez hayan sido publicados en GBIF. Los datos en Bionomia son refrescados cada dos semanas (aproximadamente), por lo que los datos no aparecen automáticamente cuando se publican en GBIF. 
@@ -61,6 +65,8 @@ Una vez activo el perfil en Bionomia, los investigadores pueden "reclamar" espec
 4. Seleccionar el ícono correspondiente según haya colectado o identificado el espécimen. 
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomiadisc.jpg?raw=true" alt="Especímenes Bionomia">
+
+---
 
 ## Atribuir registros a otros investigadores
 
