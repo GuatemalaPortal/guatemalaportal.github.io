@@ -9,7 +9,7 @@ nav_order: 8
 # Bionomia
 {: .no_toc }
 
-[Bionomia](https://es.bionomia.net) es una plataforma diseñada para facilitar la atribución de los especímenes publicados en [GBIF](https://gbif.org) a los investigadores y taxónomos que han realizado el trabajo de colecta e identificación, por medio de su código de [ORCID](orcid.org) o [Wikidata](https://wikidata.org) en caso de investigadores fallecidos. 
+[Bionomia](https://es.bionomia.net) es una plataforma diseñada para facilitar la atribución de los especímenes publicados en [GBIF](https://gbif.org) a los investigadores y taxónomos que han realizado el trabajo de colecta e identificación, por medio de su código de [ORCID](https://orcid.org) o [Wikidata](https://wikidata.org) en caso de investigadores fallecidos. 
 {: .fs-5 .fw-300 }
 
 ---
@@ -24,7 +24,7 @@ nav_order: 8
 
 ## Creación de un perfil en Bionomia
 
-1. El primer paso para obtener un perfil en [Bionomia](https://es/bionomia.net), es la obtención de un código único de investigador. Esto se logra generando un perfil en [ORCID](https://orcid.org) con los datos mínimos que permitan la identificación (sin lugar a dudas) de los investigadores. No olvide ajustar la privacidad a "pública" en cada una de las casillas que complete. [Aquí](https://orcid.org/0000-0002-4098-5823) puede ver un ejemplo de un perfil ORCID completo.
+1. El primer paso para obtener un perfil en [Bionomia](https://es.bionomia.net), es la obtención de un código único de investigador. Esto se logra generando un perfil en [ORCID](https://orcid.org) con los datos mínimos que permitan la identificación (sin lugar a dudas) de los investigadores. No olvide ajustar la privacidad a "pública" en cada una de las casillas que complete. [Aquí](https://orcid.org/0000-0002-4098-5823) puede ver un ejemplo de un perfil ORCID completo.
 
 Los datos recomendados son: 
 - Nombre completo o iniciales 
@@ -36,7 +36,7 @@ Los datos recomendados son:
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GBIFINSTA.jpg?raw=true" alt="Instalación GBIF">
 ](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f)
 
-2. Una vez tenga activo su perfil de ORCID, dirigirse a [Bionomia](https://es/bionomia.net) y seleccionar "Registrarse con ORCID" en la esquina superior derecha. Al ingresar con ORCID, su perfil será generado automáticamente y podrá configurarlo con sus preferencias en la opción "Configuración", ubicada en el menú desplegable de la parte superior derecha. [Aquí](https://es/bionomia.net/0000-0002-4098-5823) puede ver un ejemplo de un perfil de Bionomia. Más acerca de Bionomia, [aquí](https://es/bionomia.nethow-it-works).
+2. Una vez tenga activo su perfil de ORCID, dirigirse a [Bionomia](https://es/bionomia.net) y seleccionar "Registrarse con ORCID" en la esquina superior derecha. Al ingresar con ORCID, su perfil será generado automáticamente y podrá configurarlo con sus preferencias en la opción "Configuración", ubicada en el menú desplegable de la parte superior derecha. [Aquí](https://es.bionomia.net/0000-0002-4098-5823) puede ver un ejemplo de un perfil de Bionomia. Más acerca de Bionomia, [aquí](https://es.bionomia.nethow-it-works).
 
 Opciones recomendadas: 
 - Agregar fotografía
