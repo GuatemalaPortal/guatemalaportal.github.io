@@ -43,7 +43,7 @@ Los datos recomendados son para que su perfil aparezca en todas las secciones de
 Opciones recomendadas: 
 - Agregar fotografía
 - Perfil público
-- Conectar perfil con Zenodo (esto vincula el perfil directamente a ORCID para que pase a formar parte de su CV)
+- Conectar perfil con [Zenodo](https://zenodo.org) (esto vincula el perfil directamente a ORCID para que pase a formar parte de su CV)
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomia.jpg?raw=true" alt="Bionomia">](https://es.bionomia.net/0000-0002-4098-5823)
 
