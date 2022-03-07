@@ -54,6 +54,8 @@ Una vez activo el perfil en Bionomia, los investigadores pueden "reclamar" espec
 3. Seleccionar la opción "Descubiertos" para encontrar especímenes asociados con su nombre o su código ORCID.
 4. Seleccionar el ícono correspondiente según haya colectado o identificado el espécimen. 
 
+[<img src="https:github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomiadisc.jpg?raw=true" alt="Especímenes Bionomia">]
+
 ## Atribuir registros a otros investigadores
 
 Otra actividad importante para realizar en Bionomia, es contribuir en la atribución de especímenes a otros investigadores. Para hacer esto, dirigirse al botón "Ayudar a otros" en la parte superior derecha del perfil. Puede buscar investigadores por país, por nombre, o por medio de su código ORCID o Wikidata. 
