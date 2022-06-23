@@ -7,7 +7,7 @@ nav_order: 4
 
 # Listados de Especies en el Portal de Biodiversidad
 
-Todos los usuarios [registrados](https://guatemalaportal.github.io/docs/unirse#crear-una-cuenta) en el Portal de Biodiversidad pueden generar listados de especies desde sus cuentas. Los listados de especies pueden ser privados o públicos, y pueden ser personalizados según los intereses de los investigadores. 
+Los usuarios [registrados](https://guatemalaportal.github.io/docs/unirse#crear-una-cuenta) en el Portal de Biodiversidad pueden generar listados de especies desde sus cuentas, una vez cuenten con los permisos de acceso necesarios (enviar solicitud a ayuda@symbiota.org). Los listados de especies pueden ser privados o públicos, y pueden ser personalizados según los intereses de los investigadores. 
 {: .fs-5 .fw-300 }
 
 ---
