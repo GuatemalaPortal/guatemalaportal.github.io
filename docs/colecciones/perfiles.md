@@ -71,12 +71,14 @@ Para más información acerca de los perfiles de manejo de colecciones, pueden d
 - [Colección de Mamíferos (UVGM)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=4): Ocurrencias, especímenes preservados.
 - [Colección de Peces (UVGFI)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=5): Ocurrencias, especímenes preservados.
 - [Colección de Reptiles (UVGR)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=6): Ocurrencias, especímenes preservados.
-- [Colección de Orquídeas (UVGO)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=22): Ocurrencias, especímenes preservados.
+- [Colección de Orquídeas (UVGO)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=22): Ocurrencias, especímenes vivos.
+- [Colección de Bromelias (UVGB)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=104): Ocurrencias, especímenes vivos.
 - [Colección de Registros Fotográficos (UVGF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=7): Ocurrencias, observaciones.
 - [Colección de Tejidos (UVGT)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=81): Ocurrencias, especímenes preservados/muestras.
 - [Herbario UVAL (UVAL)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19): Ocurrencias, especímenes preservados.
 
 ### Escuela de Biología, Universidad de San Carlos
+- [Colección de Anélidos Clitelados (USACClitellata)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110): Ocurrencias, especímenes preservados.
 - [Colección de Cnidarios (USACCni)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=73): Ocurrencias, especímenes preservados.
 - [Colección de Entomología (USAC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=17): Ocurrencias, especímenes preservados.
 - [Colección de Equinodermos (USACEchi)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=74): Ocurrencias, especímenes preservados.
@@ -91,6 +93,7 @@ Para más información acerca de los perfiles de manejo de colecciones, pueden d
 ### Centro de Estudios Conservacionistas, Universidad de San Carlos
 - [Herbario USCG-CECON (USCG)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=21): Ocurrencias, especímenes preservados.
 - [Herbario USCG-CECON Hongos (USCG-Hongos)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=69): Ocurrencias, especímenes preservados.
+- [Herbario USCG-CECON Líquenes (USCG-Líquenes)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=91): Ocurrencias, especímenes preservados.
 
 ### Centro Universitario de Zacapa
 - [Colección de Aves de Zacapa (CAZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49): Ocurrencias, especímenes preservados.
@@ -98,4 +101,5 @@ Para más información acerca de los perfiles de manejo de colecciones, pueden d
 
 ### Perfiles Generales para Investigadores
 - [Animales](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=93): Ocurrencias, observaciones.
+- [Hongos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=115): Ocurrencias, observaciones.
 - [Plantas](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=92): Ocurrencias, observaciones.
