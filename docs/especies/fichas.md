@@ -16,6 +16,6 @@ Al digitalizar especímenes u observaciones, los datos y fotografías se van agr
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Quetzal.jpg?raw=true" alt="Ficha Especie">](https://biodiversidad.gt/portal/taxa/index.php?taxon=Pharomachrus+mocinno&formsubmit=Search+Terms)
 
-Únicamente los [usuarios registrados](https://guatemalaportal.github.io/docs/unirse#crear-una-cuenta) con permisos taxonómicos (especialistas de los distintos grupos) pueden editar las fichas de especies. 
+Únicamente los [usuarios registrados](https://guatemalaportal.github.io/docs/unirse#crear-una-cuenta) con permisos taxonómicos (especialistas de los distintos grupos) pueden editar las fichas de especies. Los usuarios también pueden alimentar directamente las fichas de especies, solicitando acceso a los perfiles para investigadores ([animales]([url](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=93)), [plantas]([url](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=92)), [hongos]([url](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=115))), desde donde pueden añadir imágenes y registros obtenidos en sus investigaciones. 
 
 Para más información acerca de las fichas de especies, contactar a los [administradores](https://guatemalaportal.github.io/docs/contactos/) del Portal.
