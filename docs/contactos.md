@@ -16,7 +16,7 @@ nav_order: 9
 ## Symbiota Support Hub
 
 <div class="code-example" markdown="1">
-- **Correo electrónico:** [symbiota[arroba]asu.edu](mailto:symbiota@asu.edu).
+- **Correo electrónico:** [symbiota[arroba]asu.edu](mailto:ayuda@symbiota.org).
 - **Sitio web:** [symbiota.org](https://symbiota.org/contact-the-support-hub/) 
 - **Discusiones:** [GitHub](https://github.com/BioKIC/symbiota-docs/discussions)
 - **Webinars:** [Symbiota Support Group](https://www.idigbio.org/content/symbiota-support-group). En vivo, el primer lunes de cada mes.
