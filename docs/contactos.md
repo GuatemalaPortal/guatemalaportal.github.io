@@ -10,7 +10,7 @@ nav_order: 9
 <div class="code-example" markdown="1">
 ### Administradores del Portal
 - **Samanta Orellana**, Arizona State University, [sorellana[arroba]asu.edu](mailto:sorellana@asu.edu).
-- **Zabdi López**, Universidad del Valle de Guatemala, [zmlopez[arroba]uvg.edu.gt](mailto:zmlopez@uvg.edu.gt).
+- **Zabdi López**, Universidad del Valle de Guatemala, [zabdi[arroba]uvg.edu.gt](mailto:zabdi@alumni.uvg.edu.gt).
 </div>
 
 ## Symbiota Support Hub
