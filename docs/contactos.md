@@ -22,6 +22,9 @@ El Portal de Biodiversidad de Guatemala es administrado por dos biólogos guatem
 ## Symbiota Support Hub
 
 El Portal de Biodiversidad de Guatemala forma parte de la red de [portales Symbiota](https://symbiota.org/symbiota-portals), y es mantenido por el Symbiota Support Hub, en Estados Unidos.
+
+<img src="https://symbiota.org/wp-content/uploads/SSHub_PNG-768x415.png" alt="SSH" width="490" height="250">
+
 - **Symbiota Support Hub:** [https://symbiota.org/ayuda/](https://symbiota.org/ayuda/)
 - **Correo electrónico:** [ayuda[arroba]symbiota.org](mailto:ayuda@symbiota.org).
 - **Discusiones:** [GitHub](https://github.com/BioKIC/symbiota-docs/discussions)
