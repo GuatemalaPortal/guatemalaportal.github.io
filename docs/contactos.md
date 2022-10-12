@@ -10,7 +10,7 @@ nav_order: 9
 <div class="code-example" markdown="1">
 ### Administradores del Portal
 
-El Portal de Biodiversidad de Guatemala es administrado por dos biólogos guatemaltecos egresados de la Universidad de San Carlos de Guatemala y de la Universidad del Valle de Guatemala, actualmente realizando estudios de posgrado en Norte América y Europa.
+El Portal de Biodiversidad de Guatemala es administrado por dos biólogos guatemaltecos, actualmente realizando estudios de posgrado en Norte América y Europa.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/AdministradoresPBG.jpg?raw=true" alt="Administradores Portal de Biodiversidad" width="490" height="250">
 
