@@ -14,8 +14,8 @@ El Portal de Biodiversidad de Guatemala es administrado por dos biólogos guatem
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/AdministradoresPBG.jpg?raw=true" alt="Administradores Portal de Biodiversidad" width="490" height="250">
 
-- **Samanta Orellana** [(ORCID)](https://orcid.org/0000-0002-4098-5823), Arizona State University, [sorellana[arroba]asu.edu](mailto:sorellana@asu.edu).
-- **Zabdi López** [(ORCID)](https://orcid.org/0000-0003-0449-7352), Universitetet i Sørøst-Norge, [zabdi[arroba]uvg.edu.gt](mailto:zabdi@alumni.uvg.edu.gt).
+- **Samanta Orellana** [(ORCID)](https://orcid.org/0000-0002-4098-5823), Arizona State University, [contacto](mailto:sorellana@asu.edu).
+- **Zabdi López** [(ORCID)](https://orcid.org/0000-0003-0449-7352), Universitetet i Sørøst-Norge, [contacto](mailto:zabdi@alumni.uvg.edu.gt).
 </div>
 
 ## Symbiota Support Hub
