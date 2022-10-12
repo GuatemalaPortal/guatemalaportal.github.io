@@ -9,6 +9,9 @@ nav_order: 9
 
 <div class="code-example" markdown="1">
 ### Administradores del Portal
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015451_lateral_edited_1661108582.jpg" alt="Araecerus fasciculatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=1154243)
+
 - **Samanta Orellana**, Arizona State University, [sorellana[arroba]asu.edu](mailto:sorellana@asu.edu).
 - **Zabdi López**, Universidad del Valle de Guatemala, [zabdi[arroba]uvg.edu.gt](mailto:zabdi@alumni.uvg.edu.gt).
 </div>
