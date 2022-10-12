@@ -10,6 +10,8 @@ nav_order: 9
 <div class="code-example" markdown="1">
 ### Administradores del Portal
 
+El Portal de Biodiversidad de Guatemala es administrado por dos biólogos guatemaltecos egresados de la Universidad de San Carlos de Guatemala y de la Universidad del Valle de Guatemala, actualmente realizando estudios de posgrado en Norte América y Europa.
+
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/AdministradoresPBG.jpg?raw=true" alt="Administradores Portal de Biodiversidad" width="490" height="250">
 
 - **Samanta Orellana** [(ORCID)](https://orcid.org/0000-0002-4098-5823), Arizona State University, [sorellana[arroba]asu.edu](mailto:sorellana@asu.edu).
@@ -17,10 +19,11 @@ nav_order: 9
 </div>
 
 ## Symbiota Support Hub
-
 <div class="code-example" markdown="1">
-- **Correo electrónico:** [symbiota[arroba]asu.edu](mailto:ayuda@symbiota.org).
-- **Sitio web:** [symbiota.org](https://symbiota.org/contact-the-support-hub/) 
+
+El Portal de Biodiversidad de Guatemala fue generado y es mantenido gracias al Symbiota Support Hub, desde Estados Unidos.
+- **Symbiota Support Hub:** [https://symbiota.org/ayuda/](https://symbiota.org/ayuda/)
+- **Correo electrónico:** [ayuda[arroba]symbiota.org](mailto:ayuda@symbiota.org).
 - **Discusiones:** [GitHub](https://github.com/BioKIC/symbiota-docs/discussions)
 - **Webinars:** [Symbiota Support Group](https://www.idigbio.org/content/symbiota-support-group). En vivo, el primer lunes de cada mes.
 </div>
