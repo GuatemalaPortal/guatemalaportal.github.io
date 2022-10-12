@@ -10,10 +10,10 @@ nav_order: 9
 <div class="code-example" markdown="1">
 ### Administradores del Portal
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015451_lateral_edited_1661108582.jpg" alt="Araecerus fasciculatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=1154243)
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/AdministradoresPBG.jpg?raw=true" alt="Administradores Portal de Biodiversidad" width="490" height="250">
 
-- **Samanta Orellana**, Arizona State University, [sorellana[arroba]asu.edu](mailto:sorellana@asu.edu).
-- **Zabdi López**, Universidad del Valle de Guatemala, [zabdi[arroba]uvg.edu.gt](mailto:zabdi@alumni.uvg.edu.gt).
+- **Samanta Orellana** [(ORCID)](https://orcid.org/0000-0002-4098-5823), Arizona State University, [sorellana[arroba]asu.edu](mailto:sorellana@asu.edu).
+- **Zabdi López** [(ORCID)](https://orcid.org/0000-0003-0449-7352), Universitetet i Sørøst-Norge, [zabdi[arroba]uvg.edu.gt](mailto:zabdi@alumni.uvg.edu.gt).
 </div>
 
 ## Symbiota Support Hub
