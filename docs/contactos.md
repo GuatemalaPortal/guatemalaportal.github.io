@@ -18,10 +18,10 @@ El Portal de Biodiversidad de Guatemala es administrado por dos biólogos guatem
 - **Zabdi López** [(ORCID)](https://orcid.org/0000-0003-0449-7352), Universitetet i Sørøst-Norge, [contacto](mailto:zabdi@alumni.uvg.edu.gt).
 </div>
 
-## Symbiota Support Hub
 <div class="code-example" markdown="1">
+## Symbiota Support Hub
 
-El Portal de Biodiversidad de Guatemala fue generado y es mantenido gracias al Symbiota Support Hub, desde Estados Unidos.
+El Portal de Biodiversidad de Guatemala forma parte de la red de [portales Symbiota](https://symbiota.org/symbiota-portals), y es mantenido por el Symbiota Support Hub, en Estados Unidos.
 - **Symbiota Support Hub:** [https://symbiota.org/ayuda/](https://symbiota.org/ayuda/)
 - **Correo electrónico:** [ayuda[arroba]symbiota.org](mailto:ayuda@symbiota.org).
 - **Discusiones:** [GitHub](https://github.com/BioKIC/symbiota-docs/discussions)
