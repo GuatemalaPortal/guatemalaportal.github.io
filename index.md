@@ -9,7 +9,7 @@ permalink: /
 # Documentación para el Portal de Biodiversidad de Guatemala
 {: .fs-9 }
 
-En esta página pueden encontrar la documentación básica acerca del [Portal Symbiota de Biodiversidad de Guatemala](serv.biokic.asu.edu/guatemala/). 
+En esta página pueden encontrar la documentación básica acerca del [Portal Symbiota de Biodiversidad de Guatemala](https://serv.biokic.asu.edu/guatemala/). 
 {: .fs-6 .fw-300 }
 
 ---
