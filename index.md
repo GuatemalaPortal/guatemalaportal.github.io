@@ -9,8 +9,11 @@ permalink: /
 # Documentación para el Portal de Biodiversidad de Guatemala
 {: .fs-9 }
 
-En esta página pueden encontrar la documentación básica acerca del [Portal Symbiota de Biodiversidad de Guatemala](https://serv.biokic.asu.edu/guatemala/). 
+El [Portal de Biodiversidad de Guatemala](https://serv.biokic.asu.edu/guatemala/) es una plataforma especializada en la digitalización de Colecciones Biológicas del país. El portal está basado en el software [Symbiota](https://symbiota.org/es) y es administrado por biólogos guatemaltecos en apoyo a instituciones científicas nacionales.  
 {: .fs-6 .fw-300 }
+
+[Unirse al Portal de Biodiversidad](https://guatemalaportal.github.io/docs/unirse){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Manejar Colecciones en el Portal de Biodiversidad](https://guatemalaportal.github.io/docs/colecciones/manejo/){: .btn .fs-5 .mb-4 .mb-md-0 } 
+[Symbiota en Español](https://symbiota.org/es){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 ---
 
@@ -18,8 +21,7 @@ En esta página pueden encontrar la documentación básica acerca del [Portal Sy
 
 ---
 
-[Unirse al Portal de Biodiversidad](https://guatemalaportal.github.io/docs/unirse){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Manejar Colecciones en el Portal de Biodiversidad](https://guatemalaportal.github.io/docs/colecciones/manejo/){: .btn .fs-5 .mb-4 .mb-md-0 } 
-[Symbiota en Español](https://symbiota.org/es){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
+
 
 
  
