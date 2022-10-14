@@ -20,7 +20,7 @@ Información acerca del Portal de Biodiversidad de Guatemala y Symbiota.
 
 ---
 
-| [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo Portal" width="200" height="200">] (https://biodiversidad.gt/portal/) [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/Logo_Symbiota.jpg?raw=true" alt="Logo Symbiota" width="300" height="200" >](https://symbiota.org) |
+| [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/_layouts/LogoPortalFotos.jpg?raw=true" alt="Logo Portal" width="200" height="200">](https://biodiversidad.gt/portal/) [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/Logo_Symbiota.jpg?raw=true" alt="Logo Symbiota" width="300" height="200" >](https://symbiota.org) |
 
 ---
 
