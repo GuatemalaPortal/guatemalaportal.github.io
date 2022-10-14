@@ -16,7 +16,7 @@ En esta página pueden encontrar la documentación básica acerca del [Portal Sy
 [Symbiota en Español](https://symbiota.org/es){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal3.jpg?raw=true" alt="Logo" width="850" height="500">](https://biodiversidad.gt/portal/)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/PortalBG.jpg?raw=true" alt="Portal">](https://biodiversidad.gt/portal/)
 ---
 
  
