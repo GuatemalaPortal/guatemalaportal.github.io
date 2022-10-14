@@ -57,6 +57,7 @@ Para activar la opción de exportación de datos a GBIF, es necesario realizar a
 
 ### Universidad del Valle de Guatemala
 - [Colección de Artrópodos (UVGC)](https://www.gbif.org/dataset/624ffcb0-3723-4b6f-9039-eea2e1ef82e2): Ocurrencias, especímenes preservados.
+- [Colección de Bromelias (UVGB)](https://www.gbif.org/dataset/0fe35199-d56c-4242-aae8-ab801fc810ba): Ocurrencias, especímenes preservados.
 - [Colección de Crustáceos (UVGCR)](https://www.gbif.org/dataset/97867fe0-cfe3-470c-877a-06f09c8eb84c): Ocurrencias, especímenes preservados.
 - [Colección de Equinodermos (UVGEC)](https://www.gbif.org/dataset/8057ddea-3c4f-40cf-9910-86b25f43d8ed): : Ocurrencias, especímenes preservados.
 - [Colección de Moluscos (UVGMOL)](https://www.gbif.org/dataset/0cbd57d0-d99e-49f9-b364-2621eea43d52): Ocurrencias, especímenes preservados.
