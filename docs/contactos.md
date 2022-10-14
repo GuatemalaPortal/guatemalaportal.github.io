@@ -25,7 +25,8 @@ El Portal de Biodiversidad de Guatemala forma parte de la red de [portales Symbi
 
 <img src="https://symbiota.org/wp-content/uploads/SSHub_PNG-768x415.png" alt="SSH" width="470" height="250">
 
-- **Correo electrónico:** [ayuda[arroba]symbiota.org](mailto:ayuda@symbiota.org).
-- **Discusiones:** [GitHub](https://github.com/BioKIC/symbiota-docs/discussions)
-- **Webinars:** [Symbiota Support Group](https://www.idigbio.org/content/symbiota-support-group). En vivo, el primer lunes de cada mes.
+[Symbiota](http://symbiota.org/es){: .btn .btn-green } 
+[Symbiota Docs](http://symbiota.org/docs/es){: .btn .btn-green }
+[Canal YouTube Symbiota](https://www.youtube.com/channel/UC7glMVLRnTA6ES3VTsci7iQ){: .btn .btn-green }
+
 </div>
