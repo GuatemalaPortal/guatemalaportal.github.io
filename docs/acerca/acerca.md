@@ -24,7 +24,7 @@ Información acerca del Portal de Biodiversidad de Guatemala y Symbiota.
 
 ---
 
-# Acerca del Portal de Biodiversidad de Guatemala
+## Acerca del Portal de Biodiversidad de Guatemala
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal virtual para el manejo y movilización de información de biodiversidad (registros de ocurrencia de especímenes y observaciones) enfocado en colecciones científicas guatemaltecas. El Portal de Biodiversidad fue generado con la plataforma de código abierto [Symbiota](https://guatemalaportal.github.io/docs/acerca/symbiota/), desarrollada en el Biodiversity Knowledge Integration Center [BioKIC](https://biokic.asu.edu/) de Arizona State University, en Estados Unidos. El principal objetivo del Portal de Biodiversidad es facilitar el manejo de datos de Colecciones Biológicas de Guatemala, en colaboración con los curadores e investigadores de instituciones nacionales. Además, el Portal de Biodiversidad funciona como una [instalación Symbiota](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) para agilizar la publicación de los datos de las colecciones en la Instalación Global para la Información de Biodiversidad [(GBIF)](https://gbif.org). El Portal ha estado activo desde septiembre de 2020, y es administrado por [biólogos guatemaltecos](https://guatemalaportal.github.io/docs/contactos/), con apoyo técnico del [Symbiota Support Hub](https://symbiota.org/ayuda/) de Arizona State University y iDigBio. 
 
@@ -34,8 +34,7 @@ Esta plataforma ya cuenta con más de 100 usuarios, incluyendo curadores, invest
 
 ---
 
-# Acerca de Symbiota
-{: .fs-2 .fw-300 }
+## Acerca de Symbiota
 
 [Symbiota](https://symbiota.org) es un software de libre acceso diseñado para generar portales virtuales de bases de datos de biodiversidad [(Gries, Gilbert & Franz, 2014)](https://doi.org/10.3897/BDJ.2.e1114). Los portales de Symbiota funcionan completamente en línea y están alojados en los servidores del Centro de Integración del Conocimiento de la Biodiversidad [BIOKIC](https://biokic.asu.edu/) de la Universidad Estatal de Arizona (ASU), en Estados Unidos. En sus inicios, este sistema centralizado fue ideado para contribuir con colecciones pequeñas o con recursos limitados, pero ha resultado de utilidad para una gran variedad de instituciones alrededor del mundo, incluyendo Latinoamérica. En la actualidad, se cuenta con algunos portales traducidos al español, para facilitar el acceso a las instituciones de esta y otras regiones hispanohablantes.
 
