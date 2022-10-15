@@ -6,15 +6,6 @@ grand_parent: Perfiles de Colecciones
 nav_order: 2
 ---
 
----
-layout: default
-title: Limpieza de Datos 
-parent: Herramientas Avanzadas
-grand_parent: Perfiles de Colecciones
-nav_order: 1
----
-
-
 # Carga Masiva de Imágenes en el Portal de Biodiversidad 
 {: .no_toc }
 
