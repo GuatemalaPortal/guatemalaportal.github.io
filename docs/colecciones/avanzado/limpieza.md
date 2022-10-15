@@ -10,20 +10,22 @@ nav_order: 1
 # Limpieza de Datos en el Portal de Biodiversidad 
 {: .no_toc }
 
-Existen varias herramientas de limpieza de datos integradas en el Portal de Biodiversidad. Estas son accesibles únicamente a los **administradores** de las colecciones que son manejadas **en vivo** dentro del Portal. Más información en la página de [Limpieza de Datos](https://biokic.github.io/symbiota-docs/es/coll_manager/data_cleaning/) de la [Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/).
-{: .fs-5 .fw-300 }
-
 <div class="code-example" markdown="1">
 Colecciones en vivo
 {: .label .label-blue }
 
 Administradores
 {: .label .label-green }
+
 <div>
+
+
+Existen varias herramientas de limpieza de datos integradas en el Portal de Biodiversidad. Estas son accesibles únicamente a los **administradores** de las colecciones que son manejadas **en vivo** dentro del Portal. Más información en la página de [Limpieza de Datos](https://biokic.github.io/symbiota-docs/es/coll_manager/data_cleaning/) de la [Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/).
+{: .fs-5 .fw-300 }
 
 ---
 
-## Contenido
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -57,7 +59,7 @@ Para encontrar la herramienta específica de Limpieza de Datos Geográficos, deb
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Limpieza%20geogr%C3%A1fica.jpg?raw=true" alt="Limpieza Geográfica">
 
-La herramienta de Limpieza de Datos Geográficos desplegará un listado con el número de países, departamentos y municipios dudosos (mientras estén colocados en los campos correspondientes de País (_Conutry_), Estado/Provincia (_State/Province_) y Condado (_County_)) o faltantes. Puede ingresar en cada uno de los listados generados y sustituir o agregar los nombres que sean necesarios.
+La herramienta de Limpieza de Datos Geográficos desplegará un listado con el número de países, departamentos y municipios dudosos (mientras estén colocados en los campos correspondientes de País (_Country_), Estado/Provincia (_State/Province_) y Condado (_County_)) o faltantes. Puede ingresar en cada uno de los listados generados y sustituir o agregar los nombres que sean necesarios.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Questionable%20countries.jpg?raw=truee" alt="Limpieza Geográfica">
 
