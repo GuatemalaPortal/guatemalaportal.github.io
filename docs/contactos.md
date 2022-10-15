@@ -16,6 +16,10 @@ El Portal de Biodiversidad de Guatemala es administrado por dos biólogos guatem
 
 - **Samanta Orellana** [(ORCID)](https://orcid.org/0000-0002-4098-5823), Arizona State University, [contacto](mailto:sorellana@asu.edu).
 - **Zabdi López** [(ORCID)](https://orcid.org/0000-0003-0449-7352), Universitetet i Sørøst-Norge, [contacto](mailto:zabdi@alumni.uvg.edu.gt).
+
+Contactar a los administradores si desea:
+- Solicitar un nuevo perfil de colecciones
+- Obtener asistencia para el ingreso o manejo de datos
 </div>
 
 <div class="code-example" markdown="1">
@@ -25,6 +29,11 @@ El Portal de Biodiversidad de Guatemala forma parte de la red de [portales Symbi
 
 <img src="https://symbiota.org/wp-content/uploads/SSHub_PNG-768x415.png" alt="SSH" width="470" height="250">
 
+Contactar al equipo Symbiota si desea:
+- Solicitar un nuevo perfil de colecciones
+- Obtener asistencia para el ingreso o manejo de datos
+- Obtener asistencia técnica
+  
 [Symbiota](http://symbiota.org/es){: .btn .btn-green } 
 [Symbiota Docs](http://symbiota.org/docs/es){: .btn .btn-green }
 [Canal YouTube Symbiota](https://www.youtube.com/channel/UC7glMVLRnTA6ES3VTsci7iQ){: .btn .btn-green }
