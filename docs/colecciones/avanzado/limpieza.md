@@ -16,8 +16,7 @@ Colecciones en vivo
 
 Administradores
 {: .label .label-green }
-
-<div>
+</div>
 
 
 Existen varias herramientas de limpieza de datos integradas en el Portal de Biodiversidad. Estas son accesibles únicamente a los **administradores** de las colecciones que son manejadas **en vivo** dentro del Portal. Más información en la página de [Limpieza de Datos](https://biokic.github.io/symbiota-docs/es/coll_manager/data_cleaning/) de la [Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/).
