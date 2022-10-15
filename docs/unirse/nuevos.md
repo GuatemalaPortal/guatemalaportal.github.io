@@ -20,7 +20,6 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 
 1. TOC
 {:toc}
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal.jpg?raw=true" alt="Portal" >
 
 ---
 
@@ -32,6 +31,8 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 - Resolver el captcha y seleccionar la casilla **"No soy un robot"**.
 - Generar cuenta (create login).
 - Para ingresar al portal debe ingresar su **usuario** (login) y la **contraseña**. No confundir el login con el correo electrónico.
+
+<img src="https://symbiota.org/wp-content/uploads/New-Account.jpg" alt="Nueva Cuenta" >
 
 ---
 
