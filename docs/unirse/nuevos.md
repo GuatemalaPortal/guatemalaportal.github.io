@@ -32,7 +32,7 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 - Generar cuenta (create login).
 - Para ingresar al portal debe ingresar su **usuario** (login) y la **contraseña**. No confundir el login con el correo electrónico.
 
-<img src="https://symbiota.org/wp-content/uploads/New-Account.jpg" alt="Nueva Cuenta" >
+| [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NuevoPerfil.jpg?raw=true" alt="Nueva Cuenta"  width="480" height="500">](https://biodiversidad.gt/portal/profile/newprofile.php) |
 
 ---
 
