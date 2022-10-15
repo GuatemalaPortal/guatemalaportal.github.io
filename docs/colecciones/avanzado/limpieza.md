@@ -19,10 +19,11 @@ Colecciones en vivo
 
 Administradores
 {: .label .label-green }
+<div>
 
 ---
 
-## Table of Contents
+## Contenido
 {: .no_toc .text-delta }
 
 1. TOC
