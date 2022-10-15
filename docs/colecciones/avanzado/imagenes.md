@@ -6,12 +6,17 @@ grand_parent: Perfiles de Colecciones
 nav_order: 2
 ---
 
+---
+layout: default
+title: Limpieza de Datos 
+parent: Herramientas Avanzadas
+grand_parent: Perfiles de Colecciones
+nav_order: 1
+---
+
 
 # Carga Masiva de Imágenes en el Portal de Biodiversidad 
 {: .no_toc }
-
-La carga masiva de imágenes, permite importar imágenes obtenidas de proyectos grandes de digitalización. Esta opción debe ser solicitada a los **administradores** del Portal, desde colecciones que son manejadas **en vivo**. 
-{: .fs-5 .fw-300 }
 
 <div class="code-example" markdown="1">
 Colecciones en vivo
@@ -19,6 +24,11 @@ Colecciones en vivo
 
 Administradores del Portal
 {: .label .label-red }
+</div>
+
+
+La carga masiva de imágenes, permite importar imágenes obtenidas de proyectos grandes de digitalización. Esta opción debe ser solicitada a los **administradores** del Portal, desde colecciones que son manejadas **en vivo**. 
+{: .fs-5 .fw-300 }
 
 ---
 
