@@ -163,3 +163,14 @@ En el Portal de Biodiversidad también pueden se pueden generar y consultar list
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/ListadosEspecies.jpg?raw=true)" alt="Listados">](https://biodiversidad.gt/portal/projects/index.php)|
 |:--:|
 |Proyectos de Listados de Especies incluidos en el Portal de Biodiversidad de Guatemala.|
+
+---
+
+## ¿Interesado en utilizar la información?
+
+Los registros publicados en el Portal de Biodiversidad de Guatemala poseen licencias de libre acceso CC0 1.0 (dominio público), CC-BY (permitido utilizar y compartir con atribución) o CC-BY-NC (permitido utilizar y compartir con atribución y sin fines comerciales), por lo que pueden ser explorados y utilizados por todos los usuarios. Sin embargo, se recomienda utilizar la plataforma [GBIF](https://tinyurl.com/portalgbif) para descargar registros destinados a publicaciones y, de esta manera, poder obtener un DOI con el que los registros pueden ser citados. Si los datos se descargan directamente del Portal de Biodiversidad, se recomienda copiar y citar el enlace permanente generado en la búsqueda. 
+
+- Para citar el portal en general, citar como: Biodiversidad de Guatemala. (2022). https://biodiversidad.gt/portal/index.php. [Fecha de acceso].
+
+- Para citar registros de colecciones específicas, citar como: Registros de biodiversidad publicados por: <Lista de Colecciones> (Accesado por medio del Portal de Biodiversidad de Guatemala, https://biodiversidad.gt/portal/index.php, fecha de acceso)
+
