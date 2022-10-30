@@ -50,7 +50,7 @@ En la página principal del Portal de Biodiversidad, se encuentra una casilla de
 
 2. En las páginas de cada especie, va a notar distintos elementos interactivos como imágenes vinculadas, registros disponibles, mapas de distribución y enlaces a literatura. También puede utilizar la flecha en la parte superior para visualizar la página del grupo inmediatamente superior (por ejemplo, el género y la familia).
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Quetzal.jpg?raw=true)" alt="Quetzal" width="320" height="213.4">](https://biodiversidad.gt/portal/taxa/index.php?tid=4458&taxauthid=1&clid=0)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Quetzal.jpg?raw=true)" alt="Quetzal" width="320" height="213.4">](https://biodiversidad.gt/portal/taxa/index.php?tid=4458&taxauthid=1&clid=0)
 
 3. Ingresar en el mapa de distribución, ubicado la esquina inferior derecha, para explorar los registros incluidos en el portal. En cada mapa podrá observar dos tipos de registros, dependiendo el origen de las muestras: por **especímenes de colección** (círculos), por **observaciones** (triángulos). Dar clic en algunos de los círculos o triángulos para explorar la ficha de cada espécimen u observación. 
 
