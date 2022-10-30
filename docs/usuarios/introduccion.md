@@ -13,7 +13,7 @@ La función principal del Portal de Biodiversidad es la digitalización de Colec
 ---
 Para un recorrido rápido por el Portal de Biodiversidad de Guatemala, pueden dirigirse a este [video](https://www.youtube.com/watch?v=L40dI-uqNt0&t=2s). 
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portada%20videos.jpg?raw=true" alt="Tutorial Búsquedas">](https://youtu.be/ZWF7ZwVcSwo)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PortadaIntroducci%C3%B3n.jpg?raw=true" alt="Tutorial">](https://youtu.be/ZWF7ZwVcSwo)
 
 
 A continuación pueden encontrar una secuencia de ejercicios para dar un recorrido por las principales funciones de búsqueda del Portal de Biodiversidad de Guatemala.
@@ -26,9 +26,7 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal
 
 Como primer paso, los usuarios deben dirigirse a [biodiversidad.gt](https://biodiversidad.gt) para ingresar en el Portal de Biodiversidad. 
 
-|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal3.jpg?raw=true" alt="Portal" width="320" height="213.4">](https://biodiversidad.gt)|
-|:--:| 
-|Página principal del Portal de Biodiversidad de Guatemala|
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal3.jpg?raw=true" alt="Portal">](https://biodiversidad.gt)
 
 ## Generar una cuenta en el Portal
 
@@ -37,9 +35,7 @@ Los usuarios no necesitan una cuenta para utilizar las funciones de búsqueda de
 
 1. Dirigirse a la opción “Nueva Cuenta” de la parte superior derecha para generar una cuenta.
 
-|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NuevoPerfil.jpg?raw=true" alt="Nueva Cuenta" width="120" height="200">](https://biodiversidad.gt/portal/profile/newprofile.php)|
-|:--:| 
-|Formulario para solicitar una nueva cuenta de usuario en el Portal de Biodiversidad de Guatemala.|
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NuevoPerfil.jpg?raw=true" alt="Nueva Cuenta" width="140" height="200">](https://biodiversidad.gt/portal/profile/newprofile.php)
 
 ## Búsqueda de especies
 
@@ -54,9 +50,7 @@ En la página principal del Portal de Biodiversidad, se encuentra una casilla de
 
 2. En las páginas de cada especie, va a notar distintos elementos interactivos como imágenes vinculadas, registros disponibles, mapas de distribución y enlaces a literatura. También puede utilizar la flecha en la parte superior para visualizar la página del grupo inmediatamente superior (por ejemplo, el género y la familia).
 
-|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Quetzal.jpg?raw=true)" alt="Quetzal" width="320" height="213.4">](https://biodiversidad.gt/portal/taxa/index.php?tid=4458&taxauthid=1&clid=0)|
-|:--:|
-|Página con la información de la especie _Pharomacrhus mocinno_.|
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Quetzal.jpg?raw=true)" alt="Quetzal" width="320" height="213.4">](https://biodiversidad.gt/portal/taxa/index.php?tid=4458&taxauthid=1&clid=0)
 
 3. Ingresar en el mapa de distribución, ubicado la esquina inferior derecha, para explorar los registros incluidos en el portal. En cada mapa podrá observar dos tipos de registros, dependiendo el origen de las muestras: por **especímenes de colección** (círculos), por **observaciones** (triángulos). Dar clic en algunos de los círculos o triángulos para explorar la ficha de cada espécimen u observación. 
 
