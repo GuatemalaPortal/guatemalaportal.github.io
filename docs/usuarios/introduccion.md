@@ -11,9 +11,9 @@ La función principal del Portal de Biodiversidad es la digitalización de Colec
 {: .fs-5 .fw-300 }
 
 ---
-Para un recorrido rápido por el Portal de Biodiversidad de Guatemala, pueden dirigirse a este [video](https://www.youtube.com/watch?v=L40dI-uqNt0&t=2s). 
+Para un recorrido rápido por el Portal de Biodiversidad de Guatemala, pueden dirigirse a este [video]https://youtu.be/L40dI-uqNt0). 
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PortadaIntroducci%C3%B3n.jpg?raw=true" alt="Tutorial">](https://youtu.be/ZWF7ZwVcSwo)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PortadaIntroducci%C3%B3n.jpg?raw=true" alt="Tutorial">](https://youtu.be/L40dI-uqNt0)
 
 
 A continuación pueden encontrar una secuencia de ejercicios para dar un recorrido por las principales funciones de búsqueda del Portal de Biodiversidad de Guatemala.
