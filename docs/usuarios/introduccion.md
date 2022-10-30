@@ -129,7 +129,7 @@ La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Ma
 
 5. Abrir de nuevo el panel de búsqueda y seleccionar la pestaña “Taxa list”. ¿Cuántas especies hay documentadas en Petén? (pueden dar clic en la opción “Autocolor” para ver cada especie de un color distinto). ¿Estas especies están distribuidas en otros departamentos? Pueden dar clic en el nombre de cada especie para abrir la página de cada una y ver el mapa entero de registros por especie.
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/MapaQuercus.jpg?raw=true)" alt="MapaQuercus>
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/MapaQuercus.jpg?raw=true)" alt="MapaQuercus">
 
 6. Regresar al panel de búsqueda en el mapa y seleccionar la pestaña “Collections”. ¿Cuántas colecciones tienen registros digitalizados de estas especies? ¿Cuántas colecciones son de Guatemala? Pueden usar la opción de “Autocolor” para ver los registros de cada colección de distinto color.
 
