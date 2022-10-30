@@ -23,11 +23,15 @@ A continuación pueden encontrar una secuencia de ejercicios para dar un recorri
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal virtual para manejar información de biodiversidad, especialmente datos provenientes de especímenes de colecciones científicas del país. El Portal de Biodiversidad fue generado con la plataforma especializada [Symbiota](https://symbiota.org/es), y está siendo utilizado para digitalizar las colecciones de la Universidad de San Carlos de Guatemala (Escuela de Biología, CECON y CUNZAC) y de la Universidad del Valle de Guatemala (Departamento de Biología y CEAB). 
 
+---
+
 ## Conociendo el Portal de Biodiversidad
 
 Como primer paso, los usuarios deben dirigirse a [biodiversidad.gt](https://biodiversidad.gt) para ingresar en el Portal de Biodiversidad. 
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal.jpg?raw=true" alt="Portal">](https://biodiversidad.gt)
+
+---
 
 ## Generar una cuenta en el Portal
 
@@ -38,11 +42,13 @@ Los usuarios no necesitan una cuenta para utilizar las funciones de búsqueda de
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NuevoPerfil.jpg?raw=true" alt="Nueva Cuenta">](https://biodiversidad.gt/portal/profile/newprofile.php)
 
+---
+
 ## Búsqueda de especies
 
 En la página principal del Portal de Biodiversidad, se encuentra una casilla de búsqueda para localizar especies ingresadas en esta plataforma. Notar que únicamente acepta **nombres científicos** (desde dominios a subespecies). Un menú desplegable va a aparecer con los nombres disponibles.  
 
-1. Dirigirse a la página principal, y buscar las siguientes especies: 
+1. Dirigirse a la [página principal](https://biodiversidad.gt), y buscar las siguientes especies: 
 - _Pharomachrus mocinno_
 - _Cibotopteryx variegata_
 - _Auricularia delicata_
@@ -57,6 +63,8 @@ En la página principal del Portal de Biodiversidad, se encuentra una casilla de
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/MapaQuetzal.jpg?raw=true)" alt="MapaQuetzal">
 
+---
+
 ## Búsqueda de registros en colecciones
 
 En la página de ["Colecciones"](https://biodiversidad.gt/portal/collections/index.php) podrá encontrar las colecciones disponibles. Hasta el momento, el Portal de Biodiversidad cuenta con 36 colecciones de Guatemala (30 de especímenes y 6 de observaciones) y más de 40 colecciones de instituciones extranjeras. 
@@ -70,7 +78,10 @@ En la página de ["Colecciones"](https://biodiversidad.gt/portal/collections/ind
 3. Dar clic en “Mostrar distribución por familia” y elegir una. Por ejemplo Mithracidae (cangrejos) para ver que se despliegan los géneros. Pueden elegir _Mithrax_ y dar clic en el número para ingresar al listado de registros. Ahí pueden ver que sólo hay un registro en esa colección, y pueden dar clic en “Detalles completos del registro” para ingresar en la ficha del espécimen. Es importante notar que cada registro tiene el **número de catálogo del espécimen** (para ubicarlo en la colección) y todos los datos de la etiqueta. Los registros también incluyen imágenes cuando es posible. 
 4. También puedes ir a la pestaña de mapa para ver dónde fue colectado. Si cierran la ventana de la ficha, pueden regresar al listado de registros y dar clic en el link de la especie _Mithrax hispidus_, para ir a la página de la especie y ver si hay registros en otros sitios o colecciones.
 
-**Las colecciones son esenciales y aún falta mucho trabajo por documentar la biodiversidad de Guatemala.**
+|**Las colecciones son esenciales y aún falta mucho trabajo por documentar la biodiversidad de Guatemala.**|
+|:--:|
+
+---
 
 ## Formulario de búsqueda
 
@@ -94,6 +105,8 @@ Para hacer una búsqueda específica, se pueden seleccionar las colecciones que 
 - ¿Cuántas observaciones de Quercus hay en el portal? (Si van a la página 14 de los resultados, van a ver las observaciones importadas de iNaturalist).
 - Si abren el mapa, ¿pueden decir algo acerca de la distribución conocida de estos árboles? (Tal vez están más asociados a tierras altas, tal vez faltan más colectas en tierras bajas, o tal vez ya no hay bosques en las áreas sin registros).
 
+---
+
 ## Búsqueda en mapa
 
 La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Mapa”) es utilizada para buscar los registros de una forma más visual, por ejemplo, los _Quercus_ de tierras bajas. (Esta parte sólo está disponible en inglés).
@@ -111,6 +124,8 @@ La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Ma
 5. Abrir de nuevo el panel de búsqueda y seleccionar la pestaña “Taxa list”. ¿Cuántas especies hay documentadas en Petén? (pueden dar clic en la opción “Autocolor” para ver cada especie de un color distinto). ¿Estas especies están distribuidas en otros departamentos? Pueden dar clic en el nombre de cada especie para abrir la página de cada una y ver el mapa entero de registros por especie.
 
 6. Regresar al panel de búsqueda en el mapa y seleccionar la pestaña “Collections”. ¿Cuántas colecciones tienen registros digitalizados de estas especies? ¿Cuántas colecciones son de Guatemala? Pueden usar la opción de “Autocolor” para ver los registros de cada colección de distinto color.
+
+---
 
 ## Listados de especies
 
