@@ -27,7 +27,7 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal
 
 Como primer paso, los usuarios deben dirigirse a [biodiversidad.gt](https://biodiversidad.gt) para ingresar en el Portal de Biodiversidad. 
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal3.jpg?raw=true" alt="Portal">](https://biodiversidad.gt)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal.jpg?raw=true" alt="Portal">](https://biodiversidad.gt)
 
 ## Generar una cuenta en el Portal
 
