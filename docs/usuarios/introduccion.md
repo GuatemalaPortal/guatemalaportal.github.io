@@ -99,6 +99,8 @@ Para hacer una búsqueda específica, se pueden seleccionar las colecciones que 
 
 5. Clic en “Mostrar lista”.
 
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/B%C3%BAsquedaQuercus.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/list.php?taxa=Quercus&usethes=1&taxontype=2)
+
 6. Revisar los resultados y notar que hay tres pestañas: Listado de especies, Registros de Ocurrencia y Mapa.
 ¿Cuántas especies de Quercus hay en el portal? (asegurarse de seleccionar “Central Thesaurus” en el botón “Filtro taxonómico” en la parte superior derecha. Puedes explicar que esto elimina los sinónimos para no tener especies duplicadas.
 - ¿Cuántos especímenes de _Quercus_ hay en el portal?
