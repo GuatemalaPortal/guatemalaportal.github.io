@@ -76,6 +76,9 @@ En la página de ["Colecciones"](https://biodiversidad.gt/portal/collections/ind
 2. Dar clic en “Mostrar distribución geográfica” y anotar cuáles departamentos están representados.  También pueden dar clic en algún departamento para ver que se despliegan los municipios. 
 
 3. Dar clic en “Mostrar distribución por familia” y elegir una. Por ejemplo Mithracidae (cangrejos) para ver que se despliegan los géneros. Pueden elegir _Mithrax_ y dar clic en el número para ingresar al listado de registros. Ahí pueden ver que sólo hay un registro en esa colección, y pueden dar clic en “Detalles completos del registro” para ingresar en la ficha del espécimen. Es importante notar que cada registro tiene el **número de catálogo del espécimen** (para ubicarlo en la colección) y todos los datos de la etiqueta. Los registros también incluyen imágenes cuando es posible. 
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Cangrejo.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=307733)
+
 4. También puedes ir a la pestaña de mapa para ver dónde fue colectado. Si cierran la ventana de la ficha, pueden regresar al listado de registros y dar clic en el link de la especie _Mithrax hispidus_, para ir a la página de la especie y ver si hay registros en otros sitios o colecciones.
 
 |**Las colecciones son esenciales y aún falta mucho trabajo por documentar la biodiversidad de Guatemala.**|
