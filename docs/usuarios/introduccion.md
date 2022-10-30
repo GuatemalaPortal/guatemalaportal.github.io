@@ -35,7 +35,7 @@ Los usuarios no necesitan una cuenta para utilizar las funciones de búsqueda de
 
 1. Dirigirse a la opción “Nueva Cuenta” de la parte superior derecha para generar una cuenta.
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NuevoPerfil.jpg?raw=true" alt="Nueva Cuenta" width="150" height="200">](https://biodiversidad.gt/portal/profile/newprofile.php)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NuevoPerfil.jpg?raw=true" alt="Nueva Cuenta">](https://biodiversidad.gt/portal/profile/newprofile.php)
 
 ## Búsqueda de especies
 
@@ -50,15 +50,17 @@ En la página principal del Portal de Biodiversidad, se encuentra una casilla de
 
 2. En las páginas de cada especie, va a notar distintos elementos interactivos como imágenes vinculadas, registros disponibles, mapas de distribución y enlaces a literatura. También puede utilizar la flecha en la parte superior para visualizar la página del grupo inmediatamente superior (por ejemplo, el género y la familia).
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Quetzal.jpg?raw=true)" alt="Quetzal" width="320" height="213.4">](https://biodiversidad.gt/portal/taxa/index.php?tid=4458&taxauthid=1&clid=0)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Quetzal.jpg?raw=true)" alt="Quetzal">](https://biodiversidad.gt/portal/taxa/index.php?tid=4458&taxauthid=1&clid=0)
 
 3. Ingresar en el mapa de distribución, ubicado la esquina inferior derecha, para explorar los registros incluidos en el portal. En cada mapa podrá observar dos tipos de registros, dependiendo el origen de las muestras: por **especímenes de colección** (círculos), por **observaciones** (triángulos). Dar clic en algunos de los círculos o triángulos para explorar la ficha de cada espécimen u observación. 
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/MapaQuetzal.jpg?raw=true)" alt="MapaQuetzal">]
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/MapaQuetzal.jpg?raw=true)" alt="MapaQuetzal">
 
 ## Búsqueda de registros en colecciones
 
 En la página de ["Colecciones"](https://biodiversidad.gt/portal/collections/index.php) podrá encontrar las colecciones disponibles. Hasta el momento, el Portal de Biodiversidad cuenta con 36 colecciones de Guatemala (30 de especímenes y 6 de observaciones) y más de 40 colecciones de instituciones extranjeras. 
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/ColeccionesPortal.jpg?raw=true)" alt="Colecciones">](https://biodiversidad.gt/portal/collections/index.php)
 
 1. Seleccionar una colección y hacer clic en “Más información” para ver los detalles. Por ejemplo, si ingresa a la [Colección de Crustáceos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=72) de la Escuela de Biología USAC, pueden ver que la información y contactos, y la cantidad de registros, familias, géneros y especies incluidas en la colección. 
 
@@ -77,6 +79,8 @@ Para hacer una búsqueda específica, se pueden seleccionar las colecciones que 
 
 2. En el formulario ver en la parte de Criterios taxonómicos: que la casilla de sinónimos esté marcada (puedes explicar que los nombres de las especies pueden cambiar con el tiempo y hay nombres antiguos que quedan como sinónimos). Que esté marcada la opción de Nombre científico (pueden desplegar este menú para ver que se puede buscar por familia, grupo taxonómico superior o nombre común que no son tan comunes jaja). 
 
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/B%C3%BAsquedaColecciones.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/harvestparams.php)
+
 3. Añadir un género o una especie en el buscador:  _Quercus_ 
 
 4. Añadir Guatemala en País.
@@ -92,6 +96,8 @@ Para hacer una búsqueda específica, se pueden seleccionar las colecciones que 
 ## Búsqueda en mapa
 
 La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Mapa”) es utilizada para buscar los registros de una forma más visual, por ejemplo, los _Quercus_ de tierras bajas. (Esta parte sólo está disponible en inglés).
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/B%C3%BAsquedaMapa.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/map/index.php)
 
 1. Seleccionar el círculo de la parte superior central.
 
@@ -109,3 +115,4 @@ La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Ma
 
 En el Portal de Biodiversidad también pueden se pueden generar y consultar listados de especies. Por ejemplo, pueden dirigirse al listado de “Encinos y Robles de Guatemala”, basado en el libro del Herbario USCG (ver referencias). Dirigirse al menú superior “Listados de especies” y luego “Plantas”.
 
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/ListadosEspecies.jpg?raw=true)" alt="Listados">](https://biodiversidad.gt/portal/projects/index.php)
