@@ -7,5 +7,5 @@ Sitio web [aquí](https://guatemalaportal.github.io).
 # Contactos
 
 - Samanta Orellana, Arizona State University, sorellana@asu.edu.
-- Zabdi López, Universidad del Valle de Guatemala, zmlopez@uvg.edu.gt.
+- Zabdi López, Universidad del Valle de Guatemala, zabdi@uvg.alumni.edu.gt.
 
