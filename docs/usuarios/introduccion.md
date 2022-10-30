@@ -55,7 +55,7 @@ En la página principal del Portal de Biodiversidad, se encuentra una casilla de
 - _Begonia biserrata_
 - _Cuvieronius hyodon_
 
-2. En las páginas de cada especie, va a notar distintos elementos interactivos como imágenes vinculadas, registros disponibles, mapas de distribución y enlaces a literatura. También puede utilizar la flecha en la parte superior para visualizar la página del grupo inmediatamente superior (por ejemplo, el género y la familia).
+2. En las páginas de cada especie, va a notar distintos elementos interactivos como imágenes vinculadas, registros disponibles, mapas de distribución y enlaces a literatura. También puede utilizar la flecha verde junto al nombre científico, para visualizar la página del grupo inmediatamente superior (por ejemplo, el género y la familia).
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Quetzal.jpg?raw=true)" alt="Quetzal">](https://biodiversidad.gt/portal/taxa/index.php?tid=4458&taxauthid=1&clid=0)
 
