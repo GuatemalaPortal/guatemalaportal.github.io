@@ -26,7 +26,7 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal
 
 Como primer paso, los usuarios deben dirigirse a [biodiversidad.gt](https://biodiversidad.gt) para ingresar en el Portal de Biodiversidad. 
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal3.jpg?raw=true" alt="Portal">](https://biodiversidad.gt)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal3.jpg?raw=true" alt="Portal">](https://biodiversidad.gt)
 
 ## Generar una cuenta en el Portal
 
@@ -35,7 +35,7 @@ Los usuarios no necesitan una cuenta para utilizar las funciones de búsqueda de
 
 1. Dirigirse a la opción “Nueva Cuenta” de la parte superior derecha para generar una cuenta.
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NuevoPerfil.jpg?raw=true" alt="Nueva Cuenta" width="140" height="200">](https://biodiversidad.gt/portal/profile/newprofile.php)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NuevoPerfil.jpg?raw=true" alt="Nueva Cuenta" width="150" height="200">](https://biodiversidad.gt/portal/profile/newprofile.php)
 
 ## Búsqueda de especies
 
