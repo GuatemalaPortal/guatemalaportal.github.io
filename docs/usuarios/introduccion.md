@@ -15,6 +15,7 @@ Para un recorrido rápido por el Portal de Biodiversidad de Guatemala, pueden di
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PortadaIntroducci%C3%B3n.jpg?raw=true" alt="Tutorial">](https://youtu.be/L40dI-uqNt0)
 
+---
 
 A continuación pueden encontrar una secuencia de ejercicios para dar un recorrido por las principales funciones de búsqueda del Portal de Biodiversidad de Guatemala.
 
