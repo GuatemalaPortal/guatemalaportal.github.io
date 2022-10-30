@@ -39,7 +39,7 @@ Como primer paso, los usuarios deben dirigirse a [biodiversidad.gt](https://biod
 
 Los usuarios no necesitan una cuenta para utilizar las funciones de búsqueda del Portal de Biodiversidad. Sin embargo, es necesaria para utilizar ciertas funciones como el editor de Listados de especies y el panel de administración de colecciones. 
 
-Para obtener una cuenta, dirigirse a la opción “Nueva Cuenta” de la parte superior derecha para generar una cuenta.
+Para obtener una cuenta, dirigirse a la opción “[Nueva Cuenta](https://biodiversidad.gt/portal/profile/newprofile.php)” de la parte superior derecha para generar una cuenta. Más información acerca de cómo unirse al portal y de los tipos de usuarios, [aquí](https://guatemalaportal.github.io/docs/unirse).
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NuevoPerfil.jpg?raw=true" alt="Nueva Cuenta" width="340" height="380">](https://biodiversidad.gt/portal/profile/newprofile.php)|
 |:--:|
