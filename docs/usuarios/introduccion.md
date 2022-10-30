@@ -87,7 +87,9 @@ En la página de ["Colecciones"](https://biodiversidad.gt/portal/collections/ind
 
 3. Dar clic en “Mostrar distribución por familia” y elegir una. Por ejemplo Mithracidae (cangrejos) para ver que se despliegan los géneros. Pueden elegir _Mithrax_ y dar clic en el número para ingresar al listado de registros. Ahí pueden ver que sólo hay un registro en esa colección, y pueden dar clic en “Detalles completos del registro” para ingresar en la ficha del espécimen. Es importante notar que cada registro tiene el **número de catálogo del espécimen** (para ubicarlo en la colección) y todos los datos de la etiqueta. Los registros también incluyen imágenes cuando es posible. 
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Cangrejo.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=307733)
+|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Cangrejo.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=307733)|
+|:--:|
+|Ficha del registro digital del espécimen USACCrust0000257, depositado en la [Colección de Crustáceos USAC](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=72).|
 
 4. También pueden dirigirse a la pestaña de **Mapa** para ver dónde fue colectado el espécimen. Al cerrar la ventana de la ficha, pueden regresar al listado de registros y dar clic en el link de _Mithrax hispidus_, para ir a la página de la especie y observar si hay registros en otros sitios o colecciones. 
 
