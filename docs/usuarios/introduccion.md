@@ -79,7 +79,6 @@ En la página de ["Colecciones"](https://biodiversidad.gt/portal/collections/ind
 4. También puedes ir a la pestaña de mapa para ver dónde fue colectado. Si cierran la ventana de la ficha, pueden regresar al listado de registros y dar clic en el link de la especie _Mithrax hispidus_, para ir a la página de la especie y ver si hay registros en otros sitios o colecciones.
 
 |**Las colecciones son esenciales y aún falta mucho trabajo por documentar la biodiversidad de Guatemala.**|
-|:--:|
 
 ---
 
