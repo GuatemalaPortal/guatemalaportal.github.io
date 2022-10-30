@@ -52,20 +52,20 @@ Los usuarios no necesitan una cuenta para utilizar las funciones de búsqueda de
 
 En la página principal del Portal de Biodiversidad, se encuentra una casilla de búsqueda para localizar especies ingresadas en esta plataforma. Notar que únicamente acepta **nombres científicos** (desde dominios a subespecies). Un menú desplegable va a aparecer con los nombres disponibles.  
 
-1. Dirigirse a la [página principal](https://biodiversidad.gt), y buscar las siguientes especies: 
+**1.** Dirigirse a la [página principal](https://biodiversidad.gt), y buscar las siguientes especies: 
 - _Pharomachrus mocinno_
 - _Cibotopteryx variegata_
 - _Auricularia delicata_
 - _Begonia biserrata_
 - _Cuvieronius hyodon_
 
-2. En las páginas de cada especie, va a notar distintos elementos interactivos como imágenes vinculadas, registros disponibles, mapas de distribución y enlaces a literatura. También puede utilizar la flecha verde junto al nombre científico, para visualizar la página del grupo inmediatamente superior (por ejemplo, el género y la familia).
+**2.** En las páginas de cada especie, va a notar distintos elementos interactivos como imágenes vinculadas, registros disponibles, mapas de distribución y enlaces a literatura. También puede utilizar la flecha verde junto al nombre científico, para visualizar la página del grupo inmediatamente superior (por ejemplo, el género y la familia).
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Quetzal.jpg?raw=true)" alt="Quetzal">](https://biodiversidad.gt/portal/taxa/index.php?tid=4458&taxauthid=1&clid=0)|
 |:--:|
 |Página de especie _Pharomachrus mocinno_ De La LLave.|
 
-3. Ingresar en el mapa de distribución, ubicado la esquina inferior derecha, para explorar los registros incluidos en el portal. En cada mapa podrá observar dos tipos de registros, dependiendo el origen de las muestras: por **especímenes de colección** (círculos), por **observaciones** (triángulos). Dar clic en algunos de los círculos o triángulos para explorar la ficha de cada espécimen u observación. 
+**3.** Ingresar en el mapa de distribución, ubicado la esquina inferior derecha, para explorar los registros incluidos en el portal. En cada mapa podrá observar dos tipos de registros, dependiendo el origen de las muestras: por **especímenes de colección** (círculos), por **observaciones** (triángulos). Dar clic en algunos de los círculos o triángulos para explorar la ficha de cada espécimen u observación. 
 
 |<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/MapaQuetzal.jpg?raw=true)" alt="MapaQuetzal">|
 |:--:|
