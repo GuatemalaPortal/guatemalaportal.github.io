@@ -174,3 +174,6 @@ Los registros publicados en el Portal de Biodiversidad de Guatemala poseen licen
 
 - Para citar registros de colecciones específicas, citar como: Registros de biodiversidad publicados por: <Lista de Colecciones> (Accesado por medio del Portal de Biodiversidad de Guatemala, https://biodiversidad.gt/portal/index.php, fecha de acceso)
 
+|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GBIFINSTA.jpg?raw=true)" alt="Instalación GBIF">](https://tinyurl.com/portalgbif)|
+|:--:|
+|Portal de Biodiversidad de Guatemala en GBIF.|
