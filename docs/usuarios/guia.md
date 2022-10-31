@@ -87,7 +87,7 @@ En la página de ["Colecciones"](https://biodiversidad.gt/portal/collections/ind
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Cangrejo.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=307733)|
 |:--:|
-|Ficha del registro digital del espécimen USACCrust0000257, depositado en la [Colección de Crustáceos USAC](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=72).|
+|Ficha del registro digital del espécimen USACrust0000257, depositado en la [Colección de Crustáceos USAC](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=72).|
 
 **4.** También pueden dirigirse a la pestaña de **Mapa** para ver dónde fue colectado el espécimen. Al cerrar la ventana de la ficha, pueden regresar al listado de registros y dar clic en el link de _Mithrax hispidus_, para ir a la página de la especie y observar si hay registros en otros sitios o colecciones. 
 
