@@ -82,9 +82,9 @@ En la página de ["Colecciones"](https://biodiversidad.gt/portal/collections/ind
 
 **1.** Seleccionar una colección y hacer clic en “Más información” para ver los detalles. Por ejemplo, si ingresa a la [Colección de Crustáceos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=72) de la Escuela de Biología USAC, pueden ver que la información y contactos, y la cantidad de registros, familias, géneros y especies incluidas en la colección. 
 
-**2.** Dar clic en “Mostrar distribución geográfica” y anotar cuáles departamentos están representados.  También pueden dar clic en algún departamento para ver que se despliegan los municipios. 
+**2.** Hacer clic en “Mostrar distribución geográfica” y anotar cuáles departamentos están representados.  También pueden dar clic en algún departamento para ver que se despliegan los municipios. 
 
-**3.** Dar clic en “Mostrar distribución por familia” y elegir una. Por ejemplo Mithracidae (cangrejos) para ver que se despliegan los géneros. Pueden elegir _Mithrax_ y dar clic en el número para ingresar al listado de registros. Ahí pueden ver que sólo hay un registro en esa colección, y pueden dar clic en “Detalles completos del registro” para ingresar en la ficha del espécimen. Es importante notar que cada registro tiene el **número de catálogo del espécimen** (para ubicarlo en la colección) y todos los datos de la etiqueta. Los registros también incluyen imágenes cuando es posible. 
+**3.** Hacer clic en “Mostrar distribución por familia” y elegir una. Por ejemplo Mithracidae (cangrejos) para ver que se despliegan los géneros. Pueden elegir _Mithrax_ y dar clic en el número para ingresar al listado de registros. Ahí pueden ver que sólo hay un registro en esa colección, y pueden dar clic en “Detalles completos del registro” para ingresar en la ficha del espécimen. Es importante notar que cada registro tiene el **número de catálogo del espécimen** (para ubicarlo en la colección) y todos los datos de la etiqueta. Los registros también incluyen imágenes cuando es posible. 
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Cangrejo.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=307733)|
 |:--:|
@@ -112,7 +112,7 @@ Para hacer una búsqueda específica, se pueden seleccionar las colecciones que 
 
 **4.** Añadir Guatemala en País.
 
-**5.** Clic en “Mostrar lista”.
+**5.** Hacer clic en “Mostrar lista”.
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/B%C3%BAsquedaQuercus.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/list.php?taxa=Quercus&usethes=1&taxontype=2)|
 |:--:|
@@ -121,8 +121,7 @@ Para hacer una búsqueda específica, se pueden seleccionar las colecciones que 
 **6.** Revisar los resultados y notar que hay tres pestañas: Listado de especies, Registros de Ocurrencia y Mapa.
 ¿Cuántas especies de Quercus hay en el portal? (asegurarse de seleccionar “Central Thesaurus” en el botón “Filtro taxonómico” en la parte superior derecha. Puedes explicar que esto elimina los sinónimos para no tener especies duplicadas.
 - ¿Cuántos especímenes de _Quercus_ hay en el portal?
-- ¿Cuántas observaciones de Quercus hay en el portal? (Si van a la página 14 de los resultados, van a ver las observaciones importadas de iNaturalist).
-- Si abren el mapa, ¿pueden decir algo acerca de la distribución conocida de estos árboles? (Tal vez están más asociados a tierras altas, tal vez faltan más colectas en tierras bajas, o tal vez ya no hay bosques en las áreas sin registros).
+- ¿Cuántas observaciones de Quercus hay en el portal? (Si van a la página 14 de los resultados, podrán encontrar las observaciones importadas de [iNaturalist](https://inaturalist.org)).
 
 ---
 
@@ -146,7 +145,7 @@ La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Ma
 
 **4.** Agregar Quercus en “Nombre científico” y hacer la búsqueda “Search”.
 
-**5.** Abrir de nuevo el panel de búsqueda y seleccionar la pestaña “Taxa list”. ¿Cuántas especies hay documentadas en Petén? (pueden dar clic en la opción “Autocolor” para ver cada especie de un color distinto). ¿Estas especies están distribuidas en otros departamentos? Pueden dar clic en el nombre de cada especie para abrir la página de cada una y ver el mapa entero de registros por especie.
+**5.** Abrir de nuevo el panel de búsqueda y seleccionar la pestaña “Taxa list”. ¿Cuántas especies hay documentadas en Petén? (pueden hacer clic en la opción “Autocolor” para ver cada especie de un color distinto). ¿Estas especies están distribuidas en otros departamentos? (pueden hacer clic en el nombre de cada especie para abrir la página de cada una y ver el mapa entero de registros por especie).
 
 |<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/MapaQuercus.jpg?raw=true)" alt="MapaQuercus">|
 |:--:|
