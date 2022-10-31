@@ -145,6 +145,8 @@ La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Ma
 |:--:|
 |Registros de _Quercus_ disponibles en el Portal de Biodiversidad de Guatemala, y colecciones que los contienen.|
 
+---
+
 |**Tip:** Además de utilizar las opciones del panel de búsqueda, se puede delimitar un área de búsqueda con las distintas figuras disponibles. 
 
 **1.** Seleccionar la forma de círculo en la barra superior.
