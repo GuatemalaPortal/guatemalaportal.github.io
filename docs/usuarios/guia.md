@@ -18,7 +18,7 @@ La función principal del [Portal de Biodiversidad](https://biodiversidad.gt) es
 
 ## Acerca del Portal de Biodiversidad
 
-El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal virtual para manejar información de biodiversidad, especialmente datos provenientes de especímenes de colecciones científicas del país. El Portal de Biodiversidad fue generado con la plataforma especializada [Symbiota](https://symbiota.org/es), y está siendo utilizado para digitalizar las colecciones de la Universidad de San Carlos de Guatemala (Escuela de Biología, CECON y CUNZAC) y de la Universidad del Valle de Guatemala (Departamento de Biología y CEAB). 
+El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal virtual para manejar información de biodiversidad, especialmente datos provenientes de especímenes de colecciones científicas del país. El Portal de Biodiversidad fue generado con la plataforma especializada [Symbiota](https://symbiota.org/es) con el apoyo del equipo informático de [Arizona State University](https://biokic.asu.edu/) (Estados Unidos), y está siendo utilizado para digitalizar las colecciones de la Universidad de San Carlos de Guatemala (Escuela de Biología, CECON y CUNZAC) y de la Universidad del Valle de Guatemala (Departamento de Biología y CEAB). El Portal de Biodiversidad es dirigido por [biólogos guatemaltecos](https://guatemalaportal.github.io/docs/contactos/), y es mantenido por el [equipo de Symbiota](https://symbiota.org/ayuda/). 
 
 A continuación pueden encontrar una secuencia de ejercicios para dar un recorrido por las principales funciones de búsqueda del Portal de Biodiversidad de Guatemala.
 
@@ -109,7 +109,7 @@ Para hacer una búsqueda específica, se pueden seleccionar las [colecciones](ht
 
 **3.** Añadir un género o una especie en el buscador:  _Quercus_ 
 
-**4.** Añadir Guatemala en País.
+**4.** Añadir Guatemala en la casilla para "País".
 
 **5.** Hacer clic en “Mostrar lista”.
 
@@ -120,7 +120,7 @@ Para hacer una búsqueda específica, se pueden seleccionar las [colecciones](ht
 **6.** Revisar los resultados y notar que hay tres pestañas: Listado de especies, Registros de Ocurrencia y Mapa.
 ¿Cuántas especies de Quercus hay en el portal? (asegurarse de seleccionar “Central Thesaurus” en el botón “Filtro taxonómico” en la parte superior derecha. Puedes explicar que esto elimina los sinónimos para no tener especies duplicadas.
 - ¿Cuántos especímenes de _Quercus_ hay en el portal?
-- ¿Cuántas observaciones de Quercus hay en el portal? (Si van a la página 14 de los resultados, podrán encontrar las observaciones importadas de [iNaturalist](https://inaturalist.org)).
+- ¿Cuántas observaciones de _Quercus_ hay en el portal? (Si van a la página 14 de los resultados, podrán encontrar las observaciones importadas de [iNaturalist](https://inaturalist.org)).
 
 ---
 
@@ -170,7 +170,7 @@ La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Ma
 
 ## Listados de especies
 
-En el Portal de Biodiversidad también pueden se pueden generar y consultar listados de especies. Por ejemplo, pueden dirigirse al listado de “Encinos y Robles de Guatemala”, basado en el libro del Herbario USCG (ver referencias). Dirigirse al menú superior “Listados de especies” y luego “Plantas”.
+En el Portal de Biodiversidad también pueden se pueden generar y consultar [listados de especies](https://biodiversidad.gt/portal/projects/index.php). Por ejemplo, pueden dirigirse al listado de [Encinos y Robles de Guatemala](https://biodiversidad.gt/portal/checklists/checklist.php?clid=53&pid=1), basado en el libro del Herbario USCG (Rodas Duarte y colaboradores, 2018). Dirigirse al menú superior “Listados de especies” y luego “Plantas”.
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/ListadosEspecies.jpg?raw=true)" alt="Listados">](https://biodiversidad.gt/portal/projects/index.php)|
 |:--:|
@@ -180,11 +180,11 @@ En el Portal de Biodiversidad también pueden se pueden generar y consultar list
 
 ## ¿Interesado en utilizar la información?
 
-Los registros publicados en el Portal de Biodiversidad de Guatemala poseen licencias de libre acceso [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (dominio público), [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) (permitido utilizar y compartir con atribución) o [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/) (permitido utilizar y compartir con atribución y sin fines comerciales), por lo que pueden ser explorados y utilizados por todos los usuarios. Sin embargo, **se recomienda utilizar la plataforma [GBIF](https://tinyurl.com/portalgbif) para descargar registros destinados a publicaciones** y, de esta manera, poder obtener un DOI con el que los registros pueden ser citados. Si los datos se descargan directamente del Portal de Biodiversidad, se recomienda copiar y citar el enlace permanente generado en la búsqueda. 
+Los registros publicados en el Portal de Biodiversidad de Guatemala poseen licencias de libre acceso [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (dominio público), [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) (permitido utilizar y compartir con atribución) o [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/) (permitido utilizar y compartir con atribución, sin fines comerciales), por lo que pueden ser explorados y utilizados por todos los usuarios. Sin embargo, **se recomienda utilizar la plataforma [GBIF](https://tinyurl.com/portalgbif) para descargar registros destinados a publicaciones** y, de esta manera, poder obtener un DOI con el que los registros pueden ser citados. Si los datos se descargan directamente del Portal de Biodiversidad, se recomienda copiar y citar el enlace permanente generado en la búsqueda (ícono de vínculo en la esquina superior derecha). 
 
-- Para citar el portal en general, citar como: Biodiversidad de Guatemala. (2022). https://biodiversidad.gt/portal/index.php. [Fecha de acceso].
+- Para citar el portal en general, citar como: Biodiversidad de Guatemala. (2022). https://biodiversidad.gt. [Fecha de acceso].
 
-- Para citar registros de colecciones específicas, citar como: Registros de biodiversidad publicados por: <Lista de Colecciones> (Accesado por medio del Portal de Biodiversidad de Guatemala, https://biodiversidad.gt/portal/index.php, fecha de acceso)
+- Para citar registros de colecciones específicas, citar como: Registros de biodiversidad publicados por: <Lista de Colecciones> (Accesado por medio del Portal de Biodiversidad de Guatemala, [enlace permanente], fecha de acceso)
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PortalGBIF.jpg?raw=true)" alt="Instalación GBIF">](https://tinyurl.com/portalgbif)|
 |:--:|
