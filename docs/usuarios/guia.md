@@ -2,7 +2,7 @@
 layout: default
 title: Guía Rápida
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Guía Rápida para Usuarios
