@@ -16,11 +16,11 @@ La función principal del [Portal de Biodiversidad](https://biodiversidad.gt) es
 
 ---
 
-A continuación pueden encontrar una secuencia de ejercicios para dar un recorrido por las principales funciones de búsqueda del Portal de Biodiversidad de Guatemala.
-
 ## Acerca del Portal de Biodiversidad
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal virtual para manejar información de biodiversidad, especialmente datos provenientes de especímenes de colecciones científicas del país. El Portal de Biodiversidad fue generado con la plataforma especializada [Symbiota](https://symbiota.org/es), y está siendo utilizado para digitalizar las colecciones de la Universidad de San Carlos de Guatemala (Escuela de Biología, CECON y CUNZAC) y de la Universidad del Valle de Guatemala (Departamento de Biología y CEAB). 
+
+A continuación pueden encontrar una secuencia de ejercicios para dar un recorrido por las principales funciones de búsqueda del Portal de Biodiversidad de Guatemala.
 
 ---
 
