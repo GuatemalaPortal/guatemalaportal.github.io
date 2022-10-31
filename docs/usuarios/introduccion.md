@@ -127,7 +127,7 @@ Para hacer una búsqueda específica, se pueden seleccionar las colecciones que 
 
 ## Búsqueda en mapa
 
-La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Mapa”) es utilizada para buscar los registros de una forma más visual. (Esta parte sólo está disponible en inglés).
+La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Mapa”) es utilizada para buscar los registros de una forma más visual. (Esta parte sólo está disponible en inglés). **Tener en cuenta, que la búsqueda en mapa permite visualizar un máximo de 15,000 registros a la vez.**
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/B%C3%BAsquedaMapa.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/map/index.php)|
 |:--:|
@@ -149,7 +149,7 @@ La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Ma
 
 **1.** Seleccionar la forma de círculo en la barra superior.
 
-**2.** Hacer un círculo sobre Petén sin salirse del departamento.
+**2.** Hacer un círculo sobre un área para buscar especies de _Quercus_ registradas.
 
 |<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/MapaPet%C3%A9n.jpg?raw=true)" alt="MapaPetén">|
 |:--:|
@@ -157,9 +157,9 @@ La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Ma
 
 **3.** Ir al panel de búsqueda (Search Panel) en la parte superior izquierda.
 
-**4.** Agregar Quercus en “Nombre científico” y hacer la búsqueda “Search”.
+**4.** Agregar _Quercus_ en “Nombre científico” y hacer la búsqueda “Search”.
 
-**5.** Abrir de nuevo el panel de búsqueda y seleccionar la pestaña “Taxa list”. ¿Cuántas especies hay documentadas en Petén? (pueden hacer clic en la opción “Autocolor” para ver cada especie de un color distinto). ¿Estas especies están distribuidas en otros departamentos? (pueden hacer clic en el nombre de cada especie para abrir la página de cada una y ver el mapa entero de registros por especie).
+**5.** Abrir de nuevo el panel de búsqueda y seleccionar la pestaña “Taxa list”. ¿Cuántas especies hay documentadas en en área? (pueden hacer clic en la opción “Autocolor” para ver cada especie de un color distinto). ¿Estas especies están distribuidas en otros departamentos? (pueden hacer clic en el nombre de cada especie para abrir la página de cada una y ver el mapa entero de registros por especie).
 
 |<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/MapaQuercus.jpg?raw=true)" alt="MapaQuercus">|
 |:--:|
