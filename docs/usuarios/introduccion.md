@@ -127,13 +127,27 @@ Para hacer una búsqueda específica, se pueden seleccionar las colecciones que 
 
 ## Búsqueda en mapa
 
-La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Mapa”) es utilizada para buscar los registros de una forma más visual, por ejemplo, los _Quercus_ de tierras bajas. (Esta parte sólo está disponible en inglés).
+La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Mapa”) es utilizada para buscar los registros de una forma más visual. (Esta parte sólo está disponible en inglés).
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/B%C3%BAsquedaMapa.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/map/index.php)|
 |:--:|
 |Búsqueda en Mapa en el Portal de Biodiversidad de Guatemala.|
 
-**1.** Seleccionar el círculo de la parte superior central.
+**1.** Dirigirse a la opción de [búsqueda en mapa](https://biodiversidad.gt/portal/collections/map/index.php).
+
+**2.** Ir al panel de búsqueda (Search Panel) en la parte superior izquierda.
+
+**3.** Agregar _Quercus_ en "Nombre científico", Guatemala en "País", y hacer la búsqueda en “Search”.
+
+**4.** Regresar al panel de búsqueda en el mapa y seleccionar la pestaña “Collections”. ¿Cuántas colecciones tienen registros digitalizados de este género? ¿Cuántas colecciones son de Guatemala? Pueden usar la opción de “Autocolor” para ver los registros de cada colección de distinto color.
+
+|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/ColeccionesAgregadas.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/map/index.php)|
+|:--:|
+|Registros de _Quercus_ disponibles en el Portal de Biodiversidad de Guatemala, y colecciones que los contienen.|
+
+|**Tip:** Además de utilizar las opciones del panel de búsqueda, se puede delimitar un área de búsqueda con las distintas figuras disponibles. 
+
+**1.** Seleccionar la forma de círculo en la barra superior.
 
 **2.** Hacer un círculo sobre Petén sin salirse del departamento.
 
@@ -149,9 +163,7 @@ La opción de búsqueda en el Mapa (menú superior “Búsqueda” y luego “Ma
 
 |<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/MapaQuercus.jpg?raw=true)" alt="MapaQuercus">|
 |:--:|
-|Listado de especies en una búsqueda en mapa en el Portal de Biodiversidad de Guatemala.|
-
-**6.** Regresar al panel de búsqueda en el mapa y seleccionar la pestaña “Collections”. ¿Cuántas colecciones tienen registros digitalizados de estas especies? ¿Cuántas colecciones son de Guatemala? Pueden usar la opción de “Autocolor” para ver los registros de cada colección de distinto color.
+|Especies de _Quercus_ registradas para Petén en el Portal de Biodiversidad de Guatemala.|
 
 ---
 
