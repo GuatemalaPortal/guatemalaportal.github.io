@@ -97,11 +97,11 @@ En la página de ["Colecciones"](https://biodiversidad.gt/portal/collections/ind
 
 ## Formulario de búsqueda
 
-Para hacer una búsqueda específica, se pueden seleccionar las colecciones que deseamos explorar (clic en el menú superior “Búsqueda” y luego “Colecciones”) y utilizar el [formulario](https://biodiversidad.gt/portal/collections/harvestparams.php) especializado. Notar que pueden hacerse búsquedas de especímenes, de observaciones, o de ambos tipos de registro.
+Para hacer una búsqueda específica, se pueden seleccionar las [colecciones](https://biodiversidad.gt/portal/collections/index.php) que deseamos explorar (clic en el menú superior “Búsqueda” y luego “Colecciones”) y utilizar el formulario especializado. Notar que pueden hacerse búsquedas de especímenes, de observaciones, o de ambos tipos de registro.
 
 **1.** Usar la pestaña de especímenes y observaciones y dejar todas las colecciones seleccionadas. Dar clic en “Siguiente” para ingresar en el formulario de búsqueda. 
 
-**2.** En el formulario ver en la parte de Criterios taxonómicos: que la casilla de sinónimos esté marcada (puedes explicar que los nombres de las especies pueden cambiar con el tiempo y hay nombres antiguos que quedan como sinónimos). Que esté marcada la opción de Nombre científico (pueden desplegar este menú para ver que se puede buscar por familia, grupo taxonómico superior o nombre común que no son tan comunes jaja). 
+**2.** En el [formulario](https://biodiversidad.gt/portal/collections/harvestparams.php) ver en la parte de Criterios taxonómicos: que la casilla de sinónimos esté marcada (puedes explicar que los nombres de las especies pueden cambiar con el tiempo y hay nombres antiguos que quedan como sinónimos). Que esté marcada la opción de Nombre científico (pueden desplegar este menú para ver que se puede buscar por familia, grupo taxonómico superior o nombre común que no son tan comunes jaja). 
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/B%C3%BAsquedaColecciones.jpg?raw=true)" alt="Formulario">](https://biodiversidad.gt/portal/collections/harvestparams.php)|
 |:--:|
