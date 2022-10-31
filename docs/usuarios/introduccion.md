@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Introducción
+title: Guía Rápida
 has_children: false
 nav_order: 1
 ---
 
-# Introducción rápida para usuarios
+# Guía Rápida para Usuarios
 
 La función principal del [Portal de Biodiversidad](https://biodiversidad.gt) es la digitalización de **Colecciones Biológicas de Guatemala**. Sin embargo, también conforma una plataforma robusta para acceder a la información de **biodiversidad del país**, obtenida de diversas fuentes. El Portal posee varias opciones de [búsqueda de información](https://guatemalaportal.github.io/docs/informacion/busqueda/), dependiendo del formato deseado por el usuario. Todos los usuarios, sin necesidad de una cuenta, pueden buscar información en el Portal. 
 {: .fs-5 .fw-300 }
