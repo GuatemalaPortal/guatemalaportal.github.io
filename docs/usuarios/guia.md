@@ -91,8 +91,7 @@ En la página de ["Colecciones"](https://biodiversidad.gt/portal/collections/ind
 
 **4.** También pueden dirigirse a la pestaña de **Mapa** para ver dónde fue colectado el espécimen. Al cerrar la ventana de la ficha, pueden regresar al listado de registros y dar clic en el link de _Mithrax hispidus_, para ir a la página de la especie y observar si hay registros en otros sitios o colecciones. 
 
-{: .highlight }
-  **Las colecciones son esenciales y aún falta mucho trabajo por documentar la biodiversidad de Guatemala.**
+| **Las colecciones son esenciales y aún falta mucho trabajo por documentar la biodiversidad de Guatemala.** |
 
 ---
 
@@ -182,11 +181,6 @@ En el Portal de Biodiversidad también pueden se pueden generar y consultar [lis
 ## ¿Interesado en utilizar la información?
 
 Los registros publicados en el Portal de Biodiversidad de Guatemala poseen licencias de libre acceso [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (dominio público), [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) (permitido utilizar y compartir con atribución) o [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/) (permitido utilizar y compartir con atribución, sin fines comerciales), por lo que pueden ser explorados y utilizados por todos los usuarios. Sin embargo, **se recomienda utilizar la plataforma [GBIF](https://tinyurl.com/portalgbif) para descargar registros destinados a publicaciones** y, de esta manera, poder obtener un DOI con el que los registros pueden ser citados. Si los datos se descargan directamente del Portal de Biodiversidad, se recomienda copiar y citar el enlace permanente generado en la búsqueda (ícono de vínculo en la esquina superior derecha). 
-
-{: .important }
-> Importante
->
-> Se recomienda utilizar la plataforma [GBIF](https://tinyurl.com/portalgbif) para descargar registros destinados a publicaciones.
 
 - Para citar el portal en general, citar como: Biodiversidad de Guatemala. (2022). https://biodiversidad.gt. [Fecha de acceso].
 
