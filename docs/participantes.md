@@ -8,7 +8,7 @@ permalink: /docs/participantes
 
 # Participantes 
 
-Listado de participantes en el proyecto académico del Portal de Biodiversidad de Guatemala.
+Listado de colecciones e instituciones que participan en el Portal de Biodiversidad de Guatemala.
 {: .fs-6 .fw-300 }
 
 
