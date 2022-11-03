@@ -22,9 +22,9 @@ Listado de participantes en el proyecto académico del Portal de Biodiversidad d
 
 ---
 
-| [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Slide1.JPG?raw=true" alt="Participantes">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650093) | 
+| <img src="https://www.simplemappr.net/map/19286" alt="" />| 
 |:--:| 
-|Instituciones guatemaltecas que manejan y digitalizan sus colecciones en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt).|
+|Ubicación de las colecciones guatemaltecas disponibles en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt). Generado con [simplemappr.net](simplemappr.net).|
 
 ## Universidad del Valle de Guatemala
 
@@ -75,7 +75,6 @@ Listado de participantes en el proyecto académico del Portal de Biodiversidad d
 1. [Colección de Aves (CAZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49)
 2. [Colección de Insectos de Zacapa (ICZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43)
 
-| <img src="https://www.simplemappr.net/map/19286" alt="" />| 
+| [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Slide1.JPG?raw=true" alt="Participantes">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650093) | 
 |:--:| 
-|Ubicación de las colecciones guatemaltecas disponibles en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt). Generado con [simplemappr.net](simplemappr.net).|
-
+|Instituciones guatemaltecas que manejan y digitalizan sus colecciones en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt).|
