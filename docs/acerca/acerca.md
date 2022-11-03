@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acerca del Portal de Biodiversidad
+title: Acerca del Portal 
 has_children: false
 nav_order: 7
 ---
