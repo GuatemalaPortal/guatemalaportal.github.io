@@ -26,7 +26,6 @@ Listado de participantes en el proyecto académico del Portal de Biodiversidad d
 |:--:| 
 |Instituciones guatemaltecas que manejan y digitalizan sus colecciones en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt).|
 
-
 ## Universidad del Valle de Guatemala
 
 ### Departamento de Biología, Colecciones Biológicas 
@@ -75,4 +74,8 @@ Listado de participantes en el proyecto académico del Portal de Biodiversidad d
 
 1. [Colección de Aves (CAZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49)
 2. [Colección de Insectos de Zacapa (ICZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43)
+
+| <img src="https://www.simplemappr.net/map/19285" alt="" />| 
+|:--:| 
+|Ubicación de las colecciones guatemaltecas disponibles en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt).|
 
