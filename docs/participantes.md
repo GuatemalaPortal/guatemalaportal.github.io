@@ -43,35 +43,36 @@ Listado de participantes en el proyecto académico del Portal de Biodiversidad d
 
 ### Centro de Estudios Ambientales y Biodiversidad -CEAB-
 
-**1.** Colección de Artrópodos [(UVGC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16)
-**2.** Herbario UVAL [(UVAL)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19)
+1. [Colección de Artrópodos (UVGC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16)
+2. [Herbario UVAL (UVAL)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19)
 
 ## Universidad de San Carlos de Guatemala
 
 ### Sistema de Colecciones Biológicas de la Escuela de Biología
 
-**1.** Colección de Anélidos Clitelados [(USACCli)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110)
-**2.** Colección de Cnidarios [(USACNIDARIOS)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=73)
-**3.** Colección de Crustaceos [(USACRU)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=72)
-**4.** Colección Entomológica [(USAC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=17)
-**5.** Colección de Equinodermos [(USAECHI)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=74)
-**6.** Colección de Moluscos [(USACMOL)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=26)
-**7.** Colección de Porifera [(USACPorifera)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=75)
-**8.** Colección de Aves [(USACA)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=9)
-**9.** Colección de Mamíferos [(USACM)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=1) 
-**10.** Colección Ictiológica [(USACI)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=10)
-**11.** Colección de Paleontológica [(USACPal)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=50)
-**12.** Registros Fotográficos de Vertebrados [(USACF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=8)
-**13.** Cursos de Formación Profesional de Biología [(MUSHNAT-Docencia)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=96)
+1. [Colección de Anélidos Clitelados (USACCli)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110)
+2. [Colección de Cnidarios (USACNIDARIOS)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=73)
+3. [Colección de Crustaceos (USACRU)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=72)
+4. [Colección Entomológica (USAC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=17)
+5. [Colección de Equinodermos (USAECHI)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=74)
+6. [Colección de Moluscos (USACMOL)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=26)
+7. [Colección de Porifera (USACPorifera)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=75)
+8. [Colección de Aves (USACA)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=9)
+9. [Colección de Mamíferos (USACM)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=1)
+10. [Colección Ictiológica (USACI)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=10)
+11. [Colección de Paleontológica (USACPal)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=50)
+12. [Registros Fotográficos de Vertebrados (USACF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=8)
+13. [Cursos de Formación Profesional de Biología (MUSHNAT-Docencia)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=96)
  
 ### Centro de Estudios Conservacionistas -CECON-
 
-**1.** Herbario USCG [(USCG)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=21)
-**2.** Herbario USCG-Hongos [(USCG Hongos)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=69)
-**3.** Herbario USCG-Líquenes [(USCG Líquenes)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=91)
+1. [Herbario USCG (USCG)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=21)
+2. [Herbario USCG-Hongos (USCG Hongos)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=69)
+3. [Herbario USCG-Líquenes (USCG Líquenes)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=91)
+4. [Colección de Frutos y Semillas, Jardín Botánico CECON](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=117)
 
 ### Centro Universitario de Zacapa -CUNZAC-
 
-**1.** Colección de Aves [(CAZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49)
-**2.** Colección de Insectos de Zacapa [(ICZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43)
+1. [Colección de Aves (CAZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49)
+2. [Colección de Insectos de Zacapa (ICZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43)
 
