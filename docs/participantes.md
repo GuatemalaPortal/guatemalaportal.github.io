@@ -7,10 +7,9 @@ permalink: /docs/participantes
 
 
 # Participantes 
-{: .fs-9 }
 
 Listado de colecciones e instituciones guatemaltecas que utilizan el [Portal de Biodiversidad](https://biodiversidad.gt) para la digitalización de sus especímenes y observaciones de animales, plantas, hongos y fósiles.
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 
 
 {: .no_toc }
