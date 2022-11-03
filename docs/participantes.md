@@ -77,5 +77,5 @@ Listado de participantes en el proyecto académico del Portal de Biodiversidad d
 
 | <img src="https://www.simplemappr.net/map/19286" alt="" />| 
 |:--:| 
-|Ubicación de las colecciones guatemaltecas disponibles en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt).|
+|Ubicación de las colecciones guatemaltecas disponibles en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt). Generado con [simplemappr.net](simplemappr.net).|
 
