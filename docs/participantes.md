@@ -31,15 +31,15 @@ Listado de participantes en el proyecto académico del Portal de Biodiversidad d
 
 ### Departamento de Biología, Colecciones Biológicas 
 
-**1.** Colección de Anfibios [(UVGA)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=3)
-**2.** Colección de Aves [(UVGAV)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=2)
-**3.** Colección de Mamíferos [(UVGM)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=4) 
-**4.** Colección de Peces [(UVGI)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=5)
-**5.** Colección de Reptiles [(UVGR)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=6) 
-**6.** Colección de Tejidos [(UVGT)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=81) 
-**7.** Colección de Bromelias [(UVGB)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=104) 
-**8.** Colección de Orquídeas [(UVGO)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=22) 
-**9.** Registros Fotográficos [(UVGF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=7) 
+1. [Colección de Anfibios (UVGA)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=3)
+2. [Colección de Aves (UVGAV)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=2)
+3. [Colección de Mamíferos (UVGM)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=4)
+4. [Colección de Peces (UVGI)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=5)
+5. [Colección de Reptiles (UVGR)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=6)
+6.  [Colección de Tejidos (UVGT)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=81) 
+7.  [Colección de Bromelias (UVGB)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=104) 
+8.  [Colección de Orquídeas (UVGO)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=22) 
+9.  [Registros Fotográficos (UVGF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=7) 
 
 ### Centro de Estudios Ambientales y Biodiversidad -CEAB-
 
