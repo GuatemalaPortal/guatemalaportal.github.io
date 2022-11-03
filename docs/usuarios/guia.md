@@ -93,8 +93,6 @@ En la página de ["Colecciones"](https://biodiversidad.gt/portal/collections/ind
 
 | **Las colecciones son esenciales y aún falta mucho trabajo por documentar la biodiversidad de Guatemala.** |
 
-{: .highlight }
-**Las colecciones son esenciales y aún falta mucho trabajo por documentar la biodiversidad de Guatemala.**
 ---
 
 ## Formulario de búsqueda
