@@ -17,7 +17,7 @@ El [Portal de Biodiversidad de Guatemala](https://serv.biokic.asu.edu/guatemala/
 ---
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NuevoDise%C3%B1oFinal.jpg?raw=true" alt="Portal">](https://biodiversidad.gt/portal/)
-¡Nuevo deseño del Portal de Biodiversidad!
+¡Nuevo diseño del [Portal de Biodiversidad](htttps://biodiversidad.gt)!
 
 ---
 
