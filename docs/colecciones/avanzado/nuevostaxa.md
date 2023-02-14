@@ -63,7 +63,7 @@ Los nombres científicos pueden agregarse de forma manual en el Tesauro Taxonóm
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NewAdded.jpg?raw=true" alt="Nuevo Taxón Añadido">
 
-**Por favor no eliminar nombres. Si hay algún error, reportarlo a los Administradores del Portal **
+**Por favor no eliminar nombres. Si hay algún error, reportarlo a los Administradores del Portal**
 
 
 ---
