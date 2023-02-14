@@ -18,7 +18,7 @@ Administradores del Portal
 </div>
 
 
-El panel de edición del Tesauro Taxonómico permite añadir y actualizar nombres científicos para todo el Portal de Biodiversidad.  Esta opción debe ser solicitada a los [**administradores del Portal**](https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NewAdded.jpg?raw=true) por taxónomos y especialistas de distintos grupos. 
+El panel de edición del Tesauro Taxonómico permite añadir y actualizar nombres científicos para todo el Portal de Biodiversidad.  Esta herramienta necesita permisos especiales y pueden ser solicitados a los [**administradores del Portal**](https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NewAdded.jpg?raw=true) por taxónomos y especialistas de distintos grupos. 
 {: .fs-5 .fw-300 }
 
 ---
