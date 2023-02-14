@@ -35,31 +35,31 @@ El panel de edición del Tesauro Taxonómico permite añadir y actualizar nombre
 
 Los nombres científicos pueden agregarse de forma manual en el Tesauro Taxonómico desde la herramienta de edición específica. Los usuarios deben contar con permisos de acceso para utilizar esta herramienta. Más información en la [Documentación de Symbiota](https://biokic.github.io/symbiota-docs/es/user/taxonomy/)
 
-1. Ingresar al [Portal de Biodiversidad](https://biodiversidad.gt) y dirigirse al Mapa de Sitio.
+1- Ingresar al [Portal de Biodiversidad](https://biodiversidad.gt) y dirigirse al Mapa de Sitio.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/MapaSitio.jpg?raw=true" alt="Mapa de Sitio">
 
-2. Ingresar en el Visualizador del Árbol Taxonómico o Navegador de Taxonomía.
+2- Ingresar en el Visualizador del Árbol Taxonómico o Navegador de Taxonomía.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Navegador.jpg?raw=true" alt="Navegador de Taxonomía">
 
-3. Buscar el taxón que desea agregar.
+3- Buscar el taxón que desea agregar.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Search.jpg?raw=true" alt="Navegador de Taxonomía">
 
-4. Si el taxón no está agregado en el Tesauro, dirigirse al editor de nombres científicos, en la cruz verde arriba a la derecha.
+4- Si el taxón no está agregado en el Tesauro, dirigirse al editor de nombres científicos, en la cruz verde arriba a la derecha.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/New.jpg?raw=true" alt="Búsqueda de Taxa">
 
-5. Ingresar todos los datos, incluyendo el **nombre del taxón**, el **autor**, el **rango** (entre reino y subespecie) y el **taxón superior** (si el taxón superior deseado no está ingresado, debe hacerlo antes de ingresar el nuevo nombre).
+5- Ingresar todos los datos, incluyendo el **nombre del taxón**, el **autor**, el **rango** (entre reino y subespecie) y el **taxón superior** (si el taxón superior deseado no está ingresado, debe hacerlo antes de ingresar el nuevo nombre).
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NewTaxon.jpg?raw=true" alt="Nuevo Taxón">
 
-6. Ingresar todos los datos, incluyendo el **nombre del taxón**, el **autor**, el **rango** (entre reino y subespecie) y el **taxón superior** (si el taxón superior deseado no está ingresado, debe hacerlo antes de ingresar el nuevo nombre).
+6- Ingresar todos los datos, incluyendo el **nombre del taxón**, el **autor**, el **rango** (entre reino y subespecie) y el **taxón superior** (si el taxón superior deseado no está ingresado, debe hacerlo antes de ingresar el nuevo nombre).
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NewTaxon.jpg?raw=true" alt="Nuevo Taxón">
 
-7. Revisar que todos los datos sean correctos en la ficha del nuevo taxón ingresado. Dar clic en el lápiz (a la derecha) si desean editar algo. Dar clic en la cruz verde si desean añadir un nuevo taxón. Si el taxón superior es erróneo, debe editarse en la pestaña “Estado Taxonómico”.
+7- Revisar que todos los datos sean correctos en la ficha del nuevo taxón ingresado. Dar clic en el lápiz (a la derecha) si desean editar algo. Dar clic en la cruz verde si desean añadir un nuevo taxón. Si el taxón superior es erróneo, debe editarse en la pestaña “Estado Taxonómico”.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NewAdded.jpg?raw=true" alt="Nuevo Taxón Añadido">
 
