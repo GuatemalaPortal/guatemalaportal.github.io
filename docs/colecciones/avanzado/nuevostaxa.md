@@ -55,11 +55,7 @@ Los nombres científicos pueden agregarse de forma manual en el Tesauro Taxonóm
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NewTaxon.jpg?raw=true" alt="Nuevo Taxón">
 
-**6-** Ingresar todos los datos, incluyendo el **nombre del taxón**, el **autor**, el **rango** (entre reino y subespecie) y el **taxón superior** (si el taxón superior deseado no está ingresado, debe hacerlo antes de ingresar el nuevo nombre).
-
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NewTaxon.jpg?raw=true" alt="Nuevo Taxón">
-
-**7-** Revisar que todos los datos sean correctos en la ficha del nuevo taxón ingresado. Dar clic en el lápiz (a la derecha) si desean editar algo. Dar clic en la cruz verde si desean añadir un nuevo taxón. Si el taxón superior es erróneo, debe editarse en la pestaña “Estado Taxonómico”.
+**6-** Revisar que todos los datos sean correctos en la ficha del nuevo taxón ingresado. Dar clic en el lápiz (a la derecha) si desean editar algo. Dar clic en la cruz verde si desean añadir un nuevo taxón. Si el taxón superior es erróneo, debe editarse en la pestaña “Estado Taxonómico”.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NewAdded.jpg?raw=true" alt="Nuevo Taxón Añadido">
 
