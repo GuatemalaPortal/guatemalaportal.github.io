@@ -55,6 +55,7 @@ A la fecha (noviembre de 2022), existen 33 perfiles _en vivo_ en el [Portal de B
 
 1. [Colección de Artrópodos (UVGC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16)
 2. [Herbario UVAL (UVAL)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19)
+3. [Registros Fotográficos de Artrópodos (UVGFA)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=127)
 
 ---
 ---
