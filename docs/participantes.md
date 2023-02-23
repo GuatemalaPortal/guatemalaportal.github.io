@@ -11,6 +11,10 @@ permalink: /docs/participantes
 Listado de colecciones e instituciones guatemaltecas que utilizan el [Portal de Biodiversidad](https://biodiversidad.gt) para la digitalización de sus especímenes y observaciones de animales, plantas, hongos y fósiles.
 {: .fs-5 .fw-300 }
 
+| [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Slide1.JPG?raw=true" alt="Participantes">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650093) | 
+|:--:| 
+|Instituciones guatemaltecas que manejan y digitalizan sus colecciones en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt).|
+
 ---
 
 {: .no_toc }
@@ -30,9 +34,12 @@ A la fecha (noviembre de 2022), existen 33 perfiles _en vivo_ en el [Portal de B
 |:--:| 
 |Ubicación de las colecciones guatemaltecas disponibles en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt). Generado con [simplemappr.net](simplemappr.net).|
 
+---
+---
+
 ## Universidad del Valle de Guatemala
 
-### Departamento de Biología, Colecciones Biológicas 
+- Departamento de Biología, Colecciones Biológicas 
 
 1. [Colección de Anfibios (UVGA)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=3)
 2. [Colección de Aves (UVGAV)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=2)
@@ -44,14 +51,17 @@ A la fecha (noviembre de 2022), existen 33 perfiles _en vivo_ en el [Portal de B
 8.  [Colección de Orquídeas (UVGO)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=22) 
 9.  [Registros Fotográficos (UVGF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=7) 
 
-### Centro de Estudios Ambientales y Biodiversidad -CEAB-
+- Centro de Estudios Ambientales y Biodiversidad -CEAB-
 
 1. [Colección de Artrópodos (UVGC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16)
 2. [Herbario UVAL (UVAL)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19)
 
+---
+---
+
 ## Universidad de San Carlos de Guatemala
 
-### Sistema de Colecciones Biológicas de la Escuela de Biología
+- Sistema de Colecciones Biológicas de la Escuela de Biología
 
 1. [Colección de Anélidos Clitelados (USACCli)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110)
 2. [Colección de Cnidarios (USACNIDARIOS)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=73)
@@ -67,18 +77,19 @@ A la fecha (noviembre de 2022), existen 33 perfiles _en vivo_ en el [Portal de B
 12. [Registros Fotográficos de Vertebrados (USACF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=8)
 13. [Cursos de Formación Profesional de Biología (MUSHNAT-Docencia)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=96)
  
-### Centro de Estudios Conservacionistas -CECON-
+- Centro de Estudios Conservacionistas -CECON-
 
 1. [Herbario USCG (USCG)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=21)
 2. [Herbario USCG-Hongos (USCG Hongos)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=69)
 3. [Herbario USCG-Líquenes (USCG Líquenes)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=91)
 4. [Colección de Frutos y Semillas, Jardín Botánico CECON](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=117)
 
-### Centro Universitario de Zacapa -CUNZAC-
+
+---
+---
+
+## Centro Universitario de Zacapa -CUNZAC-
 
 1. [Colección de Aves (CAZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49)
 2. [Colección de Insectos de Zacapa (ICZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43)
 
-| [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Slide1.JPG?raw=true" alt="Participantes">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650093) | 
-|:--:| 
-|Instituciones guatemaltecas que manejan y digitalizan sus colecciones en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt).|
