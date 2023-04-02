@@ -46,7 +46,7 @@ Los datos recomendados son para que su perfil aparezca en todas las secciones de
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/Orcid2.jpg?raw=true" alt="ORCID">
 ](https://www.orcid.org)|
 
-**Para investigadores fallecidos, debe generarse un perfil en [WikiData]**(https://www.wikidata.org/wiki/Wikidata:Main_Page) con los mismos elementos mínimos, y utilizar ese identificador para generar el perfil en Bionomia. Aquí el ejemplo del perfil del [Dr. Enio B. Cano](https://www.wikidata.org/wiki/Q42335752). 
+**Para investigadores fallecidos, debe generarse un perfil en [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page)** con los mismos elementos mínimos, y utilizar ese identificador para generar el perfil en Bionomia. Aquí el ejemplo del perfil del [Dr. Enio B. Cano](https://www.wikidata.org/wiki/Q42335752). 
 
 ---
 
