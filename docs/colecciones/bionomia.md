@@ -9,6 +9,11 @@ nav_order: 9
 # Atribución de especímenes en Bionomia
 {: .no_toc }
 
+<div class="code-example" markdown="1">
+Herramienta externa
+{: .label .label-yellow }
+</div>
+
 [Bionomia](https://es.bionomia.net) es una plataforma desarrollada por [David Shorthouse](https://biss.pensoft.net/article/59167/) para facilitar la atribución de los especímenes publicados en [GBIF](https://gbif.org) a los investigadores y taxónomos que han realizado el trabajo de colecta e identificación, por medio de su código de [ORCID](https://orcid.org) o [Wikidata](https://wikidata.org) en caso de investigadores fallecidos. 
 {: .fs-5 .fw-300 }
 
