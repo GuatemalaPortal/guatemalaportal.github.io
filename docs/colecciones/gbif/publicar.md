@@ -21,7 +21,7 @@ Administradores
 </div>
 
 
-La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.org) es un agregador de datos, que incorpora los registros digitalizados en distintas plataformas a nivel mundial. Esta plataforma busca facilitar el libre acceso a los datos de biodiversidad del mundo y está [integrada](https://www.gbif.org/what-is-gbif) por representantes gubernamentales o científicos de los países [miembros](https://www.gbif.org/es/the-gbif-network), coordinados desde el Secretariado GBIF en Copenhague, Dinamarca ([Guatemala](https://www.gbif.org/country/GT/summary) participa como país asociado desde diciembre de 2021 y [Symbiota](https://www.gbif.org/participant/429) participa como organización asociada desde marzo de 2022). Una de las vías para publicar Colecciones Biológicas guatemaltecas en GBIF, es la instalación Symbiota del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), con la cual se han [publicado](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) más de 30,000 datos e imágenes de 23 colecciones, desde 2020. 
+La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.org) es un agregador de datos, que incorpora los registros digitalizados en distintas plataformas a nivel mundial. Esta plataforma busca facilitar el libre acceso a los datos de biodiversidad del mundo y está [integrada](https://www.gbif.org/what-is-gbif) por representantes gubernamentales o científicos de los países [miembros](https://www.gbif.org/es/the-gbif-network), coordinados desde el Secretariado GBIF en Copenhague, Dinamarca ([Guatemala](https://www.gbif.org/country/GT/summary) participa como país asociado desde diciembre de 2021 y [Symbiota](https://www.gbif.org/participant/429) participa como organización asociada desde marzo de 2022). Una de las vías para publicar Colecciones Biológicas guatemaltecas en GBIF, es la instalación Symbiota del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), con la cual se han [publicado](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) más de 30,000 datos e imágenes de 24 colecciones, desde 2020. 
 {: .fs-5 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.or
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) está programado como una [instalación Symbiota](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) para exportar [registros de ocurrencia](https://guatemalaportal.github.io/docs/colecciones/datos/) (en forma de Archivos Darwin Core) hacia GBIF, por lo que las colecciones que lo integran, pueden utilizar esta herramienta para enviar sus datos a esta plataforma global. Pueden explorar la instalación Symbiota del Portal de Biodiversidad [aquí](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f).
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GBIFINSTA.jpg?raw=true" alt="Instalación GBIF">
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Instalaci%C3%B3n_GuatemalaPortal.jpg?raw=true" alt="Instalación Symbiota">
 ](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f)
 
 ## Requisitos 
@@ -74,6 +74,7 @@ Para activar la opción de exportación de datos a GBIF, es necesario realizar a
 
 ### Escuela de Biología, Universidad de San Carlos
 - [Colección de Anélidos Clitelados (USACClitellata)](https://www.gbif.org/dataset/2b2bc1e8-45c6-4dd5-934d-f19f83fb44cb): Ocurrencias, especímenes preservados.
+- [Colección de Aves (USAC)](https://www.gbif.org/dataset/ceaa20a8-edc2-447b-ac95-b35e1111a02b): Ocurrencias, especímenes preservados.
 - [Colección de Cnidarios (USACCni)](https://www.gbif.org/dataset/94ac7b77-fc60-4ce6-9994-93499027e274): Ocurrencias, especímenes preservados.
 - [Colección de Crustáceos (USACCru)](https://www.gbif.org/dataset/049fe945-6ef0-445a-bd88-f7337af1bb90): Ocurrencias, especímenes preservados.
 - [Colección de Entomología (USAC)](https://www.gbif.org/dataset/430b76a7-2774-491c-94ce-61dde530f6a6): Ocurrencias, especímenes preservados.
