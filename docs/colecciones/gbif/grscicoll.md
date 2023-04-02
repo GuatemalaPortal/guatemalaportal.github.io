@@ -28,9 +28,9 @@ La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.or
 
 ---
 
-## Integración de Información de Colecciones Biológicas en GRSciColl
+## Información de Colecciones Biológicas en GRSciColl
 
-El directorio [GRSciColl](https://www.gbif.org/es/grscicoll) es un recurso independiente y no es actualizado automáticamente a partir de los perfiles de publicadores institucionales (p.e. perfil del [CECON USAC](https://www.gbif.org/es/publisher/1eb0746b-24c4-40b7-9ed7-3381428e9648)) o de los perfiles de cada colección publicada en GBIF (p.e. [Colección de Moluscos USAC](https://www.gbif.org/es/dataset/a48ce09c-1e88-44bc-aa65-9db0d4c545db)). Las instituciones y colecciones biológicas, aún sin estar digitalizadas en el [Portal de Biodiversidad](https://biodiversidad.gt) o compartidas en GBIF (https://tinyurl.com/portalGBIF), deben dirigirse directamente a GRSciColl para ser registradas.  
+El directorio [GRSciColl](https://www.gbif.org/es/grscicoll) es un recurso independiente y no es actualizado automáticamente a partir de los perfiles de publicadores institucionales (p.e. perfil del [CECON USAC](https://www.gbif.org/es/publisher/1eb0746b-24c4-40b7-9ed7-3381428e9648)) o de los perfiles de cada colección publicada en GBIF (p.e. [Colección de Moluscos USAC](https://www.gbif.org/es/dataset/a48ce09c-1e88-44bc-aa65-9db0d4c545db)). Las instituciones y colecciones biológicas pueden registrarse en GRSciColl aún sin estar digitalizadas en el [Portal de Biodiversidad](https://biodiversidad.gt) o compartidas en GBIF (https://tinyurl.com/portalGBIF). Para esto, deben dirigirse directamente a la página de GRSciColl.  
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciColl.jpg?raw=true" alt="GRSciColl">
 ](https://www.gbif.org/es/grscicoll)
@@ -46,7 +46,7 @@ El directorio GRSciColl permite registrar información en dos categorías: **Inf
 
 ---
 
-## Procedimiento para integrar instituciones y colecciones a GRSciColl
+## Procedimiento para Integrar Instituciones y Colecciones en GRSciColl
 
 Antes de iniciar, los encargados deben tener clara la información y la organización de sus respectivas instituciones y colecciones. La información del Directorio únicamente puede ser cambiada por los editores autorizados de GBIF, pero cualquier persona asociada con las colecciones puede hacer sugerencias para que los datos sean actualizados. Es necesario dejar un correo como contacto, para que GBIF confirme la información sugerida.
 
@@ -93,7 +93,7 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
 ## Colecciones compartidas en el Portal de Biodiversidad 
 
-A continuación se presenta un listado de colecciones compartidas en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), bajo sus respectivas instituciones. La información ingresada en cada perfil es mantenida por los curadores y encargados de las colecciones, por lo que podría ser utilizado como guía para sugerir actualizaciones en GRSciColl.
+A continuación se presenta un listado de colecciones compartidas en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), bajo sus respectivas instituciones. La información ingresada en cada perfil es mantenida por los curadores y encargados de las colecciones, por lo que podría ser utilizado como guía para sugerir actualizaciones en GRSciColl. Todas las colecciones, aún las que no estén digitalizadas, pueden registrarse en este directorio.
 
 ### Universidad del Valle de Guatemala
 - [Colección de Artrópodos (UVGC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16): Ocurrencias, especímenes preservados.
