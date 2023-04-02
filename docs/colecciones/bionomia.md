@@ -9,7 +9,7 @@ nav_order: 9
 # Atribución de especímenes en Bionomia
 {: .no_toc }
 
-[Bionomia](https://es.bionomia.net) es una plataforma diseñada para facilitar la atribución de los especímenes publicados en [GBIF](https://gbif.org) a los investigadores y taxónomos que han realizado el trabajo de colecta e identificación, por medio de su código de [ORCID](https://orcid.org) o [Wikidata](https://wikidata.org) en caso de investigadores fallecidos. 
+[Bionomia](https://es.bionomia.net) es una plataforma desarrollada por [David Shorthouse](https://biss.pensoft.net/article/59167/) para facilitar la atribución de los especímenes publicados en [GBIF](https://gbif.org) a los investigadores y taxónomos que han realizado el trabajo de colecta e identificación, por medio de su código de [ORCID](https://orcid.org) o [Wikidata](https://wikidata.org) en caso de investigadores fallecidos. 
 {: .fs-5 .fw-300 }
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/BionomiaHome.jpg?raw=true" alt="Bionomia Home">](https://es.bionomia.net/)|
@@ -43,21 +43,21 @@ Los datos recomendados son para que su perfil aparezca en todas las secciones de
 - Países en los que ha realizado investigación
 - Todas las instituciones de las que ha formado parte
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/Orcid2.jpg?raw=true" alt="ORCID">
-](https://www.orcid.org)
+|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/Orcid2.jpg?raw=true" alt="ORCID">
+](https://www.orcid.org)|
 
 ---
 
 ## Creación de un perfil en Bionomia
 
-Una vez tenga activo su perfil de ORCID, dirigirse a [Bionomia](https://es/bionomia.net) y seleccionar "Registrarse con ORCID" en la esquina superior derecha. Al ingresar con ORCID, su perfil será generado automáticamente y podrá configurarlo con sus preferencias en la opción "Configuración", ubicada en el menú desplegable de la parte superior derecha. [Aquí](https://es.bionomia.net/0000-0002-4098-5823) puede ver un ejemplo de un perfil de Bionomia. Para conocer más acerca de Bionomia, visite su página de [información](https://es.bionomia.net/how-it-works).
+Una vez tenga activo su perfil de ORCID, dirigirse a [Bionomia](https://es/bionomia.net) y seleccionar "Registrarse con ORCID" en la esquina superior derecha. Al ingresar con ORCID, su perfil será generado automáticamente y podrá configurarlo con sus preferencias en la opción "Configuración", ubicada en el menú desplegable de la parte superior derecha. [Aquí](https://es.bionomia.net/0000-0002-4098-5823) puede ver un ejemplo de un perfil de Bionomia. Para conocer más acerca de Bionomia, puede visitar su página de [información](https://es.bionomia.net/how-it-works). Un video informativo generado por Zabdi López puede ser encontrado [aquí](https://youtu.be/VYKSQi0OSD4).
 
 Opciones recomendadas: 
 - Agregar fotografía
 - Configurar el perfil como público
 - Conectar perfil a ORCID con [Zenodo](https://zenodo.org) 
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomia.jpg?raw=true" alt="Bionomia">](https://es.bionomia.net/0000-0002-4098-5823)
+|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomia.jpg?raw=true" alt="Bionomia">](https://es.bionomia.net/0000-0002-4098-5823)|
 
 ---
 
@@ -70,7 +70,7 @@ Una vez activo el perfil en Bionomia, los investigadores pueden "reclamar" espec
 3. Seleccionar la opción "Descubiertos" para encontrar especímenes asociados con su nombre o su código ORCID.
 4. Seleccionar el ícono correspondiente según haya colectado o identificado el espécimen. 
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomiadisc.jpg?raw=true" alt="Especímenes Bionomia">
+|<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/bionomiadisc.jpg?raw=true" alt="Especímenes Bionomia">|
 
 ---
 
@@ -78,4 +78,14 @@ Una vez activo el perfil en Bionomia, los investigadores pueden "reclamar" espec
 
 Otra actividad importante para realizar en Bionomia, es contribuir en la atribución de especímenes a otros investigadores. Para hacer esto, dirigirse al botón "Ayudar a otros" en la parte superior derecha del perfil. Puede buscar investigadores por país, por nombre, o por medio de su código ORCID o Wikidata. 
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/atrib.jpg?raw=true" alt="Atribuciones">
+|<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/atrib.jpg?raw=true" alt="Atribuciones">|
+
+---
+
+## Recursos para colecciones
+
+Cada una de las colecciones digitalizadas en el [Portal de Biodiversidad](https://biodiversidad.gt) y compartidas en GBIF, son importadas a [Bionomia](https://es.bionomia.net) con todos sus datos. Al atribuir registros a colectores y taxónomos, estos investigadores aparecerán vinculados en el [perfil de la colección](https://bionomia.net/dataset/ceaa20a8-edc2-447b-ac95-b35e1111a02b). Esta información también aparece en el [perfil en GBIF](https://www.gbif.org/dataset/ceaa20a8-edc2-447b-ac95-b35e1111a02b), utilizando la extensión de Bionomia para [Firefox](https://addons.mozilla.org/es/firefox/addon/bionomia/) o [Google Chrome](https://chrome.google.com/webstore/detail/bionomia/aodffghldlgnmhbeflkmokghpncnldcn), y puede ser añadida en el [perfil del Portal de Biodiversidad](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=9), añadiendo un botón con el conteo de colectores y taxónomos que han sido vinculados.
+
+|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Colecci%C3%B3nAves_Bionomia.jpg?raw=true" alt="Perfil Colección">](https://bionomia.net/dataset/ceaa20a8-edc2-447b-ac95-b35e1111a02b)|
+|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Colecci%C3%B3nAves_GBIF2.jpg?raw=true" alt="Perfil GBIF">](https://www.gbif.org/dataset/ceaa20a8-edc2-447b-ac95-b35e1111a02b)|
+|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Colecci%C3%B3nAves_Portal2.jpg?raw=true" alt="Perfil GBIF">](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=9)|
