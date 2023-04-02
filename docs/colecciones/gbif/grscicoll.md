@@ -68,7 +68,7 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
 **4.** La información será actualizada por un editor autorizado de GBIF.
 
-**5.** Revisar que el acrónimo de la institución registrado en GRSciColl sea el mismo que se utiliza en el [Portal de Biodiversidad](htttps://biodiversidad.gt) para que los registros sean también vinculados al perfil de GRSciColl. Esta acción no es indispensable para la publicación adecuada de las colecciones en GBIF, pero evita el error "Institution match none", "Collection match none" y "Collection match fuzzy". 
+**5.** Revisar que el acrónimo de la institución registrado en GRSciColl sea el mismo que se utiliza en el [Portal de Biodiversidad](htttps://biodiversidad.gt) para que los registros sean también vinculados al perfil de GRSciColl. Esta acción no es indispensable para la publicación adecuada de las colecciones en GBIF, pero evita el error "Institution match fuzzy". 
 
 | <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/InstitutionFuzzy.jpg?raw=true" alt="Institution Fuzzy"> |
 
