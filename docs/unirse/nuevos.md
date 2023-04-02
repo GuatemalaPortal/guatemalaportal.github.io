@@ -25,7 +25,12 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 
 ## Crear una cuenta
 
-- Ingresar al [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) y dirigirse a la esquina superior derecha para crear una **Nueva Cuenta**.
+- Ingresar al [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) y dirigirse a la esquina superior derecha y dar clic en "Ingresar"
+- Buscar la opción de crear una **Nueva Cuenta**.
+
+| [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/NuevaCuentaPortal.jpg?raw=true" alt="Nueva Cuenta">](https://biodiversidad.gt) |
+
+- Completar el formulario para generar una cuenta nueva.
 - Agregar un usuario o _login_ (recomendamos el formato nombre.apellido), nombre, apellido, contraseña y un correo electrónico.
 - De manera opcional, pueden agregar el [ORCID](https://orcid.org), título e institución a la que pertenecen.
 - Resolver el captcha y seleccionar la casilla **"No soy un robot"**.
