@@ -91,7 +91,7 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
 ## Colecciones compartidas en el Portal de Biodiversidad 
 
-A continuación se presenta un listado de colecciones compartidas en el Portal de Biodiversidad de Guatemala, bajo sus respectivas instituciones. La información ingresada en cada perfil es mantenida por los curadores y encargados de las colecciones, por lo que podría ser utilizado como guía para sugerir actualizaciones en GRSciColl.
+A continuación se presenta un listado de colecciones compartidas en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), bajo sus respectivas instituciones. La información ingresada en cada perfil es mantenida por los curadores y encargados de las colecciones, por lo que podría ser utilizado como guía para sugerir actualizaciones en GRSciColl.
 
 ### Universidad del Valle de Guatemala
 - [Colección de Artrópodos (UVGC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16): Ocurrencias, especímenes preservados.
