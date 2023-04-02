@@ -56,7 +56,7 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
 ### Instituciones
 
-**1.** Ingresar en el [Directorio de GBIF](https://registry.gbif.org/institution/) y buscar las instituciones disponibles para [Guatemala](https://registry.gbif.org/institution/search?q=Guatemala). Si ve su institución, puede dar clic en el botón de **Sugerencia** para ver el formulario. Si no ve su institución, dar clic en el botón de **Crear Nuevo**.
+**1.** Ingresar en el [Directorio de GBIF](https://registry.gbif.org/institution/search) y buscar las instituciones disponibles para [Guatemala](https://registry.gbif.org/institution/search?q=Guatemala). Si ve su institución, puede dar clic en el botón de **Sugerencia** para ver el formulario. Si no ve su institución, dar clic en el botón de **Crear Nuevo**.
 
 | <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciCollInstituci%C3%B3n.jpg?raw=true" alt="GRSciColl Institución"> |
 
@@ -77,7 +77,7 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
  Tener en cuenta que la Institución a la que pertenece la colección debe estar registrada en GRSciColl para poder vincular la información. 
 
-**1.** Ingresar en el [Directorio de GBIF](https://registry.gbif.org/institution/) y buscar las colecciones disponibles para [Guatemala](https://registry.gbif.org/institution/search?q=Guatemala). Si ve su colección, puede dar clic en el botón de **Sugerencia** para ver el formulario. Tener en cuenta que la información de los herbarios es importada directamente del [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) y deben dirigirse a esa página para hacer la mayoría de modificaciones.
+**1.** Ingresar en el [Directorio de GBIF](https://registry.gbif.org/collection/search) y buscar las colecciones disponibles para [Guatemala](https://registry.gbif.org/institution/search?q=Guatemala). Si ve su colección, puede dar clic en el botón de **Sugerencia** para ver el formulario. Tener en cuenta que la información de los herbarios es importada directamente del [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) y deben dirigirse a esa página para hacer la mayoría de modificaciones.
 
 | <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciCollColecci%C3%B3n.jpg?raw=true" alt="GRSciColl Colección"> |
 
