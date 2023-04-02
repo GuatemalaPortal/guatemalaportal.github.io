@@ -11,7 +11,7 @@ nav_order: 8
 
 <div class="code-example" markdown="1">
 Herramienta externa
-{: .label .label-red }
+{: .label .label-yellow }
 </div>
 
 
@@ -30,7 +30,7 @@ La Instalación Global de Información de Biodiversidad [(GBIF)](https://gbif.or
 
 ## Información de Colecciones Biológicas en GRSciColl
 
-El directorio [GRSciColl](https://www.gbif.org/es/grscicoll) es un recurso independiente y no es actualizado automáticamente a partir de los perfiles de publicadores institucionales (p.e. perfil del [CECON USAC](https://www.gbif.org/es/publisher/1eb0746b-24c4-40b7-9ed7-3381428e9648)) o de los perfiles de cada colección publicada en GBIF (p.e. [Colección de Moluscos USAC](https://www.gbif.org/es/dataset/a48ce09c-1e88-44bc-aa65-9db0d4c545db)). Las instituciones y colecciones biológicas pueden registrarse en GRSciColl aún sin estar digitalizadas en el [Portal de Biodiversidad](https://biodiversidad.gt) o compartidas en GBIF (https://tinyurl.com/portalGBIF). Para esto, deben dirigirse directamente a la página de GRSciColl.  
+El directorio [GRSciColl](https://www.gbif.org/es/grscicoll) es un recurso independiente y no es actualizado automáticamente a partir de los perfiles de publicadores institucionales (p.e. perfil del [CECON USAC](https://www.gbif.org/es/publisher/1eb0746b-24c4-40b7-9ed7-3381428e9648)) o de los perfiles de cada colección publicada en GBIF (p.e. [Colección de Moluscos USAC](https://www.gbif.org/es/dataset/a48ce09c-1e88-44bc-aa65-9db0d4c545db)) desde el [Portal de Biodiversidad](https://biodiversidad.gt). Para registrarse en este directorio glogal, las instituciones y colecciones biológicas interesadas pueden hacerlo directamente en [GRSciColl](https://www.gbif.org/es/grscicoll), aún sin estar digitalizadas. 
 
 | [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciColl.jpg?raw=true" alt="GRSciColl">](https://www.gbif.org/es/grscicoll) |
 |:--:| 
@@ -39,7 +39,7 @@ El directorio [GRSciColl](https://www.gbif.org/es/grscicoll) es un recurso indep
 
 El directorio GRSciColl permite registrar información en dos categorías: **Información de Instituciones**, e **Información de Colecciones**. 
 
-- Las **Instituciones** por lo general son universidades, institutos o museos que cuentan con una o varias colecciones biológicas o herbarios. El concepto de institución va a depender de los encargados y puede variar. Por lo general, estas decisiones se ven reflejadas últimamente en cómo los publicadores son inscritos en GBIF, pero puede variar en GRSciColl. Si vemos algunos casos en Guatemala, una universidad completa fue ser considerada una institución (p.e. [Universidad del Valle de Guatemala](https://www.gbif.org/publisher/5c1a4c27-795a-4294-aecc-46d7176706b7)), o dos departamentos dentro de la misma universidad pueden ser consideradas instituciones independientes (p.e. el [Centro de Estudios Conservacionistas](https://www.gbif.org/publisher/1eb0746b-24c4-40b7-9ed7-3381428e9648) y el [Sistema de Colecciones Biológicas de la Escuela de Biologia](https://www.gbif.org/es/publisher/bae69d55-51ab-4e97-a219-596ede861a55), ambos de la USAC). 
+- Las **Instituciones** por lo general son universidades, institutos o museos que cuentan con una o varias colecciones biológicas o herbarios. El concepto de institución va a depender de los encargados y puede variar. Por lo general, estas decisiones se ven reflejadas últimamente en cómo los publicadores son inscritos en GBIF, pero puede variar en GRSciColl. Si vemos algunos casos en Guatemala, una universidad completa puede ser considerada una institución (p.e. [Universidad del Valle de Guatemala](https://www.gbif.org/publisher/5c1a4c27-795a-4294-aecc-46d7176706b7)), o dos departamentos dentro de la misma universidad pueden ser consideradas instituciones independientes (p.e. el [Centro de Estudios Conservacionistas](https://www.gbif.org/publisher/1eb0746b-24c4-40b7-9ed7-3381428e9648) y el [Sistema de Colecciones Biológicas de la Escuela de Biologia](https://www.gbif.org/es/publisher/bae69d55-51ab-4e97-a219-596ede861a55), ambos de la USAC). 
 
 - Las **Colecciones** son cada uno de los subconjuntos de especímenes almacenados bajo una institución, generalmente agrupados por taxón. En ocasiones, varias colecciones comparten el mismo espacio físico, pero son distinguidas en sus perfiles digitales en el Portal de Biodiversidad y en GBIF. Por ejemplo, todas las colecciones de invertebrados acuáticos comparten el mismo espacio físico dentro del Sistema de Colecciones Biológicas USAC (en el Museo de Historia Natural), pero cada grupo posee su [perfil digital asociado a esta institución](https://www.gbif.org/dataset/search?publishing_org=bae69d55-51ab-4e97-a219-596ede861a55) y pueden ser registradas así en GRSciColl. Nuevamente, esta clasificación va a depender únicamente de cómo los encargados prefieran organizar las colecciones. 
 
@@ -97,7 +97,7 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
 ## Colecciones compartidas en el Portal de Biodiversidad 
 
-A continuación se presenta un listado de colecciones compartidas en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), bajo sus respectivas instituciones. La información ingresada en cada perfil es mantenida por los curadores y encargados de las colecciones, por lo que podría ser utilizado como guía para sugerir actualizaciones en GRSciColl. Todas las colecciones, aún las que no estén digitalizadas, pueden registrarse en este directorio.
+A continuación se presenta un listado de colecciones biológicas compartidas en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), bajo sus respectivas instituciones. La información ingresada en cada perfil es mantenida por los curadores y encargados de las colecciones, por lo que podría ser utilizado como guía para sugerir actualizaciones en GRSciColl. Todas las colecciones, aún las que no estén digitalizadas, pueden registrarse en este directorio.
 
 | [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal_Nuevo2.jpg?raw=true" alt="Portal de Biodiversidad">](https://biodiversidad.gt) |
 
@@ -113,7 +113,6 @@ A continuación se presenta un listado de colecciones compartidas en el [Portal 
 - [Colección de Reptiles (UVGR)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=6): Ocurrencias, especímenes preservados.
 - [Colección de Orquídeas (UVGO)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=22): Ocurrencias, especímenes vivos.
 - [Colección de Bromelias (UVGB)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=104): Ocurrencias, especímenes vivos.
-- [Colección de Registros Fotográficos (UVGF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=7): Ocurrencias, observaciones.
 - [Colección de Tejidos (UVGT)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=81): Ocurrencias, especímenes preservados/muestras.
 - [Herbario UVAL (UVAL)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19): Ocurrencias, especímenes preservados.
 
@@ -128,7 +127,6 @@ A continuación se presenta un listado de colecciones compartidas en el [Portal 
 - [Colección de Mamíferos (USACM)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=1): Ocurrencias, especímenes preservados.
 - [Colección Ictiológica (USACI)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=10): Ocurrencias, especímenes preservados.
 - [Colección Paleontológica (USACPal)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=50): Ocurrencias, fósiles.
-- [Colección de Registros Fotográficos de Vertebrados (USACF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=8): Ocurrencias, observaciones.
 
 ### Centro de Estudios Conservacionistas, Universidad de San Carlos
 - [Herbario USCG-CECON (USCG)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=21): Ocurrencias, especímenes preservados.
