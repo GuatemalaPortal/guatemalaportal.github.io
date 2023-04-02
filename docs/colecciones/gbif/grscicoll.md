@@ -58,11 +58,11 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
 **1.** Ingresar en el [Directorio de GBIF](https://registry.gbif.org/institution/) y buscar las instituciones disponibles para [Guatemala](https://registry.gbif.org/institution/search?q=Guatemala). Si ve su institución, puede dar clic en el botón de **Sugerencia** para ver el formulario. Si no ve su institución, dar clic en el botón de **Crear Nuevo**.
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciCollInstituci%C3%B3n.jpg?raw=true" alt="GRSciColl Institución">
+| <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciCollInstituci%C3%B3n.jpg?raw=true" alt="GRSciColl Institución"> |
 
 **2.** Completar o actualizar la información de la institución. 
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciCollSugerencia.jpg?raw=true" alt="GRSciColl Sugerencia">
+| <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciCollSugerencia.jpg?raw=true" alt="GRSciColl Sugerencia"> |
 
 **3.** Añadir información y correo electrónico al final del formulario, guardar y enviar.
 
@@ -70,7 +70,7 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
 **5.** Revisar que el acrónimo de la institución registrado en GRSciColl sea el mismo que se utiliza en el [Portal de Biodiversidad](htttps://biodiversidad.gt) para que los registros sean también vinculados al perfil de GRSciColl. Esta acción no es indispensable para la publicación adecuada de las colecciones en GBIF, pero evita el error "Institution match none", "Collection match none" y "Collection match fuzzy". 
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/InstitutionFuzzy.jpg?raw=true" alt="Institution Fuzzy">
+| <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/InstitutionFuzzy.jpg?raw=true" alt="Institution Fuzzy"> |
 
 
 ### Colecciones
@@ -79,11 +79,11 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
 **1.** Ingresar en el [Directorio de GBIF](https://registry.gbif.org/institution/) y buscar las colecciones disponibles para [Guatemala](https://registry.gbif.org/institution/search?q=Guatemala). Si ve su colección, puede dar clic en el botón de **Sugerencia** para ver el formulario. Tener en cuenta que la información de los herbarios es importada directamente del [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) y deben dirigirse a esa página para hacer la mayoría de modificaciones.
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciCollColecci%C3%B3n.jpg?raw=true" alt="GRSciColl Colección">
+| <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciCollColecci%C3%B3n.jpg?raw=true" alt="GRSciColl Colección"> |
 
 **2.** Completar o actualizar la información de la colección. 
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciCollColSugerencia.jpg?raw=true" alt="GRSciColl Sugerencia">
+| <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciCollColSugerencia.jpg?raw=true" alt="GRSciColl Sugerencia"> |
 
 **3.** Añadir información y correo electrónico al final del formulario, guardar y enviar.
 
@@ -91,13 +91,15 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
 **5.** Revisar que el acrónimo de la colección registrado en GRSciColl sea el mismo que se utiliza en el Portal de Biodiversidad para que los registros sean también vinculados al perfil de este directorio. Esta acción no es indispensable para la publicación adecuada de las colecciones en GBIF, pero evita el error "Collection match none" con el acrónimo. Próximamente será posible agregar el GUID generado en el Portal de Biodiversidad para cada colección como identificador Symbiota en GRISciColl. Esto evitará el error de "Collection match none" en campo Collection ID (actualización en progreso por el equipo de GBIF). 
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CollectionFuzzy.jpg?raw=true" alt="Institution Fuzzy">
+| <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CollectionFuzzy.jpg?raw=true" alt="Institution Fuzzy"> |
 
 ---
 
 ## Colecciones compartidas en el Portal de Biodiversidad 
 
 A continuación se presenta un listado de colecciones compartidas en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), bajo sus respectivas instituciones. La información ingresada en cada perfil es mantenida por los curadores y encargados de las colecciones, por lo que podría ser utilizado como guía para sugerir actualizaciones en GRSciColl. Todas las colecciones, aún las que no estén digitalizadas, pueden registrarse en este directorio.
+
+| [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Portal_Nuevo2.jpg?raw=true" alt="Portal de Biodiversidad">](https://biodiversidad.gt) |
 
 ### Universidad del Valle de Guatemala
 - [Colección de Artrópodos (UVGC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16): Ocurrencias, especímenes preservados.
