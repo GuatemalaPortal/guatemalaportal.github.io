@@ -2,7 +2,7 @@
 layout: default
 title: Atribuciones en Bionomia
 parent: Perfiles de Colecciones 
-nav_order: 8
+nav_order: 9
 ---
 
 
