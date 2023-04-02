@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Directorio GRSciColl
-parent: GBIF 
-nav_order: 7
+parent: Perfiles de Colecciones 
+nav_order: 8
 ---
 
 
