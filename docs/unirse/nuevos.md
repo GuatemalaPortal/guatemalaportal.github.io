@@ -34,7 +34,7 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 - Agregar un usuario o _login_ (recomendamos el formato nombre.apellido), nombre, apellido, contraseña y un correo electrónico.
 - De manera opcional, pueden agregar el [ORCID](https://orcid.org), título e institución a la que pertenecen.
 - Resolver el captcha y seleccionar la casilla **"No soy un robot"**.
-- Generar cuenta (create login).
+- Generar cuenta (crear usuario).
 - Para ingresar al portal debe ingresar su **usuario** (login) y la **contraseña**. No confundir el login con el correo electrónico.
 
 | [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/NuevoPerfil.jpg?raw=true" alt="Nueva Cuenta"  width="480" height="500">](https://biodiversidad.gt/portal/profile/newprofile.php) |
