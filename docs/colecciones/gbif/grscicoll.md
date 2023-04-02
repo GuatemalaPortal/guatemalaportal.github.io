@@ -44,6 +44,7 @@ El directorio GRSciColl permite registrar información en dos categorías: **Inf
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Jerarqu%C3%ADaGRSciColl.jpg?raw=true" alt="Jerarquía">
 
+---
 
 ## Procedimiento para integrar instituciones y colecciones a GRSciColl
 
@@ -88,6 +89,7 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CollectionFuzzy.jpg?raw=true" alt="Institution Fuzzy">
 
+---
 
 ## Colecciones compartidas en el Portal de Biodiversidad 
 
