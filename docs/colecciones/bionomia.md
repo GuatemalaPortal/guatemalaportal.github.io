@@ -32,9 +32,9 @@ La digitalización de especímenes en el [Portal de Biodiversidad de Guatemala](
 
 ---
 
-## Registro en ORCID 
+## Registro en ORCID o WikiData
 
-El primer paso para obtener un perfil en [Bionomia](https://es.bionomia.net), es la obtención de un código único de investigador. Esto se logra generando un perfil en [ORCID](https://orcid.org) con los datos mínimos que permitan la identificación (sin lugar a dudas) de los investigadores. No olvide ajustar la privacidad a "pública" en cada una de las casillas que complete. [Aquí](https://orcid.org/0000-0002-4098-5823) puede ver un ejemplo de un perfil ORCID completo.
+El primer paso para obtener un perfil en [Bionomia](https://es.bionomia.net), es la obtención de un código único de investigador. Esto se logra generando un perfil en [ORCID](https://orcid.org) con los datos mínimos que permitan la identificación (sin lugar a dudas) de los investigadores. No olvide ajustar la privacidad a "pública" en cada una de las casillas que complete. [Aquí](https://orcid.org/0000-0002-4098-5823) puede ver un ejemplo de un perfil ORCID completo. 
 
 Los datos recomendados son para que su perfil aparezca en todas las secciones de Bionomia son los siguientes: 
 - Nombre completo o iniciales 
@@ -45,6 +45,8 @@ Los datos recomendados son para que su perfil aparezca en todas las secciones de
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/Orcid2.jpg?raw=true" alt="ORCID">
 ](https://www.orcid.org)|
+
+**Para investigadores fallecidos, debe generarse un perfil en [WikiData]**(https://www.wikidata.org/wiki/Wikidata:Main_Page) con los mismos elementos mínimos, y utilizar ese identificador para generar el perfil en Bionomia. Aquí el ejemplo del perfil del [Dr. Enio B. Cano](https://www.wikidata.org/wiki/Q42335752). 
 
 ---
 
