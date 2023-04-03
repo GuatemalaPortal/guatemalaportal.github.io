@@ -70,7 +70,7 @@ Antes de iniciar, los encargados deben tener clara la información y la organiza
 
 | <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/InstitutionFuzzy.jpg?raw=true" alt="Institution Fuzzy"> |
 
-**6.** La información institucional (p.e. dirección, teléfono) ingresada en GRSciColl puede ser importada directamente en el Portal de Biodiversidad, para asegurar que esta sea uniforme y actualizada (útil para el manejo de préstamos, por ejemplo).
+**6.** La información institucional (p.e. dirección, teléfono) ingresada en GRSciColl puede ser importada directamente en el Portal de Biodiversidad, para asegurar que esta sea uniforme y actualizada en las distintas plataformas a nivel mundial (útil para visitar las colecciones y para el manejo de préstamos, por ejemplo). 
 
 | <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GRSciCollInstitutionData.jpg?raw=true" alt="Información de Institución"> |
 
