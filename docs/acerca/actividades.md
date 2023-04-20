@@ -104,4 +104,4 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Redes Sociales **[Twitter](https://twitter.com/GuatemalaPortal)** **[Facebook](https://www.facebook.com/GuatemalaPortal)** **[Instagram](https://www.instagram.com/guatemalaportal/)**
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CicloDatos.jpg?raw=true" alt="Ciclo" width="330" height="350">
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CicloDatos.jpg?raw=true" alt="Ciclo">
