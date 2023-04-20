@@ -95,6 +95,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2020, Diciembre). **El Portal de Biodiversidad de Guatemala: I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
 
+---
 
 ## Divulgación
 
