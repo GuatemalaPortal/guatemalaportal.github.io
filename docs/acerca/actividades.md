@@ -13,6 +13,55 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 ---
 
+## Talleres
+
+- Orellana, S. (2023, Marzo). **Un Recorrido por el Portal de Biodiversidad.** Dirigido a curadores y usuarios en Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=Jx8ILJQGyaA).
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Recorrido.jpg?raw=true" alt="Recorrido" width="390" height="213.4">](https://www.youtube.com/watch?v=Jx8ILJQGyaA)
+
+- Orellana, S. (2022, Diciembre). **El Portal de Biodiversidad de Guatemala: III Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
+
+- Orellana, S. (2022, Septiembre). **Digitalización y Movilización de Colecciones Biológicas con Symbiota.** Dirigido a curadores en Latinoamérica. Virtual. [Grabación](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerLatinoam%C3%A9rica.jpg?raw=true" alt="Recorrido" width="390" height="213.4">](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
+
+- Orellana, S. (2022, Agosto). **Digitalización de Datos de Biodiversidad y Recursos de Movilización en el Portal de Biodiversidad**. Dirigido a curadores, Virtual.
+
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CharlaInformativa.jpg?raw=true" alt="Charla" width="290" height="300">
+
+- Orellana, S. (2022, Marzo). **Mini Taller: Digitalización de Colecciones Biológicas en el Portal de Biodiversidad de Guatemala.** Taller dirigido a estudiantes de Biología, Virtual. 
+
+- Orellana, S. (2021, Diciembre). **El Portal de Biodiversidad de Guatemala: II Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
+
+- Orellana, S., López, Z., Sánchez-Escalante, J., Bungartz, F., Cartuche, C. (2021, Octubre). Taller **Introducción a las Digitalización de Colecciones Biológicas con Symbiota**. Organizadores y conferencistas. XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación. [Grabación](https://www.youtube.com/watch?v=o6qCm_y6cvA&list=PLodoeyEer2vgws0T3b2wjVrkXVM6IH3SU).
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerSMBC2021.jpg?raw=true" alt="Recorrido" width="330" height="350">](https://www.youtube.com/watch?v=o6qCm_y6cvA&list=PLodoeyEer2vgws0T3b2wjVrkXVM6IH3SU)
+
+- López, Z. (2021, Agosto). I Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala, Guatemala, Virtual.
+
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerUVG.jpg?raw=true" alt="Recorrido" width="450" height="250">
+
+- Orellana, S., López, Z. (2020, Diciembre). **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
+
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Taller2020.jpg?raw=true" alt="Recorrido" width="450" height="250">
+
+ 
+|Participantes| Presentación|
+|:-------------|:-------------|
+|Orellana, S. | **Introducción al Portal de Biodiversidad de Guatemala.** |
+|Yoshimoto, J. | **Colección de Artrópodos de la Universidad del Valle de Guatemala**.|
+|Pérez, S.G., López, J.E. |**La Colección de Mamíferos USAC, Symbiota y El Portal de Biodiversidad de Guatemala**.|
+|Roldán, R.A., Pérez, S.G. |**La Colección de Aves USAC**.|
+|López, Z.M. |**Colecciones Biológicas de la Universidad del Valle de Guatemala**.|
+|Álvarez, M.R. |**Herbario UVAL, Centro de Estudios Ambientales y de Biodiversidad, Universidad del Valle de Guatemala**.|
+|Quezada, M. |**Herbario USCG y Jardín Botánico CECON**.|
+|Cano, E.B. |**Colección Entomológica, Escuela de Biología USAC**.|
+|Barrios Izás, M. |**Museo de Historia Natural de Zacapa**.|
+|Dávila, L. |**Colección Paleontológica, Museo de Historia Natural USAC**.|
+|Orellana, S. |**Digitalización de Colecciones Biológicas con el Portal de Biodiversidad**.|
+|López, Z.M. |**Publicando en GBIF desde el Portal de Biodiversidad de Guatemala**.|
+
+---
 ## Conferencias
 
 - Orellana, S. (2022, Noviembre). **Portales Symbiota como Herramientas de Digitalización de Colecciones de Herbario**. II Simposio de Botánica de Guatemala, Universidad de San Carlos de Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s).
@@ -65,57 +114,6 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 ---
 
-## Talleres
-
-- Orellana, S. (2023, Marzo). **Un Recorrido por el Portal de Biodiversidad.** Dirigido a curadores y usuarios en Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=Jx8ILJQGyaA).
-
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Recorrido.jpg?raw=true" alt="Recorrido" width="390" height="213.4">](https://www.youtube.com/watch?v=Jx8ILJQGyaA)
-
-- Orellana, S. (2022, Diciembre). **El Portal de Biodiversidad de Guatemala: III Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
-
-- Orellana, S. (2022, Septiembre). **Digitalización y Movilización de Colecciones Biológicas con Symbiota.** Dirigido a curadores en Latinoamérica. Virtual. [Grabación](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
-
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerLatinoam%C3%A9rica.jpg?raw=true" alt="Recorrido" width="390" height="213.4">](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
-
-- Orellana, S. (2022, Agosto). **Digitalización de Datos de Biodiversidad y Recursos de Movilización en el Portal de Biodiversidad**. Dirigido a curadores, Virtual.
-
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CharlaInformativa.jpg?raw=true" alt="Charla" width="290" height="300">
-
-- Orellana, S. (2022, Marzo). **Mini Taller: Digitalización de Colecciones Biológicas en el Portal de Biodiversidad de Guatemala.** Taller dirigido a estudiantes de Biología, Virtual. 
-
-- Orellana, S. (2021, Diciembre). **El Portal de Biodiversidad de Guatemala: II Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
-
-- Orellana, S., López, Z., Sánchez-Escalante, J., Bungartz, F., Cartuche, C. (2021, Octubre). Taller **Introducción a las Digitalización de Colecciones Biológicas con Symbiota**. Organizadores y conferencistas. XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación. [Grabación](https://www.youtube.com/watch?v=o6qCm_y6cvA&list=PLodoeyEer2vgws0T3b2wjVrkXVM6IH3SU).
-
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerSMBC2021.jpg?raw=true" alt="Recorrido" width="330" height="350">](https://www.youtube.com/watch?v=o6qCm_y6cvA&list=PLodoeyEer2vgws0T3b2wjVrkXVM6IH3SU)
-
-- López, Z. (2021, Agosto). I Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala, Guatemala, Virtual.
-
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerUVG.jpg?raw=true" alt="Recorrido" width="450" height="250">
-
-- Orellana, S., López, Z. (2020, Diciembre). **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
-
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Taller2020.jpg?raw=true" alt="Recorrido" width="450" height="250">
-
- 
-|Participantes| Presentación|
-|:-------------|:-------------|
-|Orellana, S. | **Introducción al Portal de Biodiversidad de Guatemala.** |
-|Yoshimoto, J. | **Colección de Artrópodos de la Universidad del Valle de Guatemala**.|
-|Pérez, S.G., López, J.E. |**La Colección de Mamíferos USAC, Symbiota y El Portal de Biodiversidad de Guatemala**.|
-|Roldán, R.A., Pérez, S.G. |**La Colección de Aves USAC**.|
-|López, Z.M. |**Colecciones Biológicas de la Universidad del Valle de Guatemala**.|
-|Álvarez, M.R. |**Herbario UVAL, Centro de Estudios Ambientales y de Biodiversidad, Universidad del Valle de Guatemala**.|
-|Quezada, M. |**Herbario USCG y Jardín Botánico CECON**.|
-|Cano, E.B. |**Colección Entomológica, Escuela de Biología USAC**.|
-|Barrios Izás, M. |**Museo de Historia Natural de Zacapa**.|
-|Dávila, L. |**Colección Paleontológica, Museo de Historia Natural USAC**.|
-|Orellana, S. |**Digitalización de Colecciones Biológicas con el Portal de Biodiversidad**.|
-|López, Z.M. |**Publicando en GBIF desde el Portal de Biodiversidad de Guatemala**.|
-
-
----
-
 ## Divulgación
 
 - Walker, L. & K.S. Orellana. (2022, Agosto). **Sharing Guatemala’s Biodiversity through Symbiota.** iDigBio Research Spotlight: August 2022. Disponible en [https://www.idigbio.org/tags/portal](https://www.idigbio.org/tags/portal)
@@ -126,4 +124,4 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Redes Sociales [Twitter](https://twitter.com/GuatemalaPortal){: .btn .btn-blue } [Facebook](https://www.facebook.com/GuatemalaPortal){: .btn .btn-blue }  [Instagram](https://www.instagram.com/guatemalaportal/){: .btn .btn-blue } 
 
-|<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CicloDatos.jpg?raw=true" alt="Ciclo" width="390" height="213.4">|
+|<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CicloDatos.jpg?raw=true" alt="Ciclo" width="550" height="400">|
