@@ -87,7 +87,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - López, Z. (2021, Agosto). **Introducción al Portal de Biodiversidad de Guatemala**. I Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala, Guatemala, Virtual.
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerUVG.jpg?raw=true" alt="Recorrido" width="330" height="350">
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerUVG.jpg?raw=true" alt="Recorrido" width="450" height="250">
 
 - Orellana, S. (2020, Diciembre). **El Portal de Biodiversidad de Guatemala: I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
 
@@ -97,3 +97,9 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 - Walker, L. & K.S. Orellana. (2022, Agosto). **Sharing Guatemala’s Biodiversity through Symbiota.** iDigBio Research Spotlight: August 2022. Disponible en [https://www.idigbio.org/tags/portal](https://www.idigbio.org/tags/portal)
 
 - Orellana, K.S. (2021, Mayo). **The Guatemala Biodiversity Portal, a national digitization effort using Symbiota**. iDigBio Research Spotlight: May 2021. Disponible en: [https://www.idigbio.org/content/research-spotlight-may-2021](https://www.idigbio.org/content/research-spotlight-may-2021)
+
+- Canal de Youtube **[Portal de Biodiversidad de Guatemala](https://www.youtube.com/channel/UCnoJ8aoVCxmRwKwDFWRIxag)**
+
+- Redes Sociales **[Twitter](https://twitter.com/GuatemalaPortal)** **[Facebook](https://www.facebook.com/GuatemalaPortal)** **[Instagram](https://www.instagram.com/guatemalaportal/)**
+
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CicloDatos.jpg?raw=true" alt="Ciclo" width="330" height="350">
