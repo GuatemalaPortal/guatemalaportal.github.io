@@ -63,6 +63,8 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/SMBC2020.jpg?raw=true" alt="SMBC2020" width="340" height="213.4">](https://www.youtube.com/watch?v=jHERo9n3_QE)
 
+---
+
 ## Talleres
 
 - Orellana, S. (2023, Marzo). **Un Recorrido por el Portal de Biodiversidad.** Dirigido a curadores y usuarios en Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=Jx8ILJQGyaA).
