@@ -89,15 +89,18 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerSMBC2021.jpg?raw=true" alt="Recorrido" width="330" height="350">](https://www.youtube.com/watch?v=o6qCm_y6cvA&list=PLodoeyEer2vgws0T3b2wjVrkXVM6IH3SU)
 
-- López, Z. (2021, Agosto). **Introducción al Portal de Biodiversidad de Guatemala**. I Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala, Guatemala, Virtual.
+- López, Z. (2021, Agosto). I Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala, Guatemala, Virtual.
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerUVG.jpg?raw=true" alt="Recorrido" width="450" height="250">
 
-- Orellana, S. (2020, Diciembre). Introducción al Portal de Biodiversidad de Guatemala. **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
+- Orellana, S., López, Z. (2020, Diciembre). Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores. Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
+ 
+|Participantes|
+|:-------------|
+|Orellana, S. (2020, Diciembre). **Introducción al Portal de Biodiversidad de Guatemala.** Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores. Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.|
+|Yoshimoto, J. (2020, Diciembre). **Colección de Artrópodos de la Universidad del Valle de Guatemala**.  Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores. Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.|
+|Pérez, S.G., López, J.E. (2020, Diciembre). **La Colección de Mamíferos USAC, Symbiota y El Portal de Biodiversidad de Guatemala**. Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores. Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.|
 
-- Orellana, S. (2020, Diciembre). Introducción al Portal de Biodiversidad de Guatemala. **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
-
-- Orellana, S. (2020, Diciembre). Introducción al Portal de Biodiversidad de Guatemala. **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
 
 ---
 
