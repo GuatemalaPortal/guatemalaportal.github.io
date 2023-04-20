@@ -85,7 +85,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 |Participantes| Instituciones | Presentaciones|
 |:-------------|:-------------|:-------------|
-|Orellana, S. | Arizona State University | **Introducción a los Datos de Biodiversidad.**. |
+|Orellana, S. | Arizona State University | [**Introducción a los Datos de Biodiversidad.**](https://www.youtube.com/watch?v=o6qCm_y6cvA&list=PLodoeyEer2vgws0T3b2wjVrkXVM6IH3SU) |
 |Orellana, S. | Arizona State University | **Introducción a Symbiota.** |
 |Sánchez-Escalante, S. | Universidad de Sonora | [**Red de Herbarios del Noroeste de México.** ](https://www.youtube.com/watch?v=Sm0OPpAya48&t=3500s)|
 |Bungartz, F. | Arizona State University | **El Consorcio de Herbarios de Líquenes de América Latina** |
