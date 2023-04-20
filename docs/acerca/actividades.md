@@ -69,7 +69,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2023, Marzo). **Un Recorrido por el Portal de Biodiversidad.** Dirigido a curadores y usuarios en Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=Jx8ILJQGyaA).
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/EJI_ECN.jpg?raw=true" alt="Recorrido" width="340" height="213.4">](https://www.youtube.com/watch?v=Jx8ILJQGyaA)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Recorrido.jpg?raw=true" alt="Recorrido" width="340" height="213.4">](https://www.youtube.com/watch?v=Jx8ILJQGyaA)
 
 - Orellana, S. (2022, Diciembre). **El Portal de Biodiversidad de Guatemala: III Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
 
@@ -94,6 +94,9 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerUVG.jpg?raw=true" alt="Recorrido" width="450" height="250">
 
 - Orellana, S., López, Z. (2020, Diciembre). **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
+
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Taller2020.jpg?raw=true" alt="Recorrido" width="450" height="250">
+
  
 |Participantes| Presentación|
 |:-------------|:-------------|
