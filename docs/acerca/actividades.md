@@ -29,7 +29,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S., Gilbert, E., Pearson, K., Walker, L., Prado, L., Post, G., Yost, J., & Franz, N. (2022, Junio). **Engaging Underrepresented Communities with Symbiota Portals**. iDigBio’s Digital Data Conference, Virtual. [Grabación en español](https://www.youtube.com/watch?v=bkq1NrKn8w4).  
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Herbarios.jpg?raw=true" alt="Herbarios" width="400" height="213.4">](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/DigiData2022.jpg?raw=true" alt="DigitalDataConference" width="400" height="213.4">](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s)
 
 - Orellana, S. (2022, Mayo). **Publicación de datos de biodiversidad hacia GBIF desde el Portal de Biodiversidad de Guatemala”**. Conferencista Invitada. Colegio Profesional de Farmacéuticos y Químicos de Guatemala, Virtual. [Grabación](https://www.facebook.com/watch/live/?ref=watch_permalink&v=696700198281756).
 
@@ -41,7 +41,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2021, Octubre). **Digitalización de Colecciones de Historia Natural en Guatemala y la Importancia  al Acceso de la Información de Biodiversidad**. Conferencista Invitada. Colegio Profesional de Farmacéuticos y Químicos de Guatemala, Virtual. [Grabación](https://www.facebook.com/cofaqui/videos/918191852416589). 
 
-- Orellana, S. (2021, Agosto). **Introducción al Portal de Biodiversidad de Guatemala**. Conferencista Invitada. Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala, Guatemala, Virtual. 
+- Orellana, S. (2021, Agosto). **Introducción al Portal de Biodiversidad de Guatemala**. Conferencista Invitada. I Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala, Guatemala, Virtual. 
 
 - Orellana, S. (2021, Julio). **Importancia de las Colecciones Biológicas en el estudio de la biodiversidad**. Conferencista Invitada. Curso de Botánica, Facultad de Ciencias Agrícolas, Universidad Rafael Landívar, Guatemala City, Virtual.
 
@@ -83,7 +83,11 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S., López, Z., Sánchez-Escalante, J., Bungartz, F., Cartuche, C. (2021, Octubre). Taller **Introducción a las Digitalización de Colecciones Biológicas con Symbiota**. Organizadores y conferencistas. XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación. [Grabación](https://www.youtube.com/watch?v=o6qCm_y6cvA&list=PLodoeyEer2vgws0T3b2wjVrkXVM6IH3SU).
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerSMBC2021.jpg?raw=true" alt="Recorrido" width="340" height="213.4">](https://www.youtube.com/watch?v=o6qCm_y6cvA&list=PLodoeyEer2vgws0T3b2wjVrkXVM6IH3SU)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerSMBC2021.jpg?raw=true" alt="Recorrido" width="330" height="350">](https://www.youtube.com/watch?v=o6qCm_y6cvA&list=PLodoeyEer2vgws0T3b2wjVrkXVM6IH3SU)
+
+- López, Z. (2021, Agosto). **Introducción al Portal de Biodiversidad de Guatemala**. I Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala, Guatemala, Virtual.
+
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerUVG.jpg?raw=true" alt="Recorrido" width="330" height="350">
 
 - Orellana, S. (2020, Diciembre). **El Portal de Biodiversidad de Guatemala: I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
 
