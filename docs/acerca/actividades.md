@@ -93,7 +93,11 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 <img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerUVG.jpg?raw=true" alt="Recorrido" width="450" height="250">
 
-- Orellana, S. (2020, Diciembre). **El Portal de Biodiversidad de Guatemala: I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
+- Orellana, S. (2020, Diciembre). Introducción al Portal de Biodiversidad de Guatemala. **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
+
+- Orellana, S. (2020, Diciembre). Introducción al Portal de Biodiversidad de Guatemala. **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
+
+- Orellana, S. (2020, Diciembre). Introducción al Portal de Biodiversidad de Guatemala. **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
 
 ---
 
@@ -105,6 +109,6 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Canal de Youtube **[Portal de Biodiversidad de Guatemala](https://www.youtube.com/channel/UCnoJ8aoVCxmRwKwDFWRIxag)**
 
-- Redes Sociales **[Twitter](https://twitter.com/GuatemalaPortal)** **[Facebook](https://www.facebook.com/GuatemalaPortal)** **[Instagram](https://www.instagram.com/guatemalaportal/)**
+- Redes Sociales [Twitter](https://twitter.com/GuatemalaPortal){: .btn .btn-blue } [Facebook](https://www.facebook.com/GuatemalaPortal){: .btn .btn-blue }  [Instagram](https://www.instagram.com/guatemalaportal/){: .btn .btn-blue } 
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CicloDatos.jpg?raw=true" alt="Ciclo">
+|<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CicloDatos.jpg?raw=true" alt="Ciclo">|
