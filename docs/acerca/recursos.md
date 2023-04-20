@@ -9,7 +9,7 @@ nav_order: 8
 Desde 2020, se han realizado más de 30 conferencias, talleres y cursos relacionadas con el Portal de Biodiversidad de Guatemala o Symbiota. Las actividades, organizadas por los [coadministradores](https://guatemalaportal.github.io/docs/contactos/) o el equipo Symbiota, han tenido un alcance de más de 400 participantes en 18 países de América y Europa.
 {: .fs-5 .fw-300 }
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/PortalDesign.jpg?raw=true" alt="Portal">](https://biodiversidad.gt/portal/)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PortalDesign.jpg?raw=true" alt="Portal">](https://biodiversidad.gt/portal/)
 
 ---
 
