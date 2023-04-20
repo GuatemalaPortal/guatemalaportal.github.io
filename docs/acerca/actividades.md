@@ -95,7 +95,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S., López, Z. (2020, Diciembre). **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
  
-|Participante| Presentación|
+|Participantes| Presentación|
 |:-------------|:-------------|
 |Orellana, S. | **Introducción al Portal de Biodiversidad de Guatemala.** |
 |Yoshimoto, J. | **Colección de Artrópodos de la Universidad del Valle de Guatemala**.|
