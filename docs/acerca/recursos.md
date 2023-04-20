@@ -31,7 +31,7 @@ Desde 2020, se han realizado más de 30 conferencias, talleres y cursos relacion
 
 - Orellana, S. (2021, Octubre). **Introducción a Symbiota**. Taller "Introducción a las Digitalización de Colecciones Biológicas con Symbiota”. Organizadora e instructora. XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación. [Grabación](https://www.youtube.com/watch?v=KARir8thZ4g&t=18s).
 
-- López, Z. (2021, Octubre). **Portal de Biodiversidad de Guatemala**. Taller "Introducción a las Digitalización de Colecciones Biológicas con Symbiota”. Organizadora e instructora. XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación. [Grabación](https://www.youtube.com/watch?v=Sm0OPpAya48&t=3500s).
+- López, Z. (2021, Octubre). **Portal de Biodiversidad de Guatemala**. Taller "Introducción a la Digitalización de Colecciones Biológicas con Symbiota”. Organizadora e instructora. XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación. [Grabación](https://www.youtube.com/watch?v=Sm0OPpAya48&t=3500s).
 
 - Orellana, S. (2021, Octubre). **Digitalización de Colecciones de Historia Natural en Guatemala y la Importancia  al Acceso de la Información de Biodiversidad**. Conferencista Invitada. Colegio Profesional de Farmacéuticos y Químicos de Guatemala, Virtual. [Grabación](https://www.facebook.com/cofaqui/videos/918191852416589). 
 
@@ -43,27 +43,26 @@ Desde 2020, se han realizado más de 30 conferencias, talleres y cursos relacion
 
 - Orellana, S. (2021, February). **Digitalización de colecciones biológicas con el Portal de Biodiversidad de Guatemala**. Conferencista Invitada. Curso de Manejo de Colecciones Biológicas, Escuela de Biología, Universidad  Collections Management course of the School of Biology, University of San Carlos of Guatemala, Guatemala City, Virtual.
 
-- Orellana, S. (2021, Marzo). **Portal de Biodiversidad de Guatemala: Digitalizando las colecciones biológicas del país.** Serie de Conferencias “Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas. Women Who Code, Guatemala, Virtual.
+- Orellana, S. (2021, Marzo). **Portal de Biodiversidad de Guatemala: Digitalizando las Colecciones Biológicas del País.** Serie de Conferencias “Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas. Women Who Code, Guatemala, Virtual.
 
-- Orellana, S. (2020, ). **Promoting the digitization of Latin American entomological collections using Symbiota portals**. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting, Virtual. [Grabación]().
+- Orellana, S. (2020, ). **Promoting the digitization of Latin American entomological collections using Symbiota portals**. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting, Virtual. [Grabación](https://www.youtube.com/watch?v=hzHcj20PILs&embeds_euri=https%3A%2F%2Fsearch.asu.edu%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
 
-- Orellana, S. (2020). Digitization of Mesoamerican Biological Collections using Symbiota portals. (In Spanish). Mesoamerican Society of Biology and Conservation, I Virtual Meeting.
+- Orellana, S. (2020). Digitalización de Colecciones Biológicas Mesoamericanas usando portales Symbiota. Sociedad Mesoamericana de la Biología y la Conservación. , I Reunión Virtual.[Grabación](https://www.youtube.com/watch?v=jHERo9n3_QE)
 
 ## Talleres
 
-- Orellana, S. (2023, March). A guided tour of the Guatemala Portal. (In Spanish). Workshop organizer and instructor, directed to Collection Managers and users in Guatemala, Virtual. Recording.
+- Orellana, S. (2023, March). Un Recorrido por el Portal de Biodiversidad. Dirigido a curadores y usuarios en Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=Jx8ILJQGyaA).
 
-- Orellana, S. (2022, December). The Guatemala Biodiversity Portal: III Annual Meeting for Curators. (In Spanish).  Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Workshop organizer and instructor, directed to active users of the Guatemala Portal, Virtual.
+- Orellana, S. (2022, Diciembre). **El Portal de Biodiversidad de Guatemala: III Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual
 
-- Orellana, S. (2022, November). Natural History Collections Digitization and Mobilization with Symbiota Portals: Mexican Herbaria Network”. (In Spanish). Workshop co-organizer and instructor. Directed to Collection Managers in Mexico, Virtual. Recording.
+- Orellana, S. (2022, Septiembre). Digitalización y Movilización de Colecciones Biológicas con Symbiota. Dirigido a curadores en Latinoamérica. Virtual. [Grabación](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
 
-- Orellana, S. (2022, September). Natural History Collections Digitization and Mobilization with Symbiota Portals. (In Spanish). Workshop organizer and instructor, directed to Collection Managers in Latin America, Virtual. Recording.
+- Orellana, S. (2022, Agosto). **Digitalización de Datos de Biodiversidad y Recursos de Movilización en el Portal de Biodiversidad**. Dirigido a curadores, Virtual.
 
-- Orellana, S. (2022, August). Biodiversity Data Digitization and Mobilization Resources in the Guatemala Biodiversity Portal”. (In Spanish). Workshop organizer and instructor. Directed to Collection Managers in Guatemala, Virtual.
+- Orellana, S. (2022, Marzo).** Digitalización de Colecciones Biológicas en el Portal de Biodiversidad de Guatemala, para Estudiantes de Biología.** Taller, Virtual. 
 
-- Orellana, S. (2022, March). Digitization of Natural History Collections in the Guatemala Biodiversity Symbiota Portal, for Biology Students”. (In Spanish). Workshop organizer and instructor, Virtual. 
-
-- Orellana, S. (2021, December). The Guatemala Biodiversity Portal: II Annual Meeting for Curators. (In Spanish).  Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Workshop organizer  and instructor, directed to active users of the Guatemala Portal, Virtual.
-
+- Orellana, S. (2021, Diciembre). **El Portal de Biodiversidad de Guatemala: II Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
 
 - Orellana, S., López, Z., Sánchez-Escalante, J., Bungartz, F., Cartuche, C. (2021, Octubre). Taller **Introducción a las Digitalización de Colecciones Biológicas con Symbiota**. Organizadores y conferencistas. XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación. [Grabación](https://www.youtube.com/watch?v=o6qCm_y6cvA&list=PLodoeyEer2vgws0T3b2wjVrkXVM6IH3SU).
+
+- Orellana, S. (2020, Diciembre). **El Portal de Biodiversidad de Guatemala: I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual
