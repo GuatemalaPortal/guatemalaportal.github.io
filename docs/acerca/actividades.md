@@ -29,6 +29,8 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S., Gilbert, E., Pearson, K., Walker, L., Prado, L., Post, G., Yost, J., & Franz, N. (2022, Junio). **Engaging Underrepresented Communities with Symbiota Portals**. iDigBio’s Digital Data Conference, Virtual. [Grabación en español](https://www.youtube.com/watch?v=bkq1NrKn8w4).  
 
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Herbarios.jpg?raw=true" alt="Herbarios" width="400" height="213.4">](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s)
+
 - Orellana, S. (2022, Mayo). **Publicación de datos de biodiversidad hacia GBIF desde el Portal de Biodiversidad de Guatemala”**. Conferencista Invitada. Colegio Profesional de Farmacéuticos y Químicos de Guatemala, Virtual. [Grabación](https://www.facebook.com/watch/live/?ref=watch_permalink&v=696700198281756).
 
 - Orellana, S. (2021, Octubre). **Introducción a los Datos de Biodiversidad**. Taller "Introducción a las Digitalización de Colecciones Biológicas con Symbiota”. Organizadora e instructora. XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación. [Grabación](https://www.youtube.com/watch?v=KARir8thZ4g&t=18s).
@@ -49,9 +51,11 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2021, Marzo). **Portal de Biodiversidad de Guatemala: Digitalizando las Colecciones Biológicas del País.** Serie de Conferencias “Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas. Women Who Code, Guatemala, Virtual.
 
-- Orellana, S. (2020, ). **Promoting the digitization of Latin American entomological collections using Symbiota portals**. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting, Virtual. [Grabación](https://www.youtube.com/watch?v=hzHcj20PILs&embeds_euri=https%3A%2F%2Fsearch.asu.edu%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
+- Orellana, S. (2020, Octubre). **Promoting the digitization of Latin American entomological collections using Symbiota portals**. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting, Virtual. [Grabación](https://www.youtube.com/watch?v=hzHcj20PILs&embeds_euri=https%3A%2F%2Fsearch.asu.edu%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
 
 - Orellana, S. (2020). **Digitalización de Colecciones Biológicas Mesoamericanas usando portales Symbiota**. Sociedad Mesoamericana para la Biología y la Conservación. I Reunión Virtual.[Grabación](https://www.youtube.com/watch?v=jHERo9n3_QE)
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/SMBC2020.jpg?raw=true" alt="SMBC2020" width="340" height="213.4">](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
 
 ## Talleres
 
@@ -80,6 +84,6 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 ## Divulgación
 
-- Walker, L. & K.S. Orellana. (2022, Augosto). **Sharing Guatemala’s Biodiversity through Symbiota.** iDigBio Research Spotlight: August 2022. Disponible en [https://www.idigbio.org/tags/portal](https://www.idigbio.org/tags/portal)
+- Walker, L. & K.S. Orellana. (2022, Agosto). **Sharing Guatemala’s Biodiversity through Symbiota.** iDigBio Research Spotlight: August 2022. Disponible en [https://www.idigbio.org/tags/portal](https://www.idigbio.org/tags/portal)
 
 - Orellana, K.S. (2021, Mayo). **The Guatemala Biodiversity Portal, a national digitization effort using Symbiota**. iDigBio Research Spotlight: May 2021. Disponible en: [https://www.idigbio.org/content/research-spotlight-may-2021](https://www.idigbio.org/content/research-spotlight-may-2021)
