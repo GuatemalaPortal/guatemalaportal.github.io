@@ -1,12 +1,12 @@
---
+---
 layout: default
 title: Actividades 
-has_children: false
+parent: Acerca de
 nav_order: 8
 ---
 
-# Actividades Acerca del Portal de Biodiversidad
-Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacionadas con el Portal de Biodiversidad de Guatemala o Symbiota. Las actividades, organizadas por los [coadministradores](https://guatemalaportal.github.io/docs/contactos/) o el equipo Symbiota, han tenido un alcance de más de 400 participantes en 18 países de América y Europa.
+# Actividades de Capacitación y Divulgación
+Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacionados con el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) o [Symbiota](https://symibiota.org/es). Las actividades, han tenido un alcance de más de 400 participantes en 18 países de América y Europa.
 {: .fs-5 .fw-300 }
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PortalDesign.jpg?raw=true" alt="Portal">](https://biodiversidad.gt/portal/)
@@ -16,7 +16,6 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 ## Conferencias
 
 - Orellana, S. (2022, Noviembre). **Portales Symbiota como Herramientas de Digitalización de Colecciones de Herbario**. II Simposio de Botánica de Guatemala, Universidad de San Carlos de Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s).
-
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Herbarios.jpg?raw=true" alt="Herbarios" width="400" height="213.4">](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s)
 
@@ -77,3 +76,10 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 - Orellana, S., López, Z., Sánchez-Escalante, J., Bungartz, F., Cartuche, C. (2021, Octubre). Taller **Introducción a las Digitalización de Colecciones Biológicas con Symbiota**. Organizadores y conferencistas. XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación. [Grabación](https://www.youtube.com/watch?v=o6qCm_y6cvA&list=PLodoeyEer2vgws0T3b2wjVrkXVM6IH3SU).
 
 - Orellana, S. (2020, Diciembre). **El Portal de Biodiversidad de Guatemala: I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual
+
+
+## Divulgación
+
+- Walker, L. & K.S. Orellana. (2022, Augosto). **Sharing Guatemala’s Biodiversity through Symbiota.** iDigBio Research Spotlight: August 2022. Disponible en [https://www.idigbio.org/tags/portal](https://www.idigbio.org/tags/portal)
+
+- Orellana, K.S. (2021, Mayo). **The Guatemala Biodiversity Portal, a national digitization effort using Symbiota**. iDigBio Research Spotlight: May 2021. Disponible en: [https://www.idigbio.org/content/research-spotlight-may-2021](https://www.idigbio.org/content/research-spotlight-may-2021)
