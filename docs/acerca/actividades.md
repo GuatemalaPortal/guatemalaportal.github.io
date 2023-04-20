@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Actividades 
-parent: Acerca de
+has_children: false
 nav_order: 8
 ---
 
