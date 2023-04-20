@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Recursos 
+title: Actividades 
 has_children: false
 nav_order: 8
 ---
 
-# Recursos Acerca del Portal de Biodiversidad
+# Actividades Acerca del Portal de Biodiversidad
 Desde 2020, se han realizado más de 30 conferencias, talleres y cursos relacionadas con el Portal de Biodiversidad de Guatemala o Symbiota. Las actividades, organizadas por los [coadministradores](https://guatemalaportal.github.io/docs/contactos/) o el equipo Symbiota, han tenido un alcance de más de 400 participantes en 18 países de América y Europa.
 {: .fs-5 .fw-300 }
 
