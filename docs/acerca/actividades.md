@@ -18,14 +18,15 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 - Orellana, S. (2022, Noviembre). **Portales Symbiota como Herramientas de Digitalización de Colecciones de Herbario**. II Simposio de Botánica de Guatemala, Universidad de San Carlos de Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s).
 
 
-|[<img src="https://scontent.fphx1-2.fna.fbcdn.net/v/t39.30808-6/316204357_559159269550833_3766568634136230502_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=sQ_atysevGoAX9BX6L7&_nc_ht=scontent.fphx1-2.fna&oh=00_AfBBszrhI97sN1qamjy668XMo5WH_UR3_MFmG9WYiU5cnw&oe=6447220D" alt="Herbarios" width="400" height="213.4">](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s)|
-
+| [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Herbarios.jpg?raw=true" alt="Herbarios" width="400" height="213.4">](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s) |
 
 - Orellana, K.S., Gilbert, E., Walker, L. J., Pearson, K., Prado, L. R., Post, G., Yost, J., & Franz, N. (2022, Octubre). **Taxonomic Curation in a Multi-taxa Symbiota Portal**. Biodiversity Information Science and Standards, 6, e93671. https://doi.org/10.3897/biss.6.93671
 
 - Orellana, S. (2022, Septiembre). **Portales Symbiota**. Conferencista Invitada. Taller de Manejo de Colecciones de Historia Natural, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia, Virtual.
 
 - Orellana, S. (2022, Septiembre). **Digitalizando Colecciones de Historia Natural en Guatemala**. Conferencista Invitada. [Connecting Collections Workshop Series](https://statistical-genetics.com/2022/08/connecting-collections-workshop-series/). Organizado por los nodos GBIF de Ecuador, Argentina, Guatemala y por la Sociedad para la Preservación de Colecciones de Historia Natural, Virtual. [Recording](https://www.youtube.com/watch?v=lnlnVE7NaKo&t=1188s).
+
+|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Digitalizaci%C3%B3nGBIF.jpg?raw=true" alt="Digitalización en Guatemala" width="400" height="213.4">](https://www.youtube.com/watch?v=lnlnVE7NaKo&t=1188s)|
 
 - Orellana, S., Gilbert, E., Pearson, K., Walker, L., Prado, L., Post, G., Yost, J., & Franz, N. (2022, Junio). **Engaging Underrepresented Communities with Symbiota Portals**. iDigBio’s Digital Data Conference, Virtual. [Grabación en español](https://www.youtube.com/watch?v=bkq1NrKn8w4).  
 
@@ -57,16 +58,17 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2023, March). **Un Recorrido por el Portal de Biodiversidad.** Dirigido a curadores y usuarios en Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=Jx8ILJQGyaA).
 
-|[<img src="https://scontent.fphx1-2.fna.fbcdn.net/v/t39.30808-6/334564339_4191869087705228_3169478000921477825_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=XLOCIUspJWwAX_92Bdv&_nc_ht=scontent.fphx1-2.fna&oh=00_AfABXxWQ4_R4MG1f1ar8WPNalGna1tzK03iBytFAWPJejA&oe=644732FD" alt="Recorrido" width="340" height="213.4">](https://www.youtube.com/watch?v=Jx8ILJQGyaA)|
+| [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Recorrido.jpg?raw=true" alt="Recorrido" width="340" height="213.4">](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo)|
 
 - Orellana, S. (2022, Diciembre). **El Portal de Biodiversidad de Guatemala: III Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual
 
-- Orellana, S. (2022, Septiembre). Digitalización y Movilización de Colecciones Biológicas con Symbiota. Dirigido a curadores en Latinoamérica. Virtual. [Grabación](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
+- Orellana, S. (2022, Septiembre). **Digitalización y Movilización de Colecciones Biológicas con Symbiota.** Dirigido a curadores en Latinoamérica. Virtual. [Grabación](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
 
-|[<img src="https://scontent.fphx1-2.fna.fbcdn.net/v/t39.30808-6/308172647_503945735072187_5035244053519018788_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=oGOdl-knm5AAX_kcZbE&_nc_ht=scontent.fphx1-2.fna&oh=00_AfDMUXixqb02TfAYMGxp3MXGiYM5DLgvS-o4UskMR_HdCA&oe=6446364D" alt="Recorrido" width="340" height="213.4">](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo)|
+|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerLatinoam%C3%A9rica.jpg?raw=true" alt="Recorrido" width="340" height="213.4">](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo)|
 
 - Orellana, S. (2022, Agosto). **Digitalización de Datos de Biodiversidad y Recursos de Movilización en el Portal de Biodiversidad**. Dirigido a curadores, Virtual.
 
+|<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CharlaInformativa.jpg?raw=true" alt="Charla" width="290" height="300">|
 - Orellana, S. (2022, Marzo).** Digitalización de Colecciones Biológicas en el Portal de Biodiversidad de Guatemala, para Estudiantes de Biología.** Taller, Virtual. 
 
 - Orellana, S. (2021, Diciembre). **El Portal de Biodiversidad de Guatemala: II Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
