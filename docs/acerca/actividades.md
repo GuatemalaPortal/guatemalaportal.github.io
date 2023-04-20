@@ -49,11 +49,13 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2021, February). **Digitalización de colecciones biológicas con el Portal de Biodiversidad de Guatemala**. Conferencista Invitada. Curso de Manejo de Colecciones Biológicas, Escuela de Biología, Universidad de San Carlos de Guatemala, Ciudad de Guatemala, Virtual.
 
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Digitalizaci%C3%B3nEstudiantes.jpg?raw=true" alt="SMBC2020" width="340" height="213.4">
+
 - Orellana, S. (2021, Marzo). **Portal de Biodiversidad de Guatemala: Digitalizando las Colecciones Biológicas del País.** Serie de Conferencias “Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas. Women Who Code, Guatemala, Virtual.
 
-- Orellana, S. (2020, Octubre). **Promoting the digitization of Latin American entomological collections using Symbiota portals**. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting, Virtual. [Grabación](https://www.youtube.com/watch?v=hzHcj20PILs&embeds_euri=https%3A%2F%2Fsearch.asu.edu%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
+- Orellana, S. (2020, Noviembre). **Promoting the digitization of Latin American entomological collections using Symbiota portals**. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting, Virtual. [Grabación](https://www.youtube.com/watch?v=hzHcj20PILs&embeds_euri=https%3A%2F%2Fsearch.asu.edu%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
 
-- Orellana, S. (2020). **Digitalización de Colecciones Biológicas Mesoamericanas usando portales Symbiota**. Sociedad Mesoamericana para la Biología y la Conservación. I Reunión Virtual.[Grabación](https://www.youtube.com/watch?v=jHERo9n3_QE)
+- Orellana, S. (2020, Octubre). **Digitalización de Colecciones Biológicas Mesoamericanas usando portales Symbiota**. Sociedad Mesoamericana para la Biología y la Conservación. I Reunión Virtual.[Grabación](https://www.youtube.com/watch?v=jHERo9n3_QE)
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/SMBC2020.jpg?raw=true" alt="SMBC2020" width="340" height="213.4">](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
 
