@@ -57,6 +57,8 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2020, Noviembre). **Promoting the digitization of Latin American entomological collections using Symbiota portals**. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting, Virtual. [Grabación](https://www.youtube.com/watch?v=hzHcj20PILs&embeds_euri=https%3A%2F%2Fsearch.asu.edu%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
 
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/EJI_ECN.jpg?raw=true" alt="ECN" width="390" height="213.4">](https://www.youtube.com/watch?v=hzHcj20PILs&embeds_euri=https%3A%2F%2Fsearch.asu.edu%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
+
 - Orellana, S. (2020, Octubre). **Digitalización de Colecciones Biológicas Mesoamericanas usando portales Symbiota**. Sociedad Mesoamericana para la Biología y la Conservación. I Reunión Virtual.[Grabación](https://www.youtube.com/watch?v=jHERo9n3_QE)
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/SMBC2020.jpg?raw=true" alt="SMBC2020" width="340" height="213.4">](https://www.youtube.com/watch?v=jHERo9n3_QE)
@@ -65,7 +67,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2023, Marzo). **Un Recorrido por el Portal de Biodiversidad.** Dirigido a curadores y usuarios en Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=Jx8ILJQGyaA).
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Recorrido.jpg?raw=true" alt="Recorrido" width="340" height="213.4">](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/EJI_ECN.jpg?raw=true" alt="Recorrido" width="340" height="213.4">](https://www.youtube.com/watch?v=Jx8ILJQGyaA)
 
 - Orellana, S. (2022, Diciembre). **El Portal de Biodiversidad de Guatemala: III Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
 
