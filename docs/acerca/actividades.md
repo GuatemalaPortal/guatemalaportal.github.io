@@ -19,7 +19,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Herbarios.jpg?raw=true" alt="Herbarios" width="400" height="213.4">](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s)
 
-- Orellana, K.S., Gilbert, E., Walker, L. J., Pearson, K., Prado, L. R., Post, G., Yost, J., & Franz, N. (2022, Octubre). **Taxonomic Curation in a Multi-taxa Symbiota Portal**. Biodiversity Information Science and Standards, 6, e93671. https://doi.org/10.3897/biss.6.93671
+- Orellana, K.S., Gilbert, E., Walker, L. J., Pearson, K., Prado, L. R., Post, G., Yost, J., & Franz, N. (2022, Octubre). **Taxonomic Curation in a Multi-taxa Symbiota Portal**. Biodiversity Information Science and Standards, 6, e93671. [https://doi.org/10.3897/biss.6.93671](https://doi.org/10.3897/biss.6.93671)
 
 - Orellana, S. (2022, Septiembre). **Portales Symbiota**. Conferencista Invitada. Taller de Manejo de Colecciones de Historia Natural, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia, Virtual.
 
@@ -53,7 +53,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2021, Marzo). **Portal de Biodiversidad de Guatemala: Digitalizando las Colecciones Biológicas del País.** Serie de Conferencias “Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas. Women Who Code, Guatemala, Virtual.
 
-<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/WWC2021_.jpg?raw=true" alt="SMBC2020" width="340" height="213.4">
+<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/WWC2021_.jpg?raw=true" alt="SMBC2020" width="390" height="213.4">
 
 - Orellana, S. (2020, Noviembre). **Promoting the digitization of Latin American entomological collections using Symbiota portals**. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting, Virtual. [Grabación](https://www.youtube.com/watch?v=hzHcj20PILs&embeds_euri=https%3A%2F%2Fsearch.asu.edu%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
 
@@ -61,7 +61,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2020, Octubre). **Digitalización de Colecciones Biológicas Mesoamericanas usando portales Symbiota**. Sociedad Mesoamericana para la Biología y la Conservación. I Reunión Virtual.[Grabación](https://www.youtube.com/watch?v=jHERo9n3_QE)
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/SMBC2020.jpg?raw=true" alt="SMBC2020" width="340" height="213.4">](https://www.youtube.com/watch?v=jHERo9n3_QE)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/SMBC2020.jpg?raw=true" alt="SMBC2020" width="390" height="213.4">](https://www.youtube.com/watch?v=jHERo9n3_QE)
 
 ---
 
@@ -69,13 +69,13 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2023, Marzo). **Un Recorrido por el Portal de Biodiversidad.** Dirigido a curadores y usuarios en Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=Jx8ILJQGyaA).
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Recorrido.jpg?raw=true" alt="Recorrido" width="340" height="213.4">](https://www.youtube.com/watch?v=Jx8ILJQGyaA)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Recorrido.jpg?raw=true" alt="Recorrido" width="390" height="213.4">](https://www.youtube.com/watch?v=Jx8ILJQGyaA)
 
 - Orellana, S. (2022, Diciembre). **El Portal de Biodiversidad de Guatemala: III Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
 
 - Orellana, S. (2022, Septiembre). **Digitalización y Movilización de Colecciones Biológicas con Symbiota.** Dirigido a curadores en Latinoamérica. Virtual. [Grabación](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo).
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerLatinoam%C3%A9rica.jpg?raw=true" alt="Recorrido" width="340" height="213.4">](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/TallerLatinoam%C3%A9rica.jpg?raw=true" alt="Recorrido" width="390" height="213.4">](https://www.youtube.com/watch?time_continue=1&v=pICR8AhjiWM&embeds_euri=https%3A%2F%2Fsymbiota.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
 
 - Orellana, S. (2022, Agosto). **Digitalización de Datos de Biodiversidad y Recursos de Movilización en el Portal de Biodiversidad**. Dirigido a curadores, Virtual.
 
@@ -126,4 +126,4 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Redes Sociales [Twitter](https://twitter.com/GuatemalaPortal){: .btn .btn-blue } [Facebook](https://www.facebook.com/GuatemalaPortal){: .btn .btn-blue }  [Instagram](https://www.instagram.com/guatemalaportal/){: .btn .btn-blue } 
 
-|<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CicloDatos.jpg?raw=true" alt="Ciclo">|
+|<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/CicloDatos.jpg?raw=true" alt="Ciclo" width="390" height="213.4">|
