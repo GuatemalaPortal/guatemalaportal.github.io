@@ -6,7 +6,7 @@ nav_order: 9
 ---
 
 
-# Intercambio de Información desde el Portal de Biodiversidad 
+# Intercambio de Información desde el Portal de Biodiversidad de Guatemala
 {: .no_toc }
 
 <div class="code-example" markdown="1">
