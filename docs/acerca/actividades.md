@@ -23,7 +23,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 ---
 
-[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PortalDesign.jpg?raw=true" alt="Portal">](https://biodiversidad.gt/portal/)
+|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PortalDesign.jpg?raw=true" alt="Portal">](https://biodiversidad.gt/portal/)|
 
 ---
 
@@ -32,8 +32,6 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 - Orellana, S. (2022, Noviembre). **Portales Symbiota como Herramientas de Digitalización de Colecciones de Herbario**. II Simposio de Botánica de Guatemala, Universidad de San Carlos de Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s).
 
 [<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Herbarios.jpg?raw=true" alt="Herbarios" width="400" height="213.4">](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s)
-
-|[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Herbarios.jpg?raw=true" alt="Herbarios">](https://www.youtube.com/watch?v=dMVHWBrxxMU&list=PLaLJDBWPJsnIcaa3m_ZbWEJ-z1ECXYWFd&index=11&t=973s)|
 
 - Orellana, K.S., Gilbert, E., Walker, L. J., Pearson, K., Prado, L. R., Post, G., Yost, J., & Franz, N. (2022, Octubre). **Taxonomic Curation in a Multi-taxa Symbiota Portal**. Biodiversity Information Science and Standards, 6, e93671. [https://doi.org/10.3897/biss.6.93671](https://doi.org/10.3897/biss.6.93671)
 
