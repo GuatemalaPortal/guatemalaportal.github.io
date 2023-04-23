@@ -12,7 +12,7 @@ El [Portal de Biodiversidad de Guatemala](https://serv.biokic.asu.edu/guatemala/
 {: .fs-6 .fw-300 }
 
 [Guía Rápida](https://guatemalaportal.github.io/docs/usuarios/guia/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Perfiles de Colecciones](https://guatemalaportal.github.io/docs/colecciones/manejo/){: .btn .fs-5 .mb-4 .mb-md-0 } 
-[Symbiota en Español](https://symbiota.org/es){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
+[Talleres y Charlas](https://guatemalaportal.github.io/docs/acerca/actividades/){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 ---
 
