@@ -92,33 +92,34 @@ No existe documentación disponible para conocer acerca del intercambio de **dat
 
 |![Checklist11](https://user-images.githubusercontent.com/69399374/233864899-8fae4d38-df64-4007-b6be-231b538a12b8.jpg)|
 
-**7.** Seleccionar la opción de "Ver en Portal Espacial":
+**7.** Puede seleccionar la opción "Download" para intentar descargar el listado, pero no funciona.
+
+|![Download](https://user-images.githubusercontent.com/69399374/233865508-d2f5efd1-3871-43b0-a4a7-85146c83e1cb.jpg)|
+
+**8.** Seleccionar la opción de "Ver en Portal Espacial":
 
 |![Checklist12](https://user-images.githubusercontent.com/69399374/233865073-90701ff5-7b46-4567-b6d2-1e7a6db5e8db.jpg)|
 
-**8.** Saldrá un mensaje de error (se asume) porque este tipo de archivos no contienen registros de especímenes u observaciones.
+**9.** Saldrá un mensaje de error (se asume) porque este tipo de archivos no contienen registros de especímenes u observaciones.
 
 |![Checklist12](https://user-images.githubusercontent.com/69399374/233864951-319d3c97-63ad-42cf-b95b-f5a546a2317f.jpg)|
 
-**9.** Ir a la página principal de Listados de Especies, su listado aparecerá junto a todos los disponibles para el público. Si su listado es privado, sólo usted podrá observarlo.
+**10.** Ir a la página principal de Listados de Especies, su listado aparecerá junto a todos los disponibles para el público. Si su listado es privado, sólo usted podrá observarlo.
 
 |![Checklist14](https://user-images.githubusercontent.com/69399374/233865151-3eb0e9a6-c747-442c-aeda-354fd278348d.jpg)|
 
-**10.** Ir a "Mis Listados" para ver únicamente su listado.
+**11.** Ir a "Mis Listados" para ver únicamente su listado.
 
 |![Checklist16](https://user-images.githubusercontent.com/69399374/233865188-bf20267e-2294-4467-93d6-85d9c4862fd3.jpg)|
 
-**11.** Seleccionar la opción "Reload" para editar o actualizar el listado.
+**12.** Seleccionar la opción "Reload" para editar o actualizar el listado.
 
 |![Checklist17](https://user-images.githubusercontent.com/69399374/233865296-de07ac62-9092-48f6-bb27-8f4b19d669cf.jpg)|
 
-**12.** Seleccionar el archivo con el que desea sustituir o actualizar el listado.
+**13.** Seleccionar el archivo con el que desea sustituir o actualizar el listado.
 
 ![Checklist18](https://user-images.githubusercontent.com/69399374/233865274-6554e329-5183-4057-8b2e-5a9f853a044b.jpg)
 
-**13.** Puede seleccionar la opción "Download" para intentar descargar el listado, pero no funciona.
-
-|![Download](https://user-images.githubusercontent.com/69399374/233865508-d2f5efd1-3871-43b0-a4a7-85146c83e1cb.jpg)|
 
 **14.** Seleccionar la opción "Delete" si quiere borrar el listado.
 
@@ -127,6 +128,3 @@ No existe documentación disponible para conocer acerca del intercambio de **dat
 **15.** El listado ha sido eliminado.
 
 |![Checklist20](https://user-images.githubusercontent.com/69399374/233865350-368e1bed-fcc3-402d-82bd-6f91c7c05de1.jpg)|
-
-**12.**
-![Checklist19](https://user-images.githubusercontent.com/69399374/233865230-abff4081-1d5b-4ec5-9330-fe0cdbe1b1cd.jpg)
