@@ -15,7 +15,7 @@ Plataformas externas
 </div>
 
 
-El Portal de Biodiversidad de Guatemala permite descargar archivos en formatos estandarizados, lo cual permite el intercambio de la información con otras plataformas.
+El Portal de Biodiversidad de Guatemala permite descargar archivos .csv, .txt o Darwin Core, lo cual permite el intercambio de la información con otras plataformas.
 {: .fs-5 .fw-300 }
 
 ---
@@ -30,7 +30,7 @@ El Portal de Biodiversidad de Guatemala permite descargar archivos en formatos e
 
 ## Global Biodiversity Information Facility
 
-Para aprender más acerca del intercambio de datos de colecciones con GBIF, ir a la sección Colecciones > [Publicación en GBIF](https://guatemalaportal.github.io/docs/colecciones/gbif/publicar/).
+Para aprender más acerca del intercambio de datos de colecciones hacia GBIF desde el **Portal de Biodiversidad de Guatemala**, ir a la sección Colecciones > [Publicación en GBIF](https://guatemalaportal.github.io/docs/colecciones/gbif/publicar/).
 
 ---
 
