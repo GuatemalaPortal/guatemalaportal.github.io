@@ -46,10 +46,11 @@ No existe documentación disponible para conocer acerca del intercambio de **dat
 
 **1.** Realizar una búsqueda con los parámetros deseados para generar un listado de especies.
 
-|![Checklist1](https://user-images.githubusercontent.com/69399374/233863854-4d630be3-0556-4d70-bee0-9e92f297f6cb.jpg)
+|-![PortalChecklist1](https://user-images.githubusercontent.com/69399374/233867636-6e87bd79-2da3-4f20-9980-eb8f657954b7.jpg)|
 
 **2.** Obtener el listado de especies a partir de la búsqueda.
-|![Checklist2](https://user-images.githubusercontent.com/69399374/233864114-d89ff86d-6f0d-4262-ad32-e1370c340fc1.jpg)|
+|![PortalChecklist2](https://user-images.githubusercontent.com/69399374/233867659-5ce59d35-6bd8-4fa9-9cb9-eaf69492adfe.jpg)|
+
 
 **3.** Descargar el listado de especies como archivo .csv (requerido por el SNIBgt).
 
