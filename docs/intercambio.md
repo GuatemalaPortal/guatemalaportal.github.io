@@ -32,6 +32,8 @@ El Portal de Biodiversidad de Guatemala permite descargar archivos .csv, .txt o 
 
 Para aprender más acerca del intercambio de datos de colecciones hacia GBIF desde el **Portal de Biodiversidad de Guatemala**, ir a la sección Colecciones > [Publicación en GBIF](https://guatemalaportal.github.io/docs/colecciones/gbif/publicar/).
 
+Para aprender más acerca de intercambio de información (archivos .csv) con la Integrated Publishing Tool, consultar con el nodo GBIF Guatemala.
+
 ---
 
 ## Sistema Nacional de Información Sobre Diversidad Biológica de Guatemala -SNIBgt-
