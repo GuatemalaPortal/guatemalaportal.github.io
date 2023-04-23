@@ -15,7 +15,7 @@ Plataformas externas
 </div>
 
 
-El Portal de Biodiversidad de Guatemala permite descargar archivos .csv, .txt o Darwin Core, lo cual permite el intercambio de la información con otras plataformas.
+El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) permite descargar archivos .csv, .txt o Darwin Core, lo cual permite el intercambio de la información con otras plataformas.
 {: .fs-5 .fw-300 }
 
 ---
