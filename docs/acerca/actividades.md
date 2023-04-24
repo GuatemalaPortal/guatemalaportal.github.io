@@ -2,7 +2,7 @@
 layout: default
 title: Actividades de Capacitación
 has_children: false
-nav_order: 8
+nav_order: 10
 ---
 
 # Actividades de Capacitación y Divulgación
