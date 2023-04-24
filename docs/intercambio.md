@@ -49,7 +49,7 @@ Para publicar datos de Colecciones en GBIF se necesita cumplir con tres puntos i
 
 |![Ruta](https://user-images.githubusercontent.com/69399374/233875671-dd39e593-1b84-453e-bdc4-b1ac1ad78a21.jpg)|
 |:--:|
-|Rutas para publicar datos de Colecciones Biológicas de Guatemala en GBIF|.
+|Pasos y rutas para publicar datos de Colecciones Biológicas de Guatemala en GBIF. 1. Solicitar un perfil de publicador en GBIF. 2. Estandarizar los datos en Excel o el Portal de Biodiversidad. 3. Utilizar la instalación Symbiota o IPT para publicar en GBIF.|
 
 ---
 
