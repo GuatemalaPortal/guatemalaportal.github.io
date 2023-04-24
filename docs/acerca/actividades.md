@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Actividades 
+title: Actividades de Capacitación
 has_children: false
 nav_order: 8
 ---
