@@ -15,7 +15,7 @@ Plataformas externas
 </div>
 
 
-El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) permite descargar archivos .csv, .txt o Darwin Core, lo cual permite el **intercambio de la información** con otras plataformas, en cumplimiento con los principios [FAIR](https://www.go-fair.org/fair-principles/) de facilidad de búsqueda, accesibilidad, interoperabilidad y reutilización de los datos.
+El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) es un sistema de manejo de colecciones basado en [Symbiota](https://symbiota.org/es), que permite descargar archivos .csv, .txt o Darwin Core. Esto permite el **intercambio de la información** con otras plataformas, en cumplimiento con los principios [FAIR](https://www.go-fair.org/fair-principles/) de facilidad de búsqueda, accesibilidad, interoperabilidad y reutilización de los datos.
 {: .fs-5 .fw-300 }
 
 |![GBIF_EXPORT2](https://user-images.githubusercontent.com/69399374/233875610-96e3b7c3-3a47-4af6-818d-4640b64cc0e1.jpg)|
@@ -32,15 +32,15 @@ El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) permite 
 
 ## Global Biodiversity Information Facility
 
-La Instalación Global de Información de Biodiversidad (GBIF) es un agregador de datos, que incorpora los registros digitalizados en distintas plataformas a nivel mundial. Esta plataforma busca facilitar el libre acceso a los datos de biodiversidad del mundo y está integrada por representantes gubernamentales o científicos de los países miembros, coordinados desde el Secretariado GBIF en Copenhague, Dinamarca (Guatemala participa como país asociado desde diciembre de 2021. 
+La Instalación Global de Información de Biodiversidad (GBIF) es un agregador de datos, que incorpora los registros digitalizados en distintas plataformas a nivel mundial. Esta plataforma busca facilitar el libre acceso a los datos de biodiversidad del mundo y está integrada por representantes gubernamentales o científicos de los países miembros, coordinados desde el Secretariado GBIF en Copenhague, Dinamarca. Guatemala participa como país asociado desde diciembre de 2021, con el Consejo Nacional de Áreas Protegidas como nodo nacional. 
 
 |![GBIF](https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GBIF.jpg?raw=true)|
 
 Para publicar datos de Colecciones en GBIF se necesita cumplir con tres puntos importantes:
 
 1. La institución que aloja físicamente la colección debe contar con un **perfil de publicador** activo en GBIF. Esto se tramita directamente con [GBIF](https://www.gbif.org/become-a-publisher).
-2. Los datos de las colecciones deben estar en **formato estandarizado** Darwin Core (y los respectivos formatos estandarizados para extensiones). Esto se logra utilizando Sistemas de Manejo de Colecciones, como el **Portal de Biodiversidad de Guatemala** (se obtienen Archivos Darwin Core), o rellenando una plantilla en Excel (se obtienen archivos .csv).
-3. Solicitar acceso a una Instalación que permita la publicación de este archivo Darwin Core o .csv hacia GBIF. En Guatemala existen dos opciones: la instalación Symbiota del [**Portal de Biodiversidad de Guatemala**](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) (activa desde septiembre de 2020), y la instalación IPT de GBIF Guatemala (activa desde mayo 2022).
+2. Los datos de las colecciones deben estar en **formato estandarizado** Darwin Core (y los respectivos formatos estandarizados para extensiones). Esto se logra utilizando Sistemas de Manejo de Colecciones, como el [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) (se obtienen Archivos Darwin Core), o rellenando una plantilla en Excel (se obtienen archivos .csv).
+3. Solicitar acceso a una **Instalación** que permita la publicación de este archivo Darwin Core o .csv hacia GBIF. En Guatemala existen dos opciones: la instalación Symbiota del [**Portal de Biodiversidad de Guatemala**](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) (activa desde septiembre de 2020), y la instalación IPT de GBIF Guatemala (activa desde mayo 2022).
 
 
 - Para utilizar la instalación Symbiota del **Portal de Biodiversidad de Guatemala**, ir a la sección **Colecciones** > [**Publicación en GBIF**](https://guatemalaportal.github.io/docs/colecciones/gbif/publicar/).
