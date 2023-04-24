@@ -55,12 +55,11 @@ Para publicar datos de Colecciones en GBIF se necesita cumplir con tres puntos i
 
 ## Sistema Nacional de Información Sobre Diversidad Biológica de Guatemala -SNIBgt-
 
-El SNIBgt es un agregador de información basado en el [Atlas of Living Australia](https://living-atlases.gbif.org/participants/snibgt/). Esta plataforma es el agregado de información oficial del país, y es manejado por el Consejo Nacional de Áreas Protegidas.
+El SNIBgt es un agregador de información de diversidad biológica basado en el [Atlas of Living Australia](https://living-atlases.gbif.org/participants/snibgt/). Es el agregador oficial del país, y es manejado por el Consejo Nacional de Áreas Protegidas. 
 
 |![LivingAtlas](https://user-images.githubusercontent.com/69399374/233875542-a8016d94-67b7-4fb4-9862-5f950e84cf70.jpg)|
-|
 
-Los datos de especímenes que integran este agregador provienen directamente de **GBIF**, por lo que las colecciones publicadas desde la instalación del **Portal de Biodiversidad de Guatemala** serán incorporadas automáticamente (aunque no actualizadas). No existe documentación disponible para conocer el procedimiento para actualizaro las colecciones captadas por el SNIBgt desde GBIF. 
+Los datos de especímenes que integran este agregador provienen directamente de **GBIF**, por lo que las colecciones publicadas desde la instalación del **Portal de Biodiversidad de Guatemala** serán incorporadas automáticamente (aunque no actualizadas). No existe documentación disponible para conocer el procedimiento para actualizar las colecciones captadas por el SNIBgt desde GBIF. 
 
 Un tipo de archivo que sí puede ser incorporado directamente en el SNIBgt son los Listados de Especies. Desde el **Portal de Biodiversidad de Guatemala** se pueden generar búsquedas de ciertas regiones o grupos taxonómicos para elaborar estos listados (ver la sección de [**Listados de Especies en el Portal de Biodiversidad**](https://guatemalaportal.github.io/docs/listados/listados/)). Una vez generados estos listados, pueden ser incorporados al SNIBgt como un archivo de texto. 
 
