@@ -18,6 +18,8 @@ Plataformas externas
 El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) permite descargar archivos .csv, .txt o Darwin Core, lo cual permite el intercambio de la información con otras plataformas.
 {: .fs-5 .fw-300 }
 
+|![GBIF_EXPORT2](https://user-images.githubusercontent.com/69399374/233875610-96e3b7c3-3a47-4af6-818d-4640b64cc0e1.jpg)|
+
 ---
 
 ## Table of Contents
@@ -30,25 +32,46 @@ El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) permite 
 
 ## Global Biodiversity Information Facility
 
-Para aprender más acerca del intercambio de datos de colecciones hacia GBIF desde el **Portal de Biodiversidad de Guatemala**, ir a la sección Colecciones > [Publicación en GBIF](https://guatemalaportal.github.io/docs/colecciones/gbif/publicar/).
+La Instalación Global de Información de Biodiversidad (GBIF) es un agregador de datos, que incorpora los registros digitalizados en distintas plataformas a nivel mundial. Esta plataforma busca facilitar el libre acceso a los datos de biodiversidad del mundo y está integrada por representantes gubernamentales o científicos de los países miembros, coordinados desde el Secretariado GBIF en Copenhague, Dinamarca (Guatemala participa como país asociado desde diciembre de 2021. 
 
-Para aprender más acerca de intercambio de información (archivos .csv) con la Integrated Publishing Tool, consultar con el nodo GBIF Guatemala.
+|![GBIF](https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/GBIF.jpg?raw=true)|
+
+Para publicar datos de Colecciones en GBIF se necesita cumplir con tres puntos importantes:
+
+1. La institución que aloja físicamente la colección debe contar con un **perfil de publicador** activo en GBIF. Esto se tramita directamente con [GBIF](https://www.gbif.org/become-a-publisher).
+2. Los datos de las colecciones deben estar en **formato estandarizado** Darwin Core (y los respectivos formatos estandarizados para extensiones). Esto se logra utilizando Sistemas de Manejo de Colecciones, como el **Portal de Biodiversidad de Guatemala** (se obtienen Archivos Darwin Core), o rellenando una plantilla en Excel (se obtienen archivos .csv).
+3. Solicitar acceso a una Instalación que permita la publicación de este archivo Darwin Core o .csv hacia GBIF. En Guatemala existen dos opciones: la instalación Symbiota del [**Portal de Biodiversidad de Guatemala**](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) (activa desde septiembre de 2020), y la instalación IPT de GBIF Guatemala (activa desde mayo 2022).
+
+
+- Para utilizar la instalación Symbiota del **Portal de Biodiversidad de Guatemala**, ir a la sección **Colecciones** > [**Publicación en GBIF**](https://guatemalaportal.github.io/docs/colecciones/gbif/publicar/).
+
+- Para aprender más acerca de intercambio de información (archivos .csv) con la Integrated Publishing Tool, consultar con el nodo GBIF Guatemala.
+
+|![Ruta](https://user-images.githubusercontent.com/69399374/233875671-dd39e593-1b84-453e-bdc4-b1ac1ad78a21.jpg)|
+|:--:|
+|Rutas para publicar datos de Colecciones Biológicas de Guatemala en GBIF|.
 
 ---
 
 ## Sistema Nacional de Información Sobre Diversidad Biológica de Guatemala -SNIBgt-
 
-El SNIBgt es un agregador e información basado en el [Atlas of Living Australia](https://living-atlases.gbif.org/participants/snibgt/). Esta plataforma es el agregado de información oficial del país, y es manejado por el Consejo Nacional de Áreas Protegidas.
+El SNIBgt es un agregador de información basado en el [Atlas of Living Australia](https://living-atlases.gbif.org/participants/snibgt/). Esta plataforma es el agregado de información oficial del país, y es manejado por el Consejo Nacional de Áreas Protegidas.
 
-No existe documentación disponible para conocer acerca del intercambio de **datos de colecciones** (registros de especímenes). Sin embargo, fue posible hacer el ejercicio de subir un listado de especies y los pasos serán descritos a continuación. 
+|![LivingAtlas](https://user-images.githubusercontent.com/69399374/233875542-a8016d94-67b7-4fb4-9862-5f950e84cf70.jpg)|
+|
+
+Los datos de especímenes que integran este agregador provienen directamente de **GBIF**, por lo que las colecciones publicadas desde la instalación del **Portal de Biodiversidad de Guatemala** serán incorporadas automáticamente (aunque no actualizadas). No existe documentación disponible para conocer el procedimiento para actualizaro las colecciones captadas por el SNIBgt desde GBIF. 
+
+Un tipo de archivo que sí puede ser incorporado directamente en el SNIBgt son los Listados de Especies. Desde el **Portal de Biodiversidad de Guatemala** se pueden generar búsquedas de ciertas regiones o grupos taxonómicos para elaborar estos listados (ver la sección de [**Listados de Especies en el Portal de Biodiversidad**](https://guatemalaportal.github.io/docs/listados/listados/)). Una vez generados estos listados, pueden ser incorporados al SNIBgt como un archivo de texto. 
 
 - **Descarga de Listado de Especies desde el Portal de Biodiversidad**
 
 **1.** Realizar una búsqueda con los parámetros deseados para generar un listado de especies.
 
-|-![PortalChecklist1](https://user-images.githubusercontent.com/69399374/233867636-6e87bd79-2da3-4f20-9980-eb8f657954b7.jpg)|
+|![PortalChecklist1](https://user-images.githubusercontent.com/69399374/233867636-6e87bd79-2da3-4f20-9980-eb8f657954b7.jpg)|
 
 **2.** Obtener el listado de especies a partir de la búsqueda.
+
 |![PortalChecklist2](https://user-images.githubusercontent.com/69399374/233867659-5ce59d35-6bd8-4fa9-9cb9-eaf69492adfe.jpg)|
 
 
@@ -123,7 +146,6 @@ No existe documentación disponible para conocer acerca del intercambio de **dat
 
 ![Checklist18](https://user-images.githubusercontent.com/69399374/233865274-6554e329-5183-4057-8b2e-5a9f853a044b.jpg)
 
-
 **14.** Seleccionar la opción "Delete" si quiere borrar el listado.
 
 |![Checklist19](https://user-images.githubusercontent.com/69399374/233865326-e18f9e4f-21a2-406b-a15b-ebb18b564516.jpg)|
@@ -131,3 +153,5 @@ No existe documentación disponible para conocer acerca del intercambio de **dat
 **15.** El listado ha sido eliminado.
 
 |![Checklist20](https://user-images.githubusercontent.com/69399374/233865350-368e1bed-fcc3-402d-82bd-6f91c7c05de1.jpg)|
+
+
