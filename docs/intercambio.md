@@ -127,8 +127,7 @@ Un tipo de archivo que sí puede ser incorporado directamente en el SNIBgt son l
 
 **9.** Saldrá un mensaje de error (se asume) porque este tipo de archivos no contienen registros de especímenes u observaciones.
 
-|![Checklist13](https://user-images.githubusercontent.com/69399374/233864951-319d3c97-63ad-42cf-b95b-f5a546a2317f.jpg)|
-
+|![Checklist13](https://user-images.githubusercontent.com/69399374/233898656-5f60329b-016e-4a5e-8edd-0020130cc174.jpg)|
 
 **10.** Ir a la página principal de Listados de Especies, su listado aparecerá junto a todos los disponibles para el público. Si su listado es privado, sólo usted podrá observarlo.
 
