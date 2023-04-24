@@ -38,7 +38,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 - Orellana, S. (2022, Septiembre). **Portales Symbiota**. Conferencista Invitada. Taller de Manejo de Colecciones de Historia Natural, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia, Virtual.
 
-- Orellana, S. (2022, Septiembre). **Digitalizando Colecciones de Historia Natural en Guatemala**. Conferencista Invitada. [Connecting Collections Workshop Series](https://statistical-genetics.com/2022/08/connecting-collections-workshop-series/). Organizado por los nodos GBIF de Ecuador, Argentina, Guatemala y por la Sociedad para la Preservación de Colecciones de Historia Natural, Virtual. [Recording](https://www.youtube.com/watch?v=lnlnVE7NaKo&t=1188s).
+- Orellana, S. (2022, Septiembre). **Digitalizando Colecciones de Historia Natural en Guatemala**. Conferencista Invitada. [Connecting Collections Workshop Series](https://statistical-genetics.com/2022/08/connecting-collections-workshop-series/). Organizado por los nodos GBIF de Ecuador, Argentina, Guatemala y por la Sociedad para la Preservación de Colecciones de Historia Natural, Virtual. [Grabacón](https://www.youtube.com/watch?v=lnlnVE7NaKo&t=1188s).
 
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/Digitalizaci%C3%B3nGBIF.jpg?raw=true" alt="Digitalización en Guatemala">](https://www.youtube.com/watch?v=lnlnVE7NaKo&t=1188s)|
 
