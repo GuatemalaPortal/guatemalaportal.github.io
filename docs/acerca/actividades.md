@@ -26,6 +26,7 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 |[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portal/PortalDesign.jpg?raw=true" alt="Portal">](https://biodiversidad.gt/portal/)|
 |:--:|
 |Portal de Biodiversidad de Guatemala|
+
 ---
 
 ## Conferencias
