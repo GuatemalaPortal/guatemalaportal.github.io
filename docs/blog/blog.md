@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 has_children: true
-nav_order: 9
+nav_order: 14
 ---
 
 # Blog del Portal de Biodiversidad
