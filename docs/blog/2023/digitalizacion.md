@@ -1,13 +1,15 @@
 ---
 layout: default
 title: Digitalización
-parent: Blog
+parent: Comunidad
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Digitalización de la Colección de Crustáceos USAC
-Conozca más acerca del Portal [Symbiota](https://guatemalaportal.github.io/docs/acerca/symbiota/) de Biodiversidad de Guatemala.
+Por S. Orellana
+
+La Colección de Crustáceos USAC se encuentra en el Museo de Historia Natural USAC y cuenta con más de 500 especímenes marinos y terrestres.
 {: .fs-5 .fw-300 }
 
 |![ColecciónCrus](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/b395a673-95fb-4100-8029-4299d0cc43d6)|
@@ -17,7 +19,7 @@ Conozca más acerca del Portal [Symbiota](https://guatemalaportal.github.io/docs
 ---
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt![ColecciónCrus](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/bd1602df-fefa-46cb-a7ac-51eaa7911e83)
-) es el punto de encuentro para la comunidad de muchas #ColeccionesBiológicas nacionales. Además, una gran cantidad de usuarios también aprovechan este recurso académico, diseñado especialmente para nuestro país. El recorrido del trabajo con especímenes inicia desde su colecta, seguido por su preparación e identificación en las colecciones. Por ejemplo, la Colección de Crustáceos del Museo de Historia Natural USAC que contiene cientos de ejemplares marinos y terrestres. Curadores, generalmente con la ayuda de estudiantes y voluntarios, se han dedicado a digitalizar estos especímenes en el Portal de Biodiversidad, ingresando cuidadosamente los datos e imágenes en el formulario estandarizado, y georreferenciando los registros. Cada registro digitalizado se vuelve disponible automáticamente, por medio de una [ficha pública](https://biodiversidad.gt/portal/collections/individual/index.php?occid=308055) en el Portal de Biodiversidad de Guatemala con todos los datos, imágenes, coordenadas, y recursos asociados. 
+es el punto de encuentro para la comunidad de muchas #ColeccionesBiológicas nacionales. Además, una gran cantidad de usuarios también aprovechan este recurso académico, diseñado especialmente para nuestro país. El recorrido del trabajo con especímenes inicia desde su colecta, seguido por su preparación e identificación en las colecciones. Por ejemplo, la Colección de Crustáceos del Museo de Historia Natural USAC que contiene cientos de ejemplares marinos y terrestres. Curadores, generalmente con la ayuda de estudiantes y voluntarios, se han dedicado a digitalizar estos especímenes en el Portal de Biodiversidad, ingresando cuidadosamente los datos e imágenes en el formulario estandarizado, y georreferenciando los registros. Cada registro digitalizado se vuelve disponible automáticamente, por medio de una [ficha pública](https://biodiversidad.gt/portal/collections/individual/index.php?occid=308055) en el Portal de Biodiversidad de Guatemala con todos los datos, imágenes, coordenadas, y recursos asociados. 
 
 
 |![FormularioCangrejo2](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/771a953e-c7bb-4812-8bec-2189ae9cfd16)|
