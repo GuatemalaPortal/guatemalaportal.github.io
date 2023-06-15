@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Blog
+title: Crustáceos USAC
+parent: Blog
 has_children: false
 nav_order: 1
 ---
