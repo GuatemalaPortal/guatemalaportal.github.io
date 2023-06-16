@@ -10,8 +10,6 @@ Conozca más acerca de la comunidad del [Portal de Biodiversidad de Guatemala](h
 {: .fs-5 .fw-300 }
 
 ---
-## 2023
-## Junio
 
-## [Digitalización de la Colección de Crustáceos USAC](https://guatemalaportal.github.io/docs/blog/2023/digitalizacion)
----
+|![PortalCangrejo](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/99711e06-8463-483c-8fe2-0fd34e33f2e5)|
+
