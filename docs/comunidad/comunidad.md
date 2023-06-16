@@ -87,9 +87,25 @@ La mayoría de participantes indicó que utiliza la información obtenida del po
 
 ## Beneficios obtenidos a partir del Portal de Biodiversidad
 
-La mayoría de participantes indicó que utiliza la información obtenida del portal en sus **investigaciones científicas**. Otras utilidades incluyen uso personal, investigaciones universitarias, reportes de trabajo. Ningún participante indicó que la información en el Portal no ha tenido ningún uso para ellos.
+Un 87% de los participantes indicó que el mayor beneficio obtenido a partir del Portal de Biodiversidad ha sido el **aprendizaje acerca de digitalización y datos de biodiversidad**. Otros beneficios importantes son la obtención de datos para investigaciones científicas (profesionales y estudiantiles), y **visibilidad** para instituciones e investigadores. 
 
-|![Copy of Poll Guatemala Portal(13)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/14b7ca0c-b86c-4792-a228-1f3e6883004c)|
+|![Copy of Poll Guatemala Portal(15)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/d33fa11e-6f06-423f-b23f-0ae06cfadb03)|
+|:--:|
+|Usos de la información en el Portal de Biodiversidad de Guatemala.|
+
+## Utilidad de los recursos compartidos
+
+El 100% de participantes indicó que los recursos relacionados con el Portal de Biodiversidad compartidos son útiles, incluyendo **documentación**, **capacitaciones**, y publicaciones en **redes sociales**. 
+
+|![Copy of Poll Guatemala Portal(16)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/81c0d87d-edcd-46e9-9f31-0a259fb27261)|
+|:--:|
+|Usos de la información en el Portal de Biodiversidad de Guatemala.|
+
+## Enfoque del Portal de Biodiversidad
+
+El 100% de participantes indicó que los recursos relacionados con el Portal de Biodiversidad compartidos son útiles, incluyendo **documentación**, **capacitaciones**, y publicaciones en **redes sociales**. 
+
+|![Copy of Poll Guatemala Portal(16)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/81c0d87d-edcd-46e9-9f31-0a259fb27261)|
 |:--:|
 |Usos de la información en el Portal de Biodiversidad de Guatemala.|
 
