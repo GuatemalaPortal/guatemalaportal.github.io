@@ -9,7 +9,7 @@ nav_order: 2
 # Digitalización de la Colección de Crustáceos USAC
 Por Samanta Orellana
 
-El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es el punto de encuentro para la comunidad de muchas colecciones científicas nacionales. Además, una gran cantidad de usuarios también aprovechan este recurso académico, diseñado especialmente para nuestro país. A continuación, compartimos un poco acerca del proceso de digitalización de la [Colección de Crustáceos USAC](https://tinyurl.com/usacru). Museo de Historia Natural USAC y cuenta con más de 500 especímenes marinos y terrestres.
+El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es el punto de encuentro para la comunidad de muchas colecciones científicas nacionales. Además, una gran cantidad de usuarios también aprovecha este recurso académico, diseñado especialmente para nuestro país. A continuación, compartimos un poco acerca del proceso de digitalización de la [Colección de Crustáceos USAC](https://tinyurl.com/usacru). Museo de Historia Natural USAC y cuenta con más de 500 especímenes marinos y terrestres.
 {: .fs-5 .fw-300 }
 
 |![ColecciónCrus](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/b395a673-95fb-4100-8029-4299d0cc43d6)|
