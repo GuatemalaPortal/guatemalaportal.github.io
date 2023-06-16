@@ -97,8 +97,6 @@ Un 87% de los participantes indicó que el mayor beneficio obtenido a partir del
 
 El 100% de participantes indicó que los recursos relacionados con el Portal de Biodiversidad compartidos son útiles, incluyendo [documentación](https://guatemalaportal.github.io/), [capacitaciones](https://guatemalaportal.github.io/docs/acerca/actividades/), y publicaciones en redes sociales. 
 
-[Twitter](https://twitter.com/GuatemalaPortal){: .btn .btn-blue } [Facebook](https://www.facebook.com/GuatemalaPortal){: .btn .btn-blue }  [Instagram](https://www.instagram.com/guatemalaportal/){: .btn .btn-blue } 
-
 |![Copy of Poll Guatemala Portal(16)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/81c0d87d-edcd-46e9-9f31-0a259fb27261)|
 |:--:|
 |Utilidad de los recursos compartidos para la comunidad del Portal de Biodiversidad de Guatemala.|
@@ -128,6 +126,8 @@ Compartimos algunos de los comentarios realizados por los participantes de la en
 
 ---
 
-Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar nuestra encuesta y motivarnos a continuar con este proyecto académico en beneficio de las colecciones científicas del país, y de los investigadores de biodiversidad en el país. Los motivamos a mantenerse en contacto y a seguir atentos a nuestras próximas actividades.
+Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar nuestra encuesta y motivarnos a continuar con este proyecto académico en beneficio de las colecciones científicas del país, y de los investigadores de biodiversidad en el país. ¡Los motivamos a aeguir atentos a nuestras redes sociales para participar en próximas actividades!
 
 |![GRACIAS](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/4855b9b1-7c51-459b-a0de-1d7f91262eab)|
+
+[Twitter](https://twitter.com/GuatemalaPortal){: .btn .btn-blue } [Facebook](https://www.facebook.com/GuatemalaPortal){: .btn .btn-blue }  [Instagram](https://www.instagram.com/guatemalaportal/){: .btn .btn-blue } 
