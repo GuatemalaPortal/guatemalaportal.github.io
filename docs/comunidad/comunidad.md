@@ -68,5 +68,29 @@ La mayoría de participantes indicó que ha conocido más del Portal de Biodiver
 |:--:|
 |Interacción con la comunidad del Portal de Biodiversidad de Guatemala.|
 
+## Herramientas en el Portal de Biodiversidad
+
+Las herramientas más utilizadas en el Portal de Biodiversidad, son las opciones de **búsqueda de información e imágenes**. Las herramientas prioritarias del Portal para el **manejo de colecciones** también poseen un alto porcentaje de uso entre los usuarios, así como la generación de **listados de especies**. Todos los participantes indican que han utilizado alguna de las herramienta disponibles en el Portal.
+
+|![Copy of Poll Guatemala Portal(14)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/140ed441-ada2-4981-b2ea-6a8974d0ca0c)
+|
+|:--:|
+|Usos de las herramientas del Portal de Biodiversidad de Guatemala.|
+
+## Usos de la información en el Portal de Biodiversidad
+
+La mayoría de participantes indicó que utiliza la información obtenida del portal en sus **investigaciones científicas**. Otras utilidades incluyen uso personal, investigaciones universitarias, reportes de trabajo. Ningún participante indicó que la información en el Portal no ha tenido ningún uso para ellos.
+
+|![Copy of Poll Guatemala Portal(13)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/14b7ca0c-b86c-4792-a228-1f3e6883004c)|
+|:--:|
+|Usos de la información en el Portal de Biodiversidad de Guatemala.|
+
+## Beneficios obtenidos a partir del Portal de Biodiversidad
+
+La mayoría de participantes indicó que utiliza la información obtenida del portal en sus **investigaciones científicas**. Otras utilidades incluyen uso personal, investigaciones universitarias, reportes de trabajo. Ningún participante indicó que la información en el Portal no ha tenido ningún uso para ellos.
+
+|![Copy of Poll Guatemala Portal(13)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/14b7ca0c-b86c-4792-a228-1f3e6883004c)|
+|:--:|
+|Usos de la información en el Portal de Biodiversidad de Guatemala.|
 
 ---
