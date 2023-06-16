@@ -131,3 +131,5 @@ Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar n
 |![GRACIAS](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/4855b9b1-7c51-459b-a0de-1d7f91262eab)|
 
 [Twitter](https://twitter.com/GuatemalaPortal){: .btn .btn-blue } [Facebook](https://www.facebook.com/GuatemalaPortal){: .btn .btn-blue }  [Instagram](https://www.instagram.com/guatemalaportal/){: .btn .btn-blue } 
+
+[<img src="https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/5dd2adf1-0aee-45b1-9bd5-1711728554c1" alt="Logo Symbiota" width="180" height="120" >](https://symbiota.org/es)
