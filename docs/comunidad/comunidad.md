@@ -117,6 +117,16 @@ Al consultar si debería reducirse el enfoque del Portal, por ejemplo su nivel d
 
 ---
 
+## Comentarios
+
+Compartimos algunos de los comentarios realizados por los participantes de la encuesta.
+
+|![Copy of Poll Guatemala Portal(21)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/b5eb9041-e0f6-4361-8173-add0e3acbce0)|
+|![Copy of Poll Guatemala Portal(20)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/8d416d7b-b25c-494a-b707-89f37cf0a41d)|
+
+
+
+
 Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar nuestra encuesta y motivarnos a continuar con este proyecto académico en beneficio de las colecciones científicas del país, y de los investigadores de biodiversidad en el país.
 
 ![GRACIAS](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/4855b9b1-7c51-459b-a0de-1d7f91262eab)
