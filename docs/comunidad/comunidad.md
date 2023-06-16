@@ -9,7 +9,7 @@ nav_order: 1
 # La Comunidad del Portal de Biodiversidad de Guatemala
 Por Samanta Orellana
 
-Recientemente, se llevó a cabo una encuesta a través de las redes sociales del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), para conocer más acerca de los usuarios y usos de la plataforma por la comunidad guatemalteca. El pasado 13 de junio de 2023 se realizó una charla para dar a conocer los resultados y conocer más acerca de las perspectivas de los participantes. A continuación se resume la información recabada.
+Recientemente, se realizó una encuesta por medio de las redes sociales del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), para conocer más acerca de los usuarios y usos de la plataforma por la comunidad guatemalteca. El pasado 13 de junio de 2023 se impartió una charla para compartir los resultados y dar a conocer más respecto de las perspectivas de los participantes. A continuación se resume la información recabada.
 {: .fs-5 .fw-300 }
 
 |![347648780_187626147239017_1562551750824055161_n](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/25122d9c-0ecf-4ad2-add2-299b657074f4)|
@@ -70,7 +70,7 @@ La mayoría de participantes indicó que ha conocido más del Portal de Biodiver
 
 ## Herramientas en el Portal de Biodiversidad
 
-Las herramientas más utilizadas en el Portal de Biodiversidad, son las opciones de **búsqueda de información e imágenes**. Las herramientas prioritarias del Portal para el **manejo de colecciones** también poseen un alto porcentaje de uso entre los usuarios, así como la generación de **listados de especies**. Todos los participantes indican que han utilizado alguna de las herramienta disponibles en el Portal.
+Las herramientas más utilizadas en el Portal de Biodiversidad, son las opciones de [búsqueda de información e imágenes](https://guatemalaportal.github.io/docs/informacion/busqueda/). Las herramientas prioritarias del Portal para el [manejo de colecciones](https://guatemalaportal.github.io/docs/colecciones/manejo/) también poseen un alto porcentaje de uso entre los usuarios, así como la generación de [listados de especies](https://guatemalaportal.github.io/docs/listados/listados/). Todos los participantes indican que han utilizado alguna de las herramienta disponibles en el Portal.
 
 |![Copy of Poll Guatemala Portal(14)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/140ed441-ada2-4981-b2ea-6a8974d0ca0c)
 |
@@ -95,7 +95,9 @@ Un 87% de los participantes indicó que el mayor beneficio obtenido a partir del
 
 ## Utilidad de los recursos para la comunidad
 
-El 100% de participantes indicó que los recursos relacionados con el Portal de Biodiversidad compartidos son útiles, incluyendo **documentación**, **capacitaciones**, y publicaciones en **redes sociales**. 
+El 100% de participantes indicó que los recursos relacionados con el Portal de Biodiversidad compartidos son útiles, incluyendo [documentación](https://guatemalaportal.github.io/), [capacitaciones](https://guatemalaportal.github.io/docs/acerca/actividades/), y publicaciones en redes sociales. 
+
+[Twitter](https://twitter.com/GuatemalaPortal){: .btn .btn-blue } [Facebook](https://www.facebook.com/GuatemalaPortal){: .btn .btn-blue }  [Instagram](https://www.instagram.com/guatemalaportal/){: .btn .btn-blue } 
 
 |![Copy of Poll Guatemala Portal(16)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/81c0d87d-edcd-46e9-9f31-0a259fb27261)|
 |:--:|
@@ -107,13 +109,13 @@ Para conocer la percepción acerca del Portal de Biodiversidad de Guatemala entr
 
 |![Copy of Poll Guatemala Portal(17)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/41d9c9ad-9a80-404a-a4f9-af5d70f49b04)|
 |:--:|
-|Imagen del Portal de Biodiversidad de Guatemala.|
+|Formato del Portal de Biodiversidad de Guatemala.|
 
 Al consultar si debería reducirse el enfoque del Portal, por ejemplo su nivel de país o abarcar menos grupos taxonómicos, el 77% indicó que no sería adecuado. Por el contrario, al consultar si el enfoque del Portal debería ser expandido a otras regiones o países, el 77% respondió que sería un cambio oportuno y se sugirió el beneficio de, por ejemplo encontrar datos de la región mesoamericana disponibles en un solo sitio. Al consultar si sería oportuna la conclusión definitiva del proyecto del Portal de Biodiversidad, un 94% indicó que no lo sería. Los usuarios comentaron que el acceso al Portal de Biodiversidad de Guatemala ha beneficiado a las colecciones nacionales, y ha facilitado desde la obtención de datos, hasta la identificación de especímenes.   
 
 |![Copy of Poll Guatemala Portal(18)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/964a1031-ce16-46d3-8527-8a992447e659)|
 |:--:|
-|Imagen del Portal de Biodiversidad de Guatemala.|
+|Enfoque del Portal de Biodiversidad de Guatemala.|
 
 ---
 
@@ -124,9 +126,8 @@ Compartimos algunos de los comentarios realizados por los participantes de la en
 |![Copy of Poll Guatemala Portal(21)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/b5eb9041-e0f6-4361-8173-add0e3acbce0)|
 |![Copy of Poll Guatemala Portal(20)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/8d416d7b-b25c-494a-b707-89f37cf0a41d)|
 
+---
 
+Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar nuestra encuesta y motivarnos a continuar con este proyecto académico en beneficio de las colecciones científicas del país, y de los investigadores de biodiversidad en el país. Los motivamos a mantenerse en contacto y a seguir atentos a nuestras próximas actividades.
 
-
-Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar nuestra encuesta y motivarnos a continuar con este proyecto académico en beneficio de las colecciones científicas del país, y de los investigadores de biodiversidad en el país.
-
-![GRACIAS](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/4855b9b1-7c51-459b-a0de-1d7f91262eab)
+|![GRACIAS](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/4855b9b1-7c51-459b-a0de-1d7f91262eab)|
