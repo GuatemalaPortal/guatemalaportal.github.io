@@ -46,7 +46,7 @@ Los participantes podían elegir múltiples opciones para describir su ocupació
 
 ## Participación en el Portal de Biodiversidad
 
-Un 69% de participantes indicó poseer una cuenta en el Portal de Biodiversidad de Guatemala, pero únicamente el 52% confirmó tener permisos de administrador o editor en alguno de los perfiles virtuales de colección. Esto indica que existen usuarios que integran el Portal sin estar afiliados a una colección en particular. Poseer una cuenta en el Portal no es necesario para acceder a los datos, pero sí es indispensable para utilizar herramientas como la generación y edición de listados de especies. 
+Un 69% de participantes indicó poseer una [cuenta](https://guatemalaportal.github.io/docs/unirse) en el Portal de Biodiversidad de Guatemala, pero únicamente el 52% confirmó tener permisos de administrador o editor en alguno de los perfiles virtuales de colección. Esto indica que existen usuarios que integran el Portal sin estar afiliados a una colección en particular. Poseer una cuenta en el Portal no es necesario para acceder a los datos, pero sí es indispensable para utilizar herramientas como la generación y edición de [listados de especies](https://guatemalaportal.github.io/docs/listados/listados/). 
 
 |![Copy of Poll Guatemala Portal(9)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/4098b28e-aa2e-4efa-8901-e063a888a0d8)|
 |:--:|
@@ -54,7 +54,7 @@ Un 69% de participantes indicó poseer una cuenta en el Portal de Biodiversidad 
 
 ## Frecuencia de uso e idioma preferido
 
-El 32% de los participantes indicó hacer uso **muy frecuente** (4-5) del Portal de Biodiversidad de Guatemala. Este porcentaje incluye **curadores**, investigadores, docentes y estudiantes de universidades públicas y privadas, organizaciones no gubernamentales y empresas. El 92% de usuarios prefiere el **español** como el lenguaje habilitado en el Portal de Biodiversidad.
+El 32% de los participantes indicó hacer uso **muy frecuente** (4-5) del Portal de Biodiversidad de Guatemala. Este porcentaje incluye **curadores**, investigadores, docentes y estudiantes de universidades públicas y privadas, organizaciones no gubernamentales y empresas. El 92% de usuarios prefiere el **español** como el lenguaje habilitado en el Portal de Biodiversidad. Es importante mencionar que, desde 2020, se ha trabajado directamente en la traducción del Portal de Biodiversidad para facilitar esta opción a los usuarios.
 
 |![Copy of Poll Guatemala Portal(10)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/9fb1c43c-e396-4ef8-9670-056dc4fdb2e6)|
 |:--:|
