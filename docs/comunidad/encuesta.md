@@ -30,7 +30,7 @@ En total, **52 participantes en Guatemala** respondieron la encuesta. La mayorí
 
 ## Profesiones y ocupaciones
 
-Todas las colecciones científicas que utilizan el Portal de Biodiversidad de Guatemala se encuentran en Museos, Escuelas e Institutos de Biología y son dirigidas por **biólogos**, por lo que no es sorprendente que la mayoría de usuarios (83%) pertenezcan a esta profesión. Además, se contó con la participación de agrónomos, acuicultores, ingenieros forestales y veterinarios. El grado académico de la mayoría de participantes (42%) es de Licenciatura, seguido por estudiantes universitarios (34%).
+Todas las colecciones científicas que utilizan el Portal de Biodiversidad de Guatemala se encuentran en Museos, Escuelas e Institutos de Biología y son dirigidas por **biólogos**, por lo que no es sorprendente que la mayoría de usuarios (83%) pertenezcan a esta profesión. Además, se contó con la participación de agrónomos, acuicultores, ingenieros forestales y veterinarios. El grado académico de la mayoría de participantes (42%) es de **Licenciatura**, seguido por **estudiantes universitarios** (34%).
 
 |![Copy of Poll Guatemala Portal(5)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/1e851c16-4f6f-4f2d-ad9f-f0a926c71ed8)|
 |:--:|
@@ -38,7 +38,7 @@ Todas las colecciones científicas que utilizan el Portal de Biodiversidad de Gu
 
 ## Ocupaciones e Instituciones
 
-Los participantes podían elegir múltiples opciones para describir su ocupación. Más de la mitad (51%) se identificaron como **investigadores**, sin embargo, muchos eligieron una segunda opción, como curadores, docentes universitarios o estudiantes. Un 73% de los usuarios indicaron pertenecer a una universidad pública, pero también hubo participantes de organizaciones no gubernamentales, universidades privadas, instituciones gubernamentales y empresas. 
+Los participantes podían elegir múltiples opciones para describir su ocupación. Más de la mitad (51%) se identificaron como **investigadores**, sin embargo, muchos eligieron una segunda opción, como curadores, docentes universitarios o estudiantes. Un 73% de los usuarios indicaron pertenecer a una **universidad pública**, pero también hubo participantes de organizaciones no gubernamentales, universidades privadas, instituciones gubernamentales y empresas. 
 
 |![Copy of Poll Guatemala Portal(8)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/f67596e7-df7c-4f3d-bba9-d74a89f995cc)|
 |:--:|
@@ -126,7 +126,7 @@ Compartimos algunos de los comentarios realizados por los participantes de la en
 
 ---
 
-Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar nuestra encuesta y motivarnos a continuar con este proyecto académico en beneficio de las colecciones científicas del país, y de los investigadores de biodiversidad en el país. ¡Los motivamos a aeguir atentos a nuestras redes sociales para participar en próximas actividades!
+Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar nuestra encuesta y motivarnos a continuar con este proyecto académico en beneficio de las colecciones científicas y de los investigadores de biodiversidad en el país. ¡Los motivamos a seguir atentos a nuestras redes sociales para participar en próximas actividades!
 
 |![GRACIAS](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/4855b9b1-7c51-459b-a0de-1d7f91262eab)|
 
