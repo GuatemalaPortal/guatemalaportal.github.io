@@ -126,9 +126,11 @@ Compartimos algunos de los comentarios realizados por los participantes de la en
 
 Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar nuestra encuesta y por motivarnos a continuar con este proyecto académico, en beneficio de las colecciones científicas y de los investigadores de biodiversidad en el país. 
 
-|![GRACIAS](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/4855b9b1-7c51-459b-a0de-1d7f91262eab)|
-
 {: .highlight }
 **¡Los motivamos a seguir atentos a nuestras redes sociales para participar en próximas actividades!**
+
+|![GRACIAS](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/4855b9b1-7c51-459b-a0de-1d7f91262eab)|
+
+
 
 [Twitter](https://twitter.com/GuatemalaPortal){: .btn .btn-blue } [Facebook](https://www.facebook.com/GuatemalaPortal){: .btn .btn-blue }  [Instagram](https://www.instagram.com/guatemalaportal/){: .btn .btn-blue } 
