@@ -24,7 +24,7 @@ Aunque los usuarios principales del [Portal de Biodiversidad de Guatemala](https
 
 En total, **52 participantes en Guatemala** respondieron la encuesta. La mayoría de participantes fueron biólogos profesionales y estudiantes afiliados a instituciones universitarias públicas. Los participantes indicaron investigación científica, manejo de colecciones y aprendizaje acerca de digitalización y datos de biodiversidad, como los principales usos del Portal.   
 
-|![Copy of Poll Guatemala Portal(4)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/23a50d5a-dea4-4afd-8ef8-3f150e2461d8)|
+|![Copy of Poll Guatemala Portal(22)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/a7128c9c-7f5d-41bd-848a-27951d4fab7d)|
 |:--:|
 |Perfil general de los participantes.|
 
