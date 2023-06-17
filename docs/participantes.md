@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Participantes
-nav_order: 9
+parent: Colecciones
+nav_order: 1
 permalink: /docs/participantes
 ---
 
