@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Herramientas Avanzadas
-nav_order: 6
+nav_order: 7
 parent: Perfiles de Colecciones
 has_children: true
 ---
