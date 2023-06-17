@@ -33,11 +33,10 @@ El Portal de Biodiversidad de Guatemala forma parte de la red de [portales Symbi
 |:--:|
 |El equipo Symbiota en Arizona State University, Estados Unidos.|
 
-[Contactar](mailto:ayuda@symbiota.org) al equipo Symbiota si desea:
-- Solicitar un nuevo perfil de colecciones
-- Obtener asistencia para el ingreso o manejo de datos
-- Obtener asistencia técnica
-
+[Contactar](mailto:ayuda@symbiota.org) al equipo Symbiota si ya posee un perfil de colección en el Portal y desea:
+- Solicitar asistencia técnica avanzada (p.e. ingresar imágenes por lote)
+- Consultas acerca de capacidad de almacenamiento o herramientas adicionales para proyectos
+   
 <img src="https://symbiota.org/wp-content/uploads/SSHub_PNG-768x415.png" alt="SSH" width="470" height="250">
 
 [Symbiota](http://symbiota.org/es){: .btn .btn-green } 
