@@ -2,7 +2,7 @@
 layout: default
 title: Publicación en GBIF
 parent: Perfiles de Colecciones 
-nav_order: 7
+nav_order: 8
 ---
 
 
