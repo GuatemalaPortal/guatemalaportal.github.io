@@ -2,7 +2,7 @@
 layout: default
 title: Tipos de Datos
 parent: Perfiles de Colecciones
-nav_order: 1
+nav_order: 2
 ---
 
 
