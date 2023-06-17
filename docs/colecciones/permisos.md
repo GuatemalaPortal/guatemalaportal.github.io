@@ -2,7 +2,7 @@
 layout: default
 title: Tipos de Permisos
 parent: Perfiles de Colecciones
-nav_order: 3
+nav_order: 4
 ---
 
 # Tipos de Permisos en los Perfiles de Colección
