@@ -8,9 +8,6 @@ nav_order: 1
 
 # La Comunidad del Portal de Biodiversidad de Guatemala
 
-{: .highlight }
-Última actualización: 17-jun-2023
-
 Recientemente, se realizó una encuesta por medio de las redes sociales del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), para conocer más acerca de los usuarios y usos de la plataforma por la comunidad guatemalteca. El pasado 13 de junio de 2023 se impartió una charla para compartir los resultados y dar a conocer más respecto de las perspectivas de los participantes. A continuación se resume la información recabada.
 {: .fs-5 .fw-300 }
 
@@ -137,3 +134,6 @@ Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar n
 
 
 [Twitter](https://twitter.com/GuatemalaPortal){: .btn .btn-blue } [Facebook](https://www.facebook.com/GuatemalaPortal){: .btn .btn-blue }  [Instagram](https://www.instagram.com/guatemalaportal/){: .btn .btn-blue } 
+
+{: .highlight }
+Última actualización: 17-jun-2023
