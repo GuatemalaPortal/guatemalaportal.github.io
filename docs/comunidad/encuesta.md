@@ -7,7 +7,6 @@ nav_order: 1
 ---
 
 # La Comunidad del Portal de Biodiversidad de Guatemala
-Por Samanta Orellana
 
 Recientemente, se realizó una encuesta por medio de las redes sociales del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), para conocer más acerca de los usuarios y usos de la plataforma por la comunidad guatemalteca. El pasado 13 de junio de 2023 se impartió una charla para compartir los resultados y dar a conocer más respecto de las perspectivas de los participantes. A continuación se resume la información recabada.
 {: .fs-5 .fw-300 }
@@ -62,7 +61,7 @@ El 32% de los participantes indicó hacer uso **muy frecuente** (4-5) del Portal
 
 ## Interacción con la comunidad del Portal de Biodiversidad
 
-La mayoría de participantes indicó que ha conocido más del Portal de Biodiversidad por medio de **talleres, charlas y redes sociales**. Al menos un 85% ha participado en talleres en línea o en persona, y un 60% de esta porción ha participado en dos o más eventos. Las llamadas personalizadas y la documentación de Portal también han sido utilizadas para obtener más información.
+La mayoría de participantes indicó que ha conocido más del Portal de Biodiversidad por medio de [talleres](https://guatemalaportal.github.io/docs/acerca/actividades/#talleres), [charlas](https://guatemalaportal.github.io/docs/acerca/actividades/#conferencias) y redes sociales. Al menos un 85% ha participado en talleres en línea o en persona, y un 60% de esta porción ha participado en dos o más eventos. Las llamadas personalizadas y la documentación de Portal también han sido utilizadas para obtener más información.
 
 |![Copy of Poll Guatemala Portal(11)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/259b6254-d5e0-4fa6-a4cc-966f69390a93)|
 |:--:|
@@ -70,16 +69,15 @@ La mayoría de participantes indicó que ha conocido más del Portal de Biodiver
 
 ## Herramientas en el Portal de Biodiversidad
 
-Las herramientas más utilizadas en el Portal de Biodiversidad, son las opciones de [búsqueda de información e imágenes](https://guatemalaportal.github.io/docs/informacion/busqueda/). Las herramientas prioritarias del Portal para el [manejo de colecciones](https://guatemalaportal.github.io/docs/colecciones/manejo/) también poseen un alto porcentaje de uso entre los usuarios, así como la generación de [listados de especies](https://guatemalaportal.github.io/docs/listados/listados/). Todos los participantes indican que han utilizado alguna de las herramienta disponibles en el Portal.
+Las herramientas más utilizadas en el Portal de Biodiversidad, son las opciones de [búsqueda de información e imágenes](https://guatemalaportal.github.io/docs/informacion/busqueda/). Las herramientas prioritarias del Portal para el [manejo de colecciones](https://guatemalaportal.github.io/docs/colecciones/manejo/) también poseen un alto porcentaje de uso entre los usuarios, así como la generación de [listados de especies](https://guatemalaportal.github.io/docs/listados/listados/). Todos los participantes indican que han utilizado alguna de las herramientas disponibles en el Portal.
 
-|![Copy of Poll Guatemala Portal(14)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/140ed441-ada2-4981-b2ea-6a8974d0ca0c)
-|
+|![Copy of Poll Guatemala Portal(14)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/140ed441-ada2-4981-b2ea-6a8974d0ca0c)|
 |:--:|
 |Usos de las herramientas del Portal de Biodiversidad de Guatemala.|
 
 ## Usos de la información en el Portal de Biodiversidad
 
-La mayoría de participantes indicó que utiliza la información obtenida del portal en sus **investigaciones científicas**. Otras utilidades incluyen uso personal, investigaciones universitarias, reportes de trabajo. Ningún participante indicó que la información en el Portal no ha tenido ningún uso para ellos.
+La mayoría de participantes indicó que utiliza la información obtenida del Portal en sus **investigaciones científicas**. Otras utilidades incluyen uso personal, investigaciones universitarias, reportes de trabajo. Ningún participante indicó que la información en el Portal no ha tenido ningún uso para ellos.
 
 |![Copy of Poll Guatemala Portal(13)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/14b7ca0c-b86c-4792-a228-1f3e6883004c)|
 |:--:|
@@ -103,13 +101,13 @@ El 100% de participantes indicó que los recursos relacionados con el Portal de 
 
 ## Enfoque del Portal de Biodiversidad
 
-Para conocer la percepción acerca del Portal de Biodiversidad de Guatemala entre los usuarios, se realizaron preguntas acerca de la idoneidad del nombre, formato y enfoque de la plataforma. El 96% de participantes indicó que **el nombre del Portal es adecuado**, y un 94% indicó que el Portal debe **mantener su formato actual**. Sin embargo, más adelante los participantes indicaron que marcaron una respuesta negativa, comentaron que no cambiarían nada en el Portal, por lo que no se obtuvo sugerencias de modificaciones.   
+Para conocer la percepción acerca del Portal de Biodiversidad de Guatemala entre los usuarios, se realizaron preguntas acerca de la idoneidad del nombre, formato y enfoque de la plataforma. El 96% de participantes indicó que **el nombre del Portal es adecuado**, y un 94% indicó que el Portal debe **mantener su formato actual**. Sin embargo, los participantes que marcaron respuestas negativas comentaron más adelante que no cambiarían nada en el Portal, por lo que no se obtuvo sugerencias de modificaciones.   
 
 |![Copy of Poll Guatemala Portal(17)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/41d9c9ad-9a80-404a-a4f9-af5d70f49b04)|
 |:--:|
 |Formato del Portal de Biodiversidad de Guatemala.|
 
-Al consultar si debería reducirse el enfoque del Portal, por ejemplo su nivel de país o abarcar menos grupos taxonómicos, el 77% indicó que no sería adecuado. Por el contrario, al consultar si el enfoque del Portal debería ser expandido a otras regiones o países, el 77% respondió que sería un cambio oportuno y se sugirió el beneficio de, por ejemplo encontrar datos de la región mesoamericana disponibles en un solo sitio. Al consultar si sería oportuna la conclusión definitiva del proyecto del Portal de Biodiversidad, un 94% indicó que no lo sería. Los usuarios comentaron que el acceso al Portal de Biodiversidad de Guatemala ha beneficiado a las colecciones nacionales, y ha facilitado desde la obtención de datos, hasta la identificación de especímenes.   
+Al consultar si debería reducirse el **enfoque** del Portal, por ejemplo su nivel de país o abarcar menos grupos taxonómicos, el 77% indicó que no sería adecuado. Por el contrario, al consultar si el enfoque del Portal debería ser expandido a otras regiones o países, el 77% respondió que sería un cambio oportuno y se sugirió el beneficio de, por ejemplo encontrar datos de la región mesoamericana disponibles en un solo sitio. Al consultar si sería oportuna la conclusión definitiva del proyecto del Portal de Biodiversidad de Guatemala, un 94% indicó que no lo sería. Los usuarios comentaron que el acceso al Portal ha beneficiado a las colecciones nacionales, y ha facilitado desde el manejo y obtención de datos, hasta la identificación de especímenes.   
 
 |![Copy of Poll Guatemala Portal(18)](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/964a1031-ce16-46d3-8527-8a992447e659)|
 |:--:|
@@ -126,8 +124,11 @@ Compartimos algunos de los comentarios realizados por los participantes de la en
 
 ---
 
-Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar nuestra encuesta y motivarnos a continuar con este proyecto académico en beneficio de las colecciones científicas y de los investigadores de biodiversidad en el país. **¡Los motivamos a seguir atentos a nuestras redes sociales para participar en próximas actividades!**
+Agradecemos a cada uno de los participantes por tomarse el tiempo de contestar nuestra encuesta y por motivarnos a continuar con este proyecto académico, en beneficio de las colecciones científicas y de los investigadores de biodiversidad en el país. 
 
 |![GRACIAS](https://github.com/GuatemalaPortal/guatemalaportal.github.io/assets/69399374/4855b9b1-7c51-459b-a0de-1d7f91262eab)|
+
+{: .highlight }
+**¡Los motivamos a seguir atentos a nuestras redes sociales para participar en próximas actividades!**
 
 [Twitter](https://twitter.com/GuatemalaPortal){: .btn .btn-blue } [Facebook](https://www.facebook.com/GuatemalaPortal){: .btn .btn-blue }  [Instagram](https://www.instagram.com/guatemalaportal/){: .btn .btn-blue } 
