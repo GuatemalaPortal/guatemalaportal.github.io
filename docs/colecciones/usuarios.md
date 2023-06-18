@@ -46,6 +46,7 @@ A la fecha, existen más de 30 perfiles _en vivo_ en el [Portal de Biodiversidad
 
 
 - Sistema de Colecciones Biológicas de la Escuela de Biología
+[Sitio web oficial](https://cbm.ccqqfar.usac.edu.gt/)
 
 1. [Colección de Anélidos Clitelados (USACCli)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110)
 2. [Colección de Cnidarios (USACNIDARIOS)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=73)
@@ -62,14 +63,12 @@ A la fecha, existen más de 30 perfiles _en vivo_ en el [Portal de Biodiversidad
 13. [Cursos de Formación Profesional de Biología (MUSHNAT-Docencia)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=96)
  
 ---
----
 
 ## Centro Universitario de Zacapa -CUNZAC USAC-
 
 1. [Colección de Aves (CAZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49)
 2. [Colección de Insectos de Zacapa (ICZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43)
 
----
 ---
 
 ## Universidad del Valle de Guatemala
@@ -91,7 +90,4 @@ A la fecha, existen más de 30 perfiles _en vivo_ en el [Portal de Biodiversidad
 1. [Colección de Artrópodos (UVGC)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16)
 2. [Herbario UVAL (UVAL)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19)
 3. [Registros Fotográficos de Artrópodos (UVGFA)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=127)
-
----
----
 
