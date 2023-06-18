@@ -46,6 +46,7 @@ A la fecha, existen más de 30 perfiles _en vivo_ en el [Portal de Biodiversidad
 
 
 - Sistema de Colecciones Biológicas de la Escuela de Biología
+  
 [Sitio web oficial](https://cbm.ccqqfar.usac.edu.gt/)
 
 1. [Colección de Anélidos Clitelados (USACCli)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110)
