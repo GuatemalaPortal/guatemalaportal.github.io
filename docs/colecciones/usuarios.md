@@ -24,7 +24,7 @@ Listado de colecciones e instituciones guatemaltecas que utilizan el [Portal de 
 
 ---
 
-A la fecha (noviembre de 2022), existen 33 perfiles _en vivo_ en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), para el manejo de colecciones biológicas del país. La mayoría de colecciones, ubicadas en los distintos centros e institutos de la **Universidad de San Carlos de Guatemala** (USAC) y la **Universidad del Valle de Guatemala** (UVG), se encuentran en la Ciudad de Guatemala. Las dos colecciones del Centro Universitario de Zacapa de la USAC, se encuentran en ese departamento.
+A la fecha, existen más de 30 perfiles _en vivo_ en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), para el manejo de colecciones biológicas del país. La mayoría de colecciones, ubicadas en los distintos centros e institutos de la **Universidad de San Carlos de Guatemala** (USAC) y la **Universidad del Valle de Guatemala** (UVG), se encuentran en la Ciudad de Guatemala. Las dos colecciones del Centro Universitario de Zacapa de la USAC, se encuentran en ese departamento.
 
 
 | <img src="https://www.simplemappr.net/map/19286" alt="" />| 
