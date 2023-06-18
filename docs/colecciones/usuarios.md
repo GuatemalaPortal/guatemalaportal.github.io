@@ -34,7 +34,9 @@ A la fecha (noviembre de 2022), existen 33 perfiles _en vivo_ en el [Portal de B
 ---
 ---
 
-- Centro de Estudios Conservacionistas -CECON-
+## Universidad de San Carlos de Guatemala
+
+- Centro de Estudios Conservacionistas -CECON- USAC
 
 1. [Herbario USCG (USCG)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=21)
 2. [Herbario USCG-Briófitos (USCG Briófitos)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=128)
@@ -42,15 +44,6 @@ A la fecha (noviembre de 2022), existen 33 perfiles _en vivo_ en el [Portal de B
 4. [Herbario USCG-Líquenes (USCG Líquenes)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=91)
 5. [Colección de Frutos y Semillas, Jardín Botánico CECON](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=117)
 
----
----
-
-## Centro Universitario de Zacapa -CUNZAC-
-
-1. [Colección de Aves (CAZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49)
-2. [Colección de Insectos de Zacapa (ICZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43)
-
-## Universidad de San Carlos de Guatemala
 
 - Sistema de Colecciones Biológicas de la Escuela de Biología
 
@@ -68,6 +61,14 @@ A la fecha (noviembre de 2022), existen 33 perfiles _en vivo_ en el [Portal de B
 12. [Registros Fotográficos de Vertebrados (USACF)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=8)
 13. [Cursos de Formación Profesional de Biología (MUSHNAT-Docencia)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=96)
  
+---
+---
+
+## Centro Universitario de Zacapa -CUNZAC USAC-
+
+1. [Colección de Aves (CAZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49)
+2. [Colección de Insectos de Zacapa (ICZ)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43)
+
 ---
 ---
 
