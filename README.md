@@ -6,6 +6,6 @@ Sitio web [aquí](https://guatemalaportal.github.io).
 
 # Contactos
 
-- Samanta Orellana, Arizona State University, sorellana@asu.edu.
+- Samanta Orellana, Instituto de Biodiversidad de la Universidad de Kansas.
 
 
